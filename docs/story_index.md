@@ -1,0 +1,108 @@
+# 明日方舟剧情wiki 活动总表
+ 
+
+| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：xxxxx           |
+|:----------------------------|
+| 虽然在生成的过程中以尽量避免，但是错误，幻觉等等仍然无法完全避免。所以本页面内容以娱乐为主，切勿当成一手来源。发现错误请open issue或者b站私信作者进行修改。|
+
+
+
+
+    目前已知问题（会在将来尽量fix）：
+    -  部分页面有已知幻觉；
+    -  SS/主线/故事集排序
+    
+## 主线 (共计:16)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [靶向药物](stories/main_5.md) | [慈悲灯塔](stories/main_14.md) | [淬火尘霾](stories/main_11.md) | [恶兆湍流](stories/main_13.md) | [二次呼吸](stories/main_3.md) |
+| [风暴瞭望](stories/main_9.md) | [黑暗时代·上](stories/main_0.md) | [黑暗时代·下](stories/main_1.md) | [急性衰竭](stories/main_4.md) | [惊霆无声](stories/main_12.md) |
+| [局部坏死](stories/main_6.md) | [苦难摇篮](stories/main_7.md) | [离解复合](stories/main_15.md) | [怒号光明](stories/main_8.md) | [破碎日冕](stories/main_10.md) |
+| [异卵同生](stories/main_2.md) |  |  |  |  |
+## Side Story (共计:43)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [巴别塔](stories/act33side.md) | [不义之财](stories/act28side.md) | [长夜临光](stories/act13side.md) | [尘影余音](stories/act18side.md) | [出苍白海](stories/act39side.md) |
+| [崔林特尔梅之金](stories/act29side.md) | [登临意](stories/act23side.md) | [多索雷斯假日](stories/act12side.md) | [风雪过境](stories/act14side.md) | [覆潮之下](stories/act18d3.md) |
+| [孤岛风云](stories/act15d0.md) | [孤星](stories/act25side.md) | [画中人](stories/act16d5.md) | [怀黍离](stories/act31side.md) | [火蓝之心](stories/act3d0.md) |
+| [火山旅梦](stories/act27side.md) | [揭幕者们](stories/act38side.md) | [空想花庭](stories/act26side.md) | [理想城：长夏狂欢季](stories/act20side.md) | [落叶逐火](stories/act24side.md) |
+| [绿野幻梦](stories/act19side.md) | [玛莉娅·临光](stories/act13d5.md) | [密林悍将归来](stories/act12d0.md) | [骑兵与猎人](stories/1stact.md) | [将进酒](stories/act15side.md) |
+| [生路](stories/act34side.md) | [生于黑夜](stories/act9d0.md) | [水晶箭行动](stories/act32side.md) | [泰拉饭](stories/act36side.md) | [太阳甩在身后](stories/act35side.md) |
+| [挽歌燃烧殆尽](stories/act41side.md) | [沃伦姆德的薄暮](stories/act11d0.md) | [吾导先路](stories/act16side.md) | [相见欢](stories/act40side.md) | [叙拉古人](stories/act21side.md) |
+| [喧闹法则](stories/act5d0.md) | [遗尘漫步](stories/act18d0.md) | [银心湖列车](stories/act30side.md) | [愚人号](stories/act17side.md) | [源石尘行动](stories/act17d0.md) |
+| [照我以火](stories/act22side.md) | [众生行记](stories/act42side.md) | [追迹日落以西](stories/act37side.md) |  |  |
+## 故事集 (共计:18)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [春分](stories/act14mini.md) | [此地之外](stories/act15d5.md) | [灯火序曲](stories/act7mini.md) | [好久不见](stories/act13mini.md) | [洪炉示岁](stories/act6d5.md) |
+| [红松林](stories/act9mini.md) | [眠于树影之中](stories/act15mini.md) | [去咧嘴谷](stories/act16mini.md) | [日暮寻路](stories/act12mini.md) | [熔炉“还魂”记](stories/act17mini.md) |
+| [如我所见](stories/act8mini.md) | [踏寻往昔之风](stories/act13d0.md) | [未尽篇章](stories/act11mini.md) | [我们明日见](stories/act18mini.md) | [午间逸话](stories/act7d5.md) |
+| [乌萨斯的孩子们](stories/act10d5.md) | [阴云火花](stories/act10mini.md) | [战地秘闻](stories/act4d0.md) |  |  |
+## 其他 (共计:322)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [暗境求生](stories/story_lionhd_set_1.md) | [安身之处](stories/story_clour_set_1.md) | [百年一日](stories/story_yu_set_1.md) | [白纸黑字](stories/story_mitm_set_1.md) | [保护者的本性](stories/story_billro_set_1.md) |
+| [被折射的星光](stories/story_kaitou_set_1.md) | [杯中旧事](stories/story_durnar_set_2.md) | [编织来日](stories/story_aosta_set_1.md) | [鬓旁的花](stories/story_sleach_set_2.md) | [玻璃窗外](stories/story_papyrs_set_1.md) |
+| [不合时宜](stories/story_zebra_set_1.md) | [不见尽头的旅途](stories/story_skadi_set_1.md) | [不朽](stories/story_cast3_set_1.md) | [长夏未尽](stories/story_malist_set_1.md) | [沉痛转机](stories/story_savage_set_1.md) |
+| [成长](stories/story_sunbr_set_2.md) | [憧憬](stories/story_wildmn_set_1.md) | [铳声回响](stories/story_spuria_set_1.md) | [充实的假期](stories/story_bison_set_1.md) | [触不可及](stories/story_bluep_set_1.md) |
+| [出行计划](stories/story_forcer_set_1.md) | [吹起未来的雪花](stories/story_sntlla_set_1.md) | [纯属意外](stories/story_gdglow_set_1.md) | [大慈恻隐](stories/story_ncdeer_set_1.md) | [大侦探探案集·卷一](stories/story_mm_set_1.md) |
+| [代表作](stories/story_chiave_set_1.md) | [旦夕](stories/story_dusk_set_1.md) | [当我们人生开始时](stories/story_nowell_set_1.md) | [道路](stories/story_chen2_set_2.md) | [灯火微明](stories/story_irene_set_1.md) |
+| [敌人](stories/story_excu_set_2.md) | [第五类接触](stories/story_mizuki_set_1.md) | [第一封信](stories/story_heidi_set_1.md) | [独家访谈](stories/story_sophia_set_1.md) | [独行之人](stories/story_firwhl_set_1.md) |
+| [独奏曲](stories/story_horn_set_1.md) | [锻造](stories/story_hpsts_set_1.md) | [夺包奇遇](stories/story_snakek_set_1.md) | [额外的工作](stories/story_skgoat_set_1.md) | [额外训练](stories/story_durnar_set_1.md) |
+| [二次冲锋](stories/story_fang_set_1.md) | [飞进窗的羽兽](stories/story_ctable_set_1.md) | [愤怒的布洛卡](stories/story_broca_set_2.md) | [风暖寒林](stories/story_breeze_set_1.md) | [风情街的日与夜](stories/story_bryota_set_1.md) |
+| [风雪代为传达](stories/story_qanik_set_1.md) | [复还的羽兽](stories/story_buildr_set_1.md) | [复耀](stories/story_astesi_set_2.md) | [赴罪](stories/story_f12yin_set_2.md) | [改变](stories/story_catap_set_2.md) |
+| [改变中的不变](stories/story_angel_set_2.md) | [改建计划](stories/story_flower_set_1.md) | [该做的事](stories/story_vigna_set_1.md) | [干员间切磋指南](stories/story_tiger_set_1.md) | [高楼之上](stories/story_mostma_set_1.md) |
+| [共同建设乌提卡领](stories/story_lessng_set_1.md) | [共舞](stories/story_tecno_set_1.md) | [孤灯](stories/story_ebnhlz_set_1.md) | [孤独的舞者](stories/story_hamoni_set_1.md) | [怪物](stories/story_bldsk_set_1.md) |
+| [关键人物](stories/story_strong_set_2.md) | [归属](stories/story_chen2_set_1.md) | [归乡](stories/story_totter_set_2.md) | [滚烫旧忆](stories/story_shotst_set_1.md) | [过滤星星](stories/story_greyy_set_1.md) |
+| [何处是我朋友的家](stories/story_doroth_set_1.md) | [合格的战士](stories/story_flint_set_1.md) | [合作](stories/story_phatom_set_1.md) | [黑色石头](stories/story_chnut_set_1.md) | [呼唤荒野](stories/story_bstalk_set_1.md) |
+| [护身符](stories/story_myrrh_set_1.md) | [花期](stories/story_podego_set_1.md) | [怀有希望之人](stories/story_haini_set_1.md) | [缓步前行](stories/story_jesica_set_1.md) | [幻日](stories/story_siege_set_1.md) |
+| [荒地巧匠](stories/story_humus_set_1.md) | [荒地生灵](stories/story_blkngt_set_1.md) | [黄沙归途](stories/story_beewax_set_1.md) | [黄沙觅迹](stories/story_ayer_set_1.md) | [徽章](stories/story_jesca2_set_1.md) |
+| [火山](stories/story_amgoat_set_2.md) | [计划](stories/story_totter_set_1.md) | [记录者](stories/story_folivo_set_1.md) | [机密任务](stories/story_inside_set_1.md) | [纪念日](stories/story_thorns_set_1.md) |
+| [甲板另一侧](stories/story_noirc_set_1.md) | [假定公正](stories/story_provs_set_1.md) | [健步如飞](stories/story_blackd_set_2.md) | [尖刺的滋味](stories/story_takila_set_1.md) | [简单的愿望](stories/story_bena_set_1.md) |
+| [坚固的冰](stories/story_svrash_set_2.md) | [缄默](stories/story_mantic_set_1.md) | [坚韧的羽毛](stories/story_crow_set_1.md) | [将错就错](stories/story_strong_set_1.md) | [脚步不停](stories/story_dagda_set_1.md) |
+| [姐妹](stories/story_lava_set_1.md) | [惊弓一夜](stories/story_haak_set_1.md) | [旧梦重温](stories/story_grabds_set_1.md) | [就任前夕](stories/story_swire_set_1.md) | [旧日歌谣](stories/story_puzzle_set_1.md) |
+| [距离](stories/story_sora_set_1.md) | [巨轮之下](stories/story_morgan_set_1.md) | [涓滴亦江流](stories/story_finlpp_set_1.md) | [绝对能行！](stories/story_ardign_set_1.md) | [看护](stories/story_lava_set_2.md) |
+| [苦涩的根茎](stories/story_glider_set_1.md) | [快乐之地](stories/story_caper_set_1.md) | [矿井里的太阳](stories/story_cement_set_1.md) | [来信](stories/story_angel_set_1.md) | [蓝调](stories/story_deepcl_set_2.md) |
+| [蓝色](stories/story_excu2_set_1.md) | [蓝色羽毛与歌](stories/story_cgbird_set_1.md) | [老兵的义肢](stories/story_harold_set_1.md) | [老工厂里的一支舞](stories/story_windft_set_1.md) | [老同学](stories/story_skfire_set_1.md) |
+| [乐园](stories/story_phenxi_set_1.md) | [冷暖自知](stories/story_robin_set_1.md) | [离乡之日](stories/story_shwaz_set_1.md) | [良方](stories/story_hibisc_set_1.md) | [两难](stories/story_shotst_set_2.md) |
+| [猎人的视线](stories/story_aprl_set_1.md) | [临行日](stories/story_brigid_set_1.md) | [六百镑](stories/story_rockr_set_1.md) | [留下的人](stories/story_ceylon_set_2.md) | [芦苇之心](stories/story_sddrag_set_1.md) |
+| [落水人](stories/story_nothin_set_1.md) | [落叶何归](stories/story_chimes_set_1.md) | [旅伴](stories/story_ash_set_1.md) | [旅途的注脚](stories/story_mostma_set_2.md) | [漫长旅途](stories/story_elysm_set_1.md) |
+| [满满的日程表](stories/story_otter_set_1.md) | [没写收件人的包裹](stories/story_aglina_set_1.md) | [梦想中的好生活](stories/story_rosesa_set_1.md) | [梦醒时分](stories/story_fuze_set_1.md) | [梦中过往](stories/story_gravel_set_1.md) |
+| [密林狂想](stories/story_zumama_set_1.md) | [命途](stories/story_helage_set_1.md) | [模糊的面容](stories/story_rdoc_set_1.md) | [墨迹已落](stories/story_bgsnow_set_1.md) | [那一场戏](stories/story_aprot2_set_1.md) |
+| [难猜的人](stories/story_svrash_set_1.md) | [难得认真](stories/story_bldsk_set_2.md) | [南墙](stories/story_hmau_set_1.md) | [难行长路](stories/story_bpipe_set_1.md) | [你愿意吗](stories/story_huang_set_1.md) |
+| [啮合不良](stories/story_ironmn_set_1.md) | [偶像宣传](stories/story_archet_set_1.md) | [泡沫](stories/story_platnm_set_1.md) | [平安祈愿](stories/story_mberry_set_1.md) | [苹果](stories/story_kroos_set_1.md) |
+| [苹果派对准备中！](stories/story_liskam_set_1.md) | [破壳](stories/story_bibeak_set_1.md) | [普通的一天](stories/story_shwaz_set_2.md) | [起点](stories/story_gnosis_set_1.md) | [起点](stories/story_nearl2_set_1.md) |
+| [奇景](stories/story_asbest_set_1.md) | [崎路前行](stories/story_prove_set_2.md) | [启明](stories/story_astesi_set_1.md) | [千年一叹](stories/story_nian_set_1.md) | [强中自有强中手](stories/story_headbr_set_1.md) |
+| [亲爱的兰道尔](stories/story_spikes_set_1.md) | [勤勉之人](stories/story_sidero_set_1.md) | [穷途不返](stories/story_grani_set_1.md) | [囚徒的幻梦](stories/story_breeze_set_2.md) | [缺失的陪伴](stories/story_sunbr_set_1.md) |
+| [任务报告填写指南](stories/story_myrtle_set_1.md) | [忍者之道](stories/story_yuki_set_1.md) | [容身之所](stories/story_fartth_set_1.md) | [如冰碎雪融](stories/story_qiubai_set_1.md) | [入职邀请](stories/story_aroma_set_1.md) |
+| [三餐一日](stories/story_lmlee_set_1.md) | [沙漠之虹](stories/story_tuye_set_1.md) | [尚待](stories/story_liskam_set_2.md) | [少年雇佣兵](stories/story_peper_set_1.md) | [深暗之梦](stories/story_plosis_set_1.md) |
+| [身为医者](stories/story_ansel_set_1.md) | [圣城晚照](stories/story_glaze_set_1.md) | [圣诞快乐！](stories/story_ghost_set_1.md) | [生命的萌芽](stories/story_quercu_set_2.md) | [生生不息](stories/story_mgllan_set_1.md) |
+| [生意场](stories/story_moeshd_set_1.md) | [时髦把戏](stories/story_utage_set_1.md) | [使命必达](stories/story_texas_set_1.md) | [蚀清的工牌](stories/story_serum_set_1.md) | [失去的时光](stories/story_melnte_set_1.md) |
+| [失水症](stories/story_glady_set_1.md) | [实验进行中](stories/story_halo_set_1.md) | [识字本](stories/story_frostl_set_1.md) | [授刀](stories/story_nblade_set_1.md) | [殊途](stories/story_swllow_set_1.md) |
+| [树犹如此](stories/story_flower_set_2.md) | [数字问题](stories/story_snsant_set_1.md) | [双刃剑](stories/story_vigil_set_2.md) | [谁是英雄](stories/story_spot_set_1.md) | [司雷霆者](stories/story_leizi_set_1.md) |
+| [送葬人](stories/story_excu_set_1.md) | [速食食品](stories/story_cutter_set_1.md) | [她的一小步](stories/story_estell_set_1.md) | [祂所关心的](stories/story_kjera_set_1.md) | [她所见](stories/story_aurora_set_1.md) |
+| [他乡故旧](stories/story_ethan_set_1.md) | [探求明天](stories/story_iana_set_1.md) | [糖果屋](stories/story_iris_set_1.md) | [特大号烤饼](stories/story_cerber_set_1.md) | [天空与流云](stories/story_cello_set_1.md) |
+| [同行人](stories/story_ascln_set_1.md) | [同事们](stories/story_prove_set_1.md) | [同舟](stories/story_weedy_set_1.md) | [团队坚盾](stories/story_blitz_set_1.md) | [挽歌](stories/story_robrta_set_1.md) |
+| [玩乐之间](stories/story_popka_set_1.md) | [晚霞下的演奏](stories/story_baslin_set_1.md) | [往日的象征](stories/story_franka_set_1.md) | [未来将至](stories/story_vigil_set_1.md) | [为你撑伞](stories/story_judge_set_1.md) |
+| [未完成](stories/story_orchid_set_1.md) | [未完的结局](stories/story_warmy_set_1.md) | [谓我何求](stories/story_shu_set_1.md) | [问道](stories/story_wanqin_set_1.md) | [我，即是“我”](stories/story_ghost_set_2.md) |
+| [无根之雨](stories/story_mlyss_set_1.md) | [无价的勋章](stories/story_jaksel_set_1.md) | [无名之花](stories/story_hbisc2_set_1.md) | [无人工房](stories/story_cammou_set_1.md) | [无伤通关](stories/story_kirara_set_2.md) |
+| [武为何物](stories/story_waaifu_set_1.md) | [午休时间](stories/story_durin_set_1.md) | [无需遗憾](stories/story_quartz_set_1.md) | [无字诅咒](stories/story_vodfox_set_1.md) | [昔日重现](stories/story_mint_set_1.md) |
+| [希瓦艾什的影子](stories/story_blackd_set_1.md) | [昔我往矣](stories/story_chyue_set_1.md) | [夕阳与朝日](stories/story_pianst_set_1.md) | [鲜花香水](stories/story_rope_set_1.md) | [向死寻生](stories/story_absin_set_1.md) |
+| [向舞台前进](stories/story_sora_set_2.md) | [小草的呼喊](stories/story_vrdant_set_1.md) | [小点心](stories/story_frncat_set_1.md) | [小队长](stories/story_ifrit_set_1.md) | [小队长](stories/story_melan_set_1.md) |
+| [小心火烛](stories/story_sqrrel_set_1.md) | [新潮旧浪](stories/story_lin_set_1.md) | [新的高峰](stories/story_slchan_set_2.md) | [心甘情愿](stories/story_blemsh_set_1.md) | [信任的第一步](stories/story_broca_set_1.md) |
+| [醒时梦长](stories/story_ling_set_1.md) | [许以秘密](stories/story_kafka_set_1.md) | [雪山外](stories/story_slbell_set_1.md) | [学医之路](stories/story_ccheal_set_1.md) | [学者之心](stories/story_amgoat_set_1.md) |
+| [寻常夕阳](stories/story_tknogi_set_1.md) | [寻乡](stories/story_rfrost_set_1.md) | [崖上之心](stories/story_slchan_set_1.md) | [阳光洒落之前](stories/story_pianst_set_2.md) | [阳光映照之下](stories/story_luton_set_1.md) |
+| [夜色中的第一步](stories/story_agoat2_set_1.md) | [夜游船](stories/story_lolxh_set_1.md) | [一封家书](stories/story_midn_set_1.md) | [一个涂鸦](stories/story_medic2_set_1.md) | [一鼓作气](stories/story_chen_set_1.md) |
+| [以酒精之名！](stories/story_gvial2_set_1.md) | [一路顺风](stories/story_coldst_set_1.md) | [一落千丈](stories/story_panda_set_1.md) | [一面墙](stories/story_acdrop_set_1.md) | [易燃品](stories/story_sqrrel_set_2.md) |
+| [一如既往](stories/story_tachak_set_1.md) | [遗失之物](stories/story_lasher_set_1.md) | [一双羽兽](stories/story_sleach_set_1.md) | [一天](stories/story_yak_set_1.md) | [意外的烦恼](stories/story_f12yin_set_1.md) |
+| [以我双腿](stories/story_glacus_set_1.md) | [异乡剑士](stories/story_akafyu_set_1.md) | [一些选择](stories/story_12fce_set_1.md) | [一星萤火](stories/story_meteo_set_1.md) | [隐藏结局](stories/story_kirara_set_1.md) |
+| [硬币的意志](stories/story_scave_set_1.md) | [硬核饮品](stories/story_indigo_set_1.md) | [应为必为](stories/story_kazema_set_1.md) | [英雄们的叙事诗](stories/story_erato_set_1.md) | [勇者的试炼](stories/story_bubble_set_1.md) |
+| [幽蓝怀想](stories/story_deepcl_set_1.md) | [预备“先知”](stories/story_adnach_set_1.md) | [雨落之前](stories/story_whispr_set_1.md) | [与人共舞](stories/story_lunacu_set_1.md) | [雨夜](stories/story_shining_set_1.md) |
+| [远大理想](stories/story_falco_set_1.md) | [远方的雪](stories/story_pudd_set_1.md) | [远方遗物](stories/story_skgoat_set_2.md) | [远航](stories/story_almond_set_1.md) | [源石虫与啤酒花](stories/story_wyvern_set_1.md) |
+| [在冬夜里燃烧](stories/story_headbr_set_2.md) | [再见一面](stories/story_alanna_set_1.md) | [再见以前](stories/story_glassb_set_2.md) | [在卡兹戴尔](stories/story_mudrok_set_1.md) | [在路上](stories/story_milu_set_1.md) |
+| [造物之心](stories/story_otter_set_2.md) | [占卜](stories/story_fmout_set_1.md) | [展信好](stories/story_pinecn_set_1.md) | [崭新生活](stories/story_tomimi_set_1.md) | [长路至此](stories/story_kalts_set_1.md) |
+| [真心的礼物](stories/story_ceylon_set_1.md) | [挣脱](stories/story_catap_set_1.md) | [正义号竭诚为您服务！](stories/story_jnight_set_1.md) | [职场新人](stories/story_silent_set_1.md) | [直到灯火明亮](stories/story_lumen_set_1.md) |
+| [致命诱惑](stories/story_sesa_set_1.md) | [炙热冲击！](stories/story_therex_set_1.md) | [终场铃声](stories/story_brownb_set_1.md) | [终途](stories/story_quercu_set_1.md) | [驻足](stories/story_franka_set_2.md) |
+| [撰写光明](stories/story_greyy2_set_1.md) | [专业医师](stories/story_susuro_set_1.md) | [装甲与重弩](stories/story_toddi_set_1.md) | [捉迷藏](stories/story_leto_set_1.md) | [自我](stories/story_ghost2_set_1.md) |
+| [自有一“派”](stories/story_savage_set_2.md) | [走吧，走吧](stories/story_glassb_set_1.md) | [走出那条长长的走廊](stories/story_bibeak_set_2.md) | [最后的比武](stories/story_bdhkgt_set_1.md) | [昨天的明天](stories/story_poca_set_1.md) |
+| [“猫猫”](stories/story_nights_set_1.md) | [“宛如初见”](stories/story_ela_set_1.md) |  |  |  |

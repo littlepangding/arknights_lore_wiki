@@ -1,3 +1,11 @@
-# arknight_lore_wiki
+# 明日方舟剧情wiki 
 
-construction in progress
+
+| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：xxxxx           |
+|:----------------------------|
+| 虽然在生成的过程中以尽量避免，但是错误，幻觉等等仍然无法完全避免。所以本页面内容以娱乐为主，切勿当成一手来源。发现错误请open issue或者b站私信作者进行修改。|
+
+仍在继续建设/更新中.
+
+- [角色总表](docs/char_index.md) 
+- [活动总表](docs/story_index.md) 

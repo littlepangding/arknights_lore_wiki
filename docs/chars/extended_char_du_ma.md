@@ -2,7 +2,7 @@
 页面版本:v1.0
  
 
-| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：xxxxx           |
+| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：[BV1gdJ7zqESe](https://www.bilibili.com/video/BV1gdJ7zqESe/)         |
 |:----------------------------|
 | 虽然在生成的过程中以尽量避免，但是错误，幻觉等等仍然无法完全避免。所以本页面内容以娱乐为主，切勿当成一手来源。发现错误请open issue或者b站私信作者进行修改。|
 

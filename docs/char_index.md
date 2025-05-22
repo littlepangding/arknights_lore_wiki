@@ -1,7 +1,7 @@
 # 明日方舟剧情wiki 角色总表
  
 
-| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：xxxxx           |
+| :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：[BV1gdJ7zqESe](https://www.bilibili.com/video/BV1gdJ7zqESe/)         |
 |:----------------------------|
 | 虽然在生成的过程中以尽量避免，但是错误，幻觉等等仍然无法完全避免。所以本页面内容以娱乐为主，切勿当成一手来源。发现错误请open issue或者b站私信作者进行修改。|
 
@@ -9,7 +9,7 @@
 
 
     目前已知问题（会在将来尽量fix）：
-    -  目前总共810(版本1)/218(版本2)角色, 但是角色可能有重复（比如异格或者别名）；
+    -  目前总共810(版本1)/228(版本2)角色, 但是角色可能有重复（比如异格或者别名）；
     
 ## 版本1 干员 (共计:810)
 ### 干员 (共计:389)
@@ -181,8 +181,8 @@
 | [加勒斯](chars/extended_char_jia_lei_si.md) | [圣徒卡门](chars/extended_char_sheng_tu_ka_men.md) | [尤卡坦](chars/extended_char_you_ka_tan.md) | [克洛维希娅](chars/extended_char_ke_luo_wei_xi_ya.md) | [菈塔托丝](chars/extended_char_0c1da6.md) |
 | [安托](chars/extended_char_an_tuo.md) | [莉莉娅](chars/extended_char_li_li_ya.md) | [柏生明](chars/extended_char_bai_sheng_ming.md) | [瑟奇亚克](chars/extended_char_se_qi_ya_ke.md) | [虞澄](chars/extended_char_yu_cheng.md) |
 | [塔季扬娜](chars/extended_char_ta_ji_yang_na.md) |  |  |  |  |
-## 版本2 干员 (共计:218)
-### 干员 (共计:139)
+## 版本2 干员 (共计:228)
+### 干员 (共计:149)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | [Friston-3](char_v3/char_4093_frston.md) | [Mechanist](char_v3/char_610_acfend.md) | [Misery](char_v3/char_615_acspec.md) | [Mon3tr](char_v3/char_4179_monstr.md) | [Raidian](char_v3/char_614_acsupo.md) |
@@ -190,29 +190,31 @@
 | [阿斯卡纶](char_v3/char_4132_ascln.md) | [艾雅法拉](char_v3/char_180_amgoat.md) | [白金](char_v3/char_204_platnm.md) | [白雪](char_v3/char_118_yuki.md) | [暴行](char_v3/char_230_savage.md) |
 | [鞭刃](char_v3/char_265_sophia.md) | [陈](char_v3/char_010_chen.md) | [澄闪](char_v3/char_377_gdglow.md) | [仇白](char_v3/char_4082_qiubai.md) | [初雪](char_v3/char_174_slbell.md) |
 | [嵯峨](char_v3/char_362_saga.md) | [达格达](char_v3/char_157_dagda.md) | [德克萨斯](char_v3/char_102_texas.md) | [杜宾](char_v3/char_130_doberm.md) | [多萝西](char_v3/char_4048_doroth.md) |
-| [菲亚梅塔](char_v3/char_300_phenxi.md) | [风笛](char_v3/char_222_bpipe.md) | [芙兰卡](char_v3/char_106_franka.md) | [歌蕾蒂娅](char_v3/char_474_glady.md) | [古米](char_v3/char_196_sunbr.md) |
-| [傀影](char_v3/char_250_phatom.md) | [海蒂](char_v3/char_4045_heidi.md) | [寒檀](char_v3/char_341_sntlla.md) | [号角](char_v3/char_4039_horn.md) | [赫德雷](char_v3/char_4088_hodrer.md) |
-| [赫拉格](char_v3/char_188_helage.md) | [赫默](char_v3/char_108_silent.md) | [黑](char_v3/char_340_shwaz.md) | [黑键](char_v3/char_4046_ebnhlz.md) | [华法琳](char_v3/char_171_bldsk.md) |
-| [槐琥](char_v3/char_243_waaifu.md) | [煌](char_v3/char_017_huang.md) | [霍尔海雅](char_v3/char_4027_heyak.md) | [棘刺](char_v3/char_293_thorns.md) | [极光](char_v3/char_422_aurora.md) |
-| [极境](char_v3/char_401_elysm.md) | [锏](char_v3/char_4116_blkkgt.md) | [见行者](char_v3/char_4036_forcer.md) | [角峰](char_v3/char_199_yak.md) | [孑](char_v3/char_272_strong.md) |
-| [杰西卡](char_v3/char_235_jesica.md) | [截云](char_v3/char_4078_bdhkgt.md) | [惊蛰](char_v3/char_306_leizi.md) | [九色鹿](char_v3/char_4019_ncdeer.md) | [凯尔希](char_v3/char_003_kalts.md) |
-| [凯瑟琳](char_v3/char_4162_cathy.md) | [刻俄柏](char_v3/char_2013_cerber.md) | [克洛丝](char_v3/char_124_kroos.md) | [空](char_v3/char_101_sora.md) | [空构](char_v3/char_4015_spuria.md) |
-| [空弦](char_v3/char_332_archet.md) | [拉普兰德](char_v3/char_140_whitew.md) | [老鲤](char_v3/char_322_lmlee.md) | [蕾缪安](char_v3/char_4193_lemuen.md) | [砾](char_v3/char_237_gravel.md) |
-| [烈夏](char_v3/char_194_leto.md) | [林](char_v3/char_4080_lin.md) | [临光](char_v3/char_148_nearl.md) | [凛视](char_v3/char_4102_threye.md) | [令](char_v3/char_2023_ling.md) |
-| [铃兰](char_v3/char_358_lisa.md) | [灵知](char_v3/char_206_gnosis.md) | [流明](char_v3/char_4042_lumen.md) | [逻各斯](char_v3/char_4133_logos.md) | [玛恩纳](char_v3/char_4064_mlynar.md) |
-| [玛露西尔](char_v3/char_4141_marcil.md) | [麦哲伦](char_v3/char_248_mgllan.md) | [梅尔](char_v3/char_242_otter.md) | [玫兰莎](char_v3/char_208_melan.md) | [迷迭香](char_v3/char_391_rosmon.md) |
-| [谜图](char_v3/char_4017_puzzle.md) | [明椒](char_v3/char_4071_peper.md) | [摩根](char_v3/char_154_morgan.md) | [莫斯提马](char_v3/char_213_mostma.md) | [缪尔赛思](char_v3/char_249_mlyss.md) |
-| [暮落](char_v3/char_512_aprot.md) | [娜仁图亚](char_v3/char_4138_narant.md) | [能天使](char_v3/char_103_angel.md) | [泥岩](char_v3/char_311_mudrok.md) | [年](char_v3/char_2014_nian.md) |
-| [帕拉斯](char_v3/char_485_pallas.md) | [琴柳](char_v3/char_479_sleach.md) | [塞雷娅](char_v3/char_202_demkni.md) | [森蚺](char_v3/char_416_zumama.md) | [山](char_v3/char_264_f12yin.md) |
-| [闪灵](char_v3/char_147_shining.md) | [史尔特尔](char_v3/char_350_surtr.md) | [诗怀雅](char_v3/char_308_swire.md) | [弑君者](char_v3/char_1502_crosly.md) | [蚀清](char_v3/char_489_serum.md) |
-| [黍](char_v3/char_2025_shu.md) | [斯卡蒂](char_v3/char_263_skadi.md) | [送葬人](char_v3/char_279_excu.md) | [塑心](char_v3/char_245_cello.md) | [特米米](char_v3/char_411_tomimi.md) |
-| [提丰](char_v3/char_2012_typhon.md) | [天火](char_v3/char_166_skfire.md) | [推进之王](char_v3/char_112_siege.md) | [苇草](char_v3/char_261_sddrag.md) | [薇薇安娜](char_v3/char_4098_vvana.md) |
-| [乌尔比安](char_v3/char_4145_ulpia.md) | [乌有](char_v3/char_455_nothin.md) | [夕](char_v3/char_2015_dusk.md) | [锡人](char_v3/char_4151_tinman.md) | [瑕光](char_v3/char_423_blemsh.md) |
-| [信仰搅拌机](char_v3/char_4194_rmixer.md) | [星极](char_v3/char_274_astesi.md) | [星熊](char_v3/char_136_hsguma.md) | [行箸](char_v3/char_4172_xingzh.md) | [休谟斯](char_v3/char_491_humus.md) |
-| [寻澜](char_v3/char_4052_surfer.md) | [讯使](char_v3/char_198_blackd.md) | [崖心](char_v3/char_173_slchan.md) | [亚叶](char_v3/char_345_folnic.md) | [炎客](char_v3/char_131_flameb.md) |
-| [炎熔](char_v3/char_121_lava.md) | [焰尾](char_v3/char_420_flamtl.md) | [夜半](char_v3/char_476_blkngt.md) | [耶拉](char_v3/char_4013_kjera.md) | [夜莺](char_v3/char_179_cgbird.md) |
-| [野鬃](char_v3/char_496_wildmn.md) | [伊芙利特](char_v3/char_134_ifrit.md) | [异客](char_v3/char_472_pasngr.md) | [隐德来希](char_v3/char_4010_etlchi.md) | [银灰](char_v3/char_172_svrash.md) |
-| [因陀罗](char_v3/char_155_tiger.md) | [隐现](char_v3/char_498_inside.md) | [幽灵鲨](char_v3/char_143_ghost.md) | [左乐](char_v3/char_4121_zuole.md) |  |
+| [菲亚梅塔](char_v3/char_300_phenxi.md) | [风笛](char_v3/char_222_bpipe.md) | [芙兰卡](char_v3/char_106_franka.md) | [芙蓉](char_v3/char_120_hibisc.md) | [歌蕾蒂娅](char_v3/char_474_glady.md) |
+| [古米](char_v3/char_196_sunbr.md) | [傀影](char_v3/char_250_phatom.md) | [海蒂](char_v3/char_4045_heidi.md) | [寒檀](char_v3/char_341_sntlla.md) | [号角](char_v3/char_4039_horn.md) |
+| [赫德雷](char_v3/char_4088_hodrer.md) | [赫拉格](char_v3/char_188_helage.md) | [赫默](char_v3/char_108_silent.md) | [黑](char_v3/char_340_shwaz.md) | [黑键](char_v3/char_4046_ebnhlz.md) |
+| [华法琳](char_v3/char_171_bldsk.md) | [槐琥](char_v3/char_243_waaifu.md) | [煌](char_v3/char_017_huang.md) | [霍尔海雅](char_v3/char_4027_heyak.md) | [棘刺](char_v3/char_293_thorns.md) |
+| [极光](char_v3/char_422_aurora.md) | [极境](char_v3/char_401_elysm.md) | [锏](char_v3/char_4116_blkkgt.md) | [见行者](char_v3/char_4036_forcer.md) | [角峰](char_v3/char_199_yak.md) |
+| [孑](char_v3/char_272_strong.md) | [杰西卡](char_v3/char_235_jesica.md) | [截云](char_v3/char_4078_bdhkgt.md) | [惊蛰](char_v3/char_306_leizi.md) | [九色鹿](char_v3/char_4019_ncdeer.md) |
+| [凯尔希](char_v3/char_003_kalts.md) | [凯瑟琳](char_v3/char_4162_cathy.md) | [刻俄柏](char_v3/char_2013_cerber.md) | [克洛丝](char_v3/char_124_kroos.md) | [空](char_v3/char_101_sora.md) |
+| [空构](char_v3/char_4015_spuria.md) | [空弦](char_v3/char_332_archet.md) | [拉普兰德](char_v3/char_140_whitew.md) | [老鲤](char_v3/char_322_lmlee.md) | [蕾缪安](char_v3/char_4193_lemuen.md) |
+| [砾](char_v3/char_237_gravel.md) | [烈夏](char_v3/char_194_leto.md) | [林](char_v3/char_4080_lin.md) | [临光](char_v3/char_148_nearl.md) | [凛视](char_v3/char_4102_threye.md) |
+| [令](char_v3/char_2023_ling.md) | [铃兰](char_v3/char_358_lisa.md) | [灵知](char_v3/char_206_gnosis.md) | [流明](char_v3/char_4042_lumen.md) | [逻各斯](char_v3/char_4133_logos.md) |
+| [玛恩纳](char_v3/char_4064_mlynar.md) | [玛露西尔](char_v3/char_4141_marcil.md) | [麦哲伦](char_v3/char_248_mgllan.md) | [梅尔](char_v3/char_242_otter.md) | [玫兰莎](char_v3/char_208_melan.md) |
+| [迷迭香](char_v3/char_391_rosmon.md) | [谜图](char_v3/char_4017_puzzle.md) | [明椒](char_v3/char_4071_peper.md) | [摩根](char_v3/char_154_morgan.md) | [莫斯提马](char_v3/char_213_mostma.md) |
+| [缪尔赛思](char_v3/char_249_mlyss.md) | [暮落](char_v3/char_512_aprot.md) | [娜仁图亚](char_v3/char_4138_narant.md) | [能天使](char_v3/char_103_angel.md) | [泥岩](char_v3/char_311_mudrok.md) |
+| [年](char_v3/char_2014_nian.md) | [帕拉斯](char_v3/char_485_pallas.md) | [琴柳](char_v3/char_479_sleach.md) | [塞雷娅](char_v3/char_202_demkni.md) | [森蚺](char_v3/char_416_zumama.md) |
+| [山](char_v3/char_264_f12yin.md) | [闪灵](char_v3/char_147_shining.md) | [史尔特尔](char_v3/char_350_surtr.md) | [诗怀雅](char_v3/char_308_swire.md) | [弑君者](char_v3/char_1502_crosly.md) |
+| [蚀清](char_v3/char_489_serum.md) | [黍](char_v3/char_2025_shu.md) | [斯卡蒂](char_v3/char_263_skadi.md) | [送葬人](char_v3/char_279_excu.md) | [塑心](char_v3/char_245_cello.md) |
+| [特米米](char_v3/char_411_tomimi.md) | [提丰](char_v3/char_2012_typhon.md) | [天火](char_v3/char_166_skfire.md) | [推进之王](char_v3/char_112_siege.md) | [苇草](char_v3/char_261_sddrag.md) |
+| [薇薇安娜](char_v3/char_4098_vvana.md) | [乌尔比安](char_v3/char_4145_ulpia.md) | [乌有](char_v3/char_455_nothin.md) | [夕](char_v3/char_2015_dusk.md) | [锡人](char_v3/char_4151_tinman.md) |
+| [瑕光](char_v3/char_423_blemsh.md) | [信仰搅拌机](char_v3/char_4194_rmixer.md) | [星极](char_v3/char_274_astesi.md) | [星熊](char_v3/char_136_hsguma.md) | [行箸](char_v3/char_4172_xingzh.md) |
+| [休谟斯](char_v3/char_491_humus.md) | [寻澜](char_v3/char_4052_surfer.md) | [讯使](char_v3/char_198_blackd.md) | [崖心](char_v3/char_173_slchan.md) | [亚叶](char_v3/char_345_folnic.md) |
+| [炎客](char_v3/char_131_flameb.md) | [炎熔](char_v3/char_121_lava.md) | [焰尾](char_v3/char_420_flamtl.md) | [夜半](char_v3/char_476_blkngt.md) | [耶拉](char_v3/char_4013_kjera.md) |
+| [夜莺](char_v3/char_179_cgbird.md) | [野鬃](char_v3/char_496_wildmn.md) | [伊芙利特](char_v3/char_134_ifrit.md) | [异客](char_v3/char_472_pasngr.md) | [伊内丝](char_v3/char_4087_ines.md) |
+| [隐德来希](char_v3/char_4010_etlchi.md) | [银灰](char_v3/char_172_svrash.md) | [因陀罗](char_v3/char_155_tiger.md) | [隐现](char_v3/char_498_inside.md) | [幽灵鲨](char_v3/char_143_ghost.md) |
+| [余](char_v3/char_2026_yu.md) | [羽毛笔](char_v3/char_421_crow.md) | [远牙](char_v3/char_430_fartth.md) | [陨星](char_v3/char_219_meteo.md) | [真理](char_v3/char_195_glassb.md) |
+| [正义骑士号](char_v3/char_4000_jnight.md) | [重岳](char_v3/char_2024_chyue.md) | [子月](char_v3/char_4014_lunacu.md) | [左乐](char_v3/char_4121_zuole.md) |  |
 ### 其他剧情角色 (共计:79)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |

@@ -9,7 +9,7 @@
 
 
     目前已知问题（会在将来尽量fix）：
-    -  目前总共810(版本1)/295(版本2)角色, 但是角色可能有重复（比如异格或者别名）；
+    -  目前总共810(版本1)/325(版本2)角色, 但是角色可能有重复（比如异格或者别名）；
     
 ## 版本1 干员 (共计:810)
 ### 干员 (共计:389)
@@ -181,7 +181,7 @@
 | [加勒斯](chars/extended_char_jia_lei_si.md) | [圣徒卡门](chars/extended_char_sheng_tu_ka_men.md) | [尤卡坦](chars/extended_char_you_ka_tan.md) | [克洛维希娅](chars/extended_char_ke_luo_wei_xi_ya.md) | [菈塔托丝](chars/extended_char_0c1da6.md) |
 | [安托](chars/extended_char_an_tuo.md) | [莉莉娅](chars/extended_char_li_li_ya.md) | [柏生明](chars/extended_char_bai_sheng_ming.md) | [瑟奇亚克](chars/extended_char_se_qi_ya_ke.md) | [虞澄](chars/extended_char_yu_cheng.md) |
 | [塔季扬娜](chars/extended_char_ta_ji_yang_na.md) |  |  |  |  |
-## 版本2 干员 (共计:295)
+## 版本2 干员 (共计:325)
 ### 干员 (共计:167)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -219,22 +219,28 @@
 | [隐现](char_v3/char_498_inside.md) | [幽灵鲨](char_v3/char_143_ghost.md) | [余](char_v3/char_2026_yu.md) | [羽毛笔](char_v3/char_421_crow.md) | [远牙](char_v3/char_430_fartth.md) |
 | [陨星](char_v3/char_219_meteo.md) | [真理](char_v3/char_195_glassb.md) | [正义骑士号](char_v3/char_4000_jnight.md) | [止颂](char_v3/char_4011_lessng.md) | [重岳](char_v3/char_2024_chyue.md) |
 | [子月](char_v3/char_4014_lunacu.md) | [左乐](char_v3/char_4121_zuole.md) |  |  |  |
-### 其他剧情角色 (共计:128)
+### 其他剧情角色 (共计:158)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | [斐尔迪南](char_v3/extended_char_fei_er_di_nan.md) | [特雷西斯](char_v3/extended_char_te_lei_xi_si.md) | [曼弗雷德](char_v3/extended_char_man_fu_lei_de.md) | [宁辞秋](char_v3/extended_char_ning_ci_qiu.md) | [文月](char_v3/extended_char_wen_yue.md) |
-| [Guard](char_v3/extended_char_Guard.md) | [博士](char_v3/extended_char_bo_shi.md) | [塑料骑士](char_v3/extended_char_su_liao_qi_shi.md) | [变形者集群](char_v3/extended_char_bian_xing_zhe_ji_qun.md) | [雷德](char_v3/extended_char_lei_de.md) |
-| [奎萨图什塔](char_v3/extended_char_kui_sa_tu_shen_ta.md) | [卢比奥](char_v3/extended_char_lu_bi_ao.md) | [罗伊](char_v3/extended_char_luo_yi.md) | [“桥夹”克里夫](char_v3/extended_char_c22eac.md) | [孟铁衣](char_v3/extended_char_meng_tie_yi.md) |
-| [开斯特公爵](char_v3/extended_char_kai_si_te_gong_jue.md) | [孽茨雷](char_v3/extended_char_nie_ci_lei.md) | [Mantra](char_v3/extended_char_Mantra.md) | [伊万杰利斯塔十一世](char_v3/extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md) | [左宣辽](char_v3/extended_char_zuo_xuan_liao.md) |
-| [梁洵](char_v3/extended_char_liang_xun.md) | [鼠王](char_v3/extended_char_shu_wang.md) | [亚当斯·施怀雅](char_v3/extended_char_a0a860.md) | [日落即逝](char_v3/extended_char_ri_luo_ji_shi.md) | [灰礼帽](char_v3/extended_char_hui_li_mao.md) |
-| [梅菲斯特](char_v3/extended_char_mei_fei_si_te.md) | [太合](char_v3/extended_char_tai_he.md) | [克丽斯腾·莱特](char_v3/extended_char_336509.md) | [Alty](char_v3/extended_char_Alty.md) | [甘比诺](char_v3/extended_char_gan_bi_nuo.md) |
-| [尚冢](char_v3/extended_char_shang_zhong.md) | [D.D.D.](char_v3/extended_char_D.D.D..md) | [Outcast](char_v3/extended_char_Outcast.md) | [老伊辛](char_v3/extended_char_lao_yi_xin.md) | [米莎](char_v3/extended_char_mi_sha.md) |
-| [可露希尔](char_v3/extended_char_ke_lu_xi_er.md) | [碎骨](char_v3/extended_char_sui_gu.md) | [特蕾西娅](char_v3/extended_char_te_lei_xi_ya.md) | [塔露拉](char_v3/extended_char_ta_lu_la.md) | [托兰](char_v3/extended_char_tuo_lan.md) |
-| [魏彦吾](char_v3/extended_char_wei_yan_wu.md) | [Dijkstra](char_v3/extended_char_Dijkstra.md) | [大鲍勃](char_v3/extended_char_da_bao_bo.md) | [卡特琳娜](char_v3/extended_char_ka_te_lin_na.md) | [宁述](char_v3/extended_char_ning_shu.md) |
-| [杜遥夜](char_v3/extended_char_du_yao_ye.md) | [解真](char_v3/extended_char_jie_zhen.md) | [郑清钺](char_v3/extended_char_zheng_qing_yue.md) | [乌尔苏拉](char_v3/extended_char_wu_er_su_la.md) | [塞茜莉亚](char_v3/extended_char_sai_qian_li_ya.md) |
-| [睚](char_v3/extended_char_ya.md) | [查尔斯·林奇](char_v3/extended_char_ae4e60.md) | [九](char_v3/extended_char_jiu.md) | [普瑞赛斯](char_v3/extended_char_pu_rui_sai_si.md) | [Ace](char_v3/extended_char_Ace.md) |
-| [太傅](char_v3/extended_char_tai_fu.md) | [科西切](char_v3/extended_char_ke_xi_qie.md) | [血骑士](char_v3/extended_char_xue_qi_shi.md) | [槐天裴](char_v3/extended_char_huai_tian_pei.md) | [皇帝的利刃](char_v3/extended_char_huang_di_de_li_ren.md) |
-| [阿勒黛·坎伯兰](char_v3/extended_char_9b0a87.md) | [西西里夫人](char_v3/extended_char_xi_xi_li_fu_ren.md) | [慎楼](char_v3/extended_char_shen_lou.md) | [爱国者](char_v3/extended_char_ai_guo_zhe.md) | [薇尔丽芙](char_v3/extended_char_wei_er_li_fu.md) |
+| [Guard](char_v3/extended_char_Guard.md) | [博士](char_v3/extended_char_bo_shi.md) | [老天师](char_v3/extended_char_lao_tian_shi.md) | [塑料骑士](char_v3/extended_char_su_liao_qi_shi.md) | [变形者集群](char_v3/extended_char_bian_xing_zhe_ji_qun.md) |
+| [雷德](char_v3/extended_char_lei_de.md) | [奎萨图什塔](char_v3/extended_char_kui_sa_tu_shen_ta.md) | [卢比奥](char_v3/extended_char_lu_bi_ao.md) | [罗伊](char_v3/extended_char_luo_yi.md) | [“桥夹”克里夫](char_v3/extended_char_c22eac.md) |
+| [孟铁衣](char_v3/extended_char_meng_tie_yi.md) | [开斯特公爵](char_v3/extended_char_kai_si_te_gong_jue.md) | [孽茨雷](char_v3/extended_char_nie_ci_lei.md) | [Mantra](char_v3/extended_char_Mantra.md) | [伊万杰利斯塔十一世](char_v3/extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md) |
+| [左宣辽](char_v3/extended_char_zuo_xuan_liao.md) | [梁洵](char_v3/extended_char_liang_xun.md) | [鼠王](char_v3/extended_char_shu_wang.md) | [亚当斯·施怀雅](char_v3/extended_char_a0a860.md) | [日落即逝](char_v3/extended_char_ri_luo_ji_shi.md) |
+| [灰礼帽](char_v3/extended_char_hui_li_mao.md) | [梅菲斯特](char_v3/extended_char_mei_fei_si_te.md) | [太合](char_v3/extended_char_tai_he.md) | [克丽斯腾·莱特](char_v3/extended_char_336509.md) | [Alty](char_v3/extended_char_Alty.md) |
+| [甘比诺](char_v3/extended_char_gan_bi_nuo.md) | [尚冢](char_v3/extended_char_shang_zhong.md) | [D.D.D.](char_v3/extended_char_D.D.D..md) | [Outcast](char_v3/extended_char_Outcast.md) | [老伊辛](char_v3/extended_char_lao_yi_xin.md) |
+| [米莎](char_v3/extended_char_mi_sha.md) | [可露希尔](char_v3/extended_char_ke_lu_xi_er.md) | [碎骨](char_v3/extended_char_sui_gu.md) | [特蕾西娅](char_v3/extended_char_te_lei_xi_ya.md) | [塔露拉](char_v3/extended_char_ta_lu_la.md) |
+| [托兰](char_v3/extended_char_tuo_lan.md) | [魏彦吾](char_v3/extended_char_wei_yan_wu.md) | [Dijkstra](char_v3/extended_char_Dijkstra.md) | [大鲍勃](char_v3/extended_char_da_bao_bo.md) | [卡特琳娜](char_v3/extended_char_ka_te_lin_na.md) |
+| [宁述](char_v3/extended_char_ning_shu.md) | [杜遥夜](char_v3/extended_char_du_yao_ye.md) | [解真](char_v3/extended_char_jie_zhen.md) | [郑清钺](char_v3/extended_char_zheng_qing_yue.md) | [乌尔苏拉](char_v3/extended_char_wu_er_su_la.md) |
+| [塞茜莉亚](char_v3/extended_char_sai_qian_li_ya.md) | [睚](char_v3/extended_char_ya.md) | [查尔斯·林奇](char_v3/extended_char_ae4e60.md) | [九](char_v3/extended_char_jiu.md) | [普瑞赛斯](char_v3/extended_char_pu_rui_sai_si.md) |
+| [Ace](char_v3/extended_char_Ace.md) | [太傅](char_v3/extended_char_tai_fu.md) | [科西切](char_v3/extended_char_ke_xi_qie.md) | [血骑士](char_v3/extended_char_xue_qi_shi.md) | [槐天裴](char_v3/extended_char_huai_tian_pei.md) |
+| [皇帝的利刃](char_v3/extended_char_huang_di_de_li_ren.md) | [迈尔斯](char_v3/extended_char_mai_er_si.md) | [赫拉提娅](char_v3/extended_char_he_la_ti_ya.md) | [瓦古](char_v3/extended_char_wa_gu.md) | [格瑞斯](char_v3/extended_char_ge_rui_si.md) |
+| [赫尔曼](char_v3/extended_char_he_er_man.md) | [本尼](char_v3/extended_char_ben_ni.md) | [发言人恰尔内](char_v3/extended_char_fa_yan_ren_qia_er_nei.md) | [逐魇骑士](char_v3/extended_char_zhu_yan_qi_shi.md) | [克莱门莎](char_v3/extended_char_ke_lai_men_sha.md) |
+| [娜斯提·鲁诺瑞伊](char_v3/extended_char_94d934.md) | [奥罗拉](char_v3/extended_char_ao_luo_la.md) | [克莱芒·杜波瓦](char_v3/extended_char_64b5c2.md) | [望](char_v3/extended_char_wang.md) | [猎户](char_v3/extended_char_lie_hu.md) |
+| [阿勒黛·坎伯兰](char_v3/extended_char_9b0a87.md) | [埃克提尔尼尔](char_v3/extended_char_ai_ke_ti_er_ni_er.md) | [黛柯绮·银币](char_v3/extended_char_7aec75.md) | [瓦列里](char_v3/extended_char_wa_lie_li.md) | [泰特斯·白杨](char_v3/extended_char_8e4131.md) |
+| [雷内尔·科瓦尔斯基](char_v3/extended_char_9d2b63.md) | [文森特伯爵](char_v3/extended_char_wen_sen_te_bo_jue.md) | [西西里夫人](char_v3/extended_char_xi_xi_li_fu_ren.md) | [慎楼](char_v3/extended_char_shen_lou.md) | [科鲁兹](char_v3/extended_char_ke_lu_zi.md) |
+| [米奥](char_v3/extended_char_mi_ao.md) | [爱国者](char_v3/extended_char_ai_guo_zhe.md) | [棋客](char_v3/extended_char_qi_ke.md) | [薇尔丽芙](char_v3/extended_char_wei_er_li_fu.md) | [诺埃米](char_v3/extended_char_nuo_ai_mi.md) |
+| [贝纳尔多·贝洛内](char_v3/extended_char_55896c.md) | [奥伦](char_v3/extended_char_ao_lun.md) | [里昂](char_v3/extended_char_li_ang.md) | [米亚罗](char_v3/extended_char_mi_ya_luo.md) | [卡恩](char_v3/extended_char_ka_en.md) |
 | [浮士德](char_v3/extended_char_fu_shi_de.md) | [威灵顿公爵](char_v3/extended_char_wei_ling_dun_gong_jue.md) | [蔓德拉](char_v3/extended_char_man_de_la.md) | [菈玛莲](char_v3/extended_char_la_ma_lian.md) | [教士](char_v3/extended_char_jiao_shi.md) |
 | [休露丝·布朗陶](char_v3/extended_char_b6a906.md) | [列维](char_v3/extended_char_lie_wei.md) | [迪亚兹·冈萨雷斯](char_v3/extended_char_c3c0f9.md) | [珀茜瓦尔](char_v3/extended_char_po_qian_wa_er.md) | [厄尔苏拉](char_v3/extended_char_e_er_su_la.md) |
 | [娜汀](char_v3/extended_char_na_ting.md) | [佩利佩](char_v3/extended_char_pei_li_pei.md) | [切斯柏](char_v3/extended_char_qie_si_bai.md) | [血魔大君](char_v3/extended_char_xue_mo_da_jun.md) | [霜星](char_v3/extended_char_shuang_xing.md) |

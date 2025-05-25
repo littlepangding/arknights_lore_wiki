@@ -9,9 +9,9 @@
 
 
     目前已知问题（会在将来尽量fix）：
-    -  目前总共808(版本1/v1)/381(版本2/v2)角色, 但是角色可能有重复（比如异格或者别名）；
+    -  目前总共808(版本1/v1)/383(版本2/v2)角色, 但是角色可能有重复（比如异格或者别名）；
     
-## 干员 (共计:388), 版本一:388, 版本二:223
+## 干员 (共计:388), 版本一:388, 版本二:225
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 12F([v1](chars/char_009_12fce.md),[v2](char_v3/char_009_12fce.md)) | CONFESS-47([v1](chars/char_4188_confes.md),[v2](char_v3/char_4188_confes.md)) | Castle-3([v1](chars/char_286_cast3.md),[v2](char_v3/char_286_cast3.md)) | Friston-3([v1](chars/char_4093_frston.md),[v2](char_v3/char_4093_frston.md)) | Lancet-2([v1](chars/char_285_medic2.md),[v2](char_v3/char_285_medic2.md)) |
@@ -24,7 +24,7 @@
 | 奥达([v1](chars/char_4131_odda.md),[v2](char_v3/char_4131_odda.md)) | 奥斯塔([v1](chars/char_346_aosta.md),[v2](char_v3/char_346_aosta.md)) | 柏喙([v1](chars/char_252_bibeak.md),[v2](char_v3/char_252_bibeak.md)) | 白金([v1](chars/char_204_platnm.md),[v2](char_v3/char_204_platnm.md)) | 百炼嘉维尔([v1](chars/char_1026_gvial2.md)) |
 | 白面鸮([v1](chars/char_128_plosis.md),[v2](char_v3/char_128_plosis.md)) | 拜松([v1](chars/char_325_bison.md),[v2](char_v3/char_325_bison.md)) | 白铁([v1](chars/char_4072_ironmn.md),[v2](char_v3/char_4072_ironmn.md)) | 白雪([v1](chars/char_118_yuki.md),[v2](char_v3/char_118_yuki.md)) | 斑点([v1](chars/char_284_spot.md),[v2](char_v3/char_284_spot.md)) |
 | 薄绿([v1](chars/char_388_mint.md),[v2](char_v3/char_388_mint.md)) | 暴行([v1](chars/char_230_savage.md),[v2](char_v3/char_230_savage.md)) | 暴雨([v1](chars/char_304_zebra.md),[v2](char_v3/char_304_zebra.md)) | 贝娜([v1](chars/char_369_bena.md),[v2](char_v3/char_369_bena.md)) | 鞭刃([v1](chars/char_265_sophia.md),[v2](char_v3/char_265_sophia.md)) |
-| 冰酿([v1](chars/char_4104_coldst.md),[v2](char_v3/char_4104_coldst.md)) | 波卜([v1](chars/char_487_bobb.md)) | 波登可([v1](chars/char_258_podego.md),[v2](char_v3/char_258_podego.md)) | 布丁([v1](chars/char_4004_pudd.md),[v2](char_v3/char_4004_pudd.md)) | 布洛卡([v1](chars/char_356_broca.md),[v2](char_v3/char_356_broca.md)) |
+| 冰酿([v1](chars/char_4104_coldst.md),[v2](char_v3/char_4104_coldst.md)) | 波卜([v1](chars/char_487_bobb.md),[v2](char_v3/char_487_bobb.md)) | 波登可([v1](chars/char_258_podego.md),[v2](char_v3/char_258_podego.md)) | 布丁([v1](chars/char_4004_pudd.md),[v2](char_v3/char_4004_pudd.md)) | 布洛卡([v1](chars/char_356_broca.md),[v2](char_v3/char_356_broca.md)) |
 | 裁度([v1](chars/char_4155_talr.md),[v2](char_v3/char_4155_talr.md)) | 苍苔([v1](chars/char_4106_bryota.md),[v2](char_v3/char_4106_bryota.md)) | 缠丸([v1](chars/char_289_gyuki.md),[v2](char_v3/char_289_gyuki.md)) | 车尔尼([v1](chars/char_4047_pianst.md),[v2](char_v3/char_4047_pianst.md)) | 陈([v1](chars/char_010_chen.md),[v2](char_v3/char_010_chen.md)) |
 | 骋风([v1](chars/char_445_wscoot.md),[v2](char_v3/char_445_wscoot.md)) | 澄闪([v1](chars/char_377_gdglow.md),[v2](char_v3/char_377_gdglow.md)) | 承曦格雷伊([v1](chars/char_1027_greyy2.md)) | 赤冬([v1](chars/char_475_akafyu.md),[v2](char_v3/char_475_akafyu.md)) | 斥罪([v1](chars/char_4065_judge.md),[v2](char_v3/char_4065_judge.md)) |
 | 仇白([v1](chars/char_4082_qiubai.md),[v2](char_v3/char_4082_qiubai.md)) | 初雪([v1](chars/char_174_slbell.md),[v2](char_v3/char_174_slbell.md)) | 纯烬艾雅法拉([v1](chars/char_1016_agoat2.md)) | 刺玫([v1](chars/char_494_vendla.md),[v2](char_v3/char_494_vendla.md)) | 伺夜([v1](chars/char_427_vigil.md),[v2](char_v3/char_427_vigil.md)) |
@@ -34,7 +34,7 @@
 | 断罪者([v1](chars/char_159_peacok.md),[v2](char_v3/char_159_peacok.md)) | 铎铃([v1](chars/char_4083_chimes.md),[v2](char_v3/char_4083_chimes.md)) | 多萝西([v1](chars/char_4048_doroth.md),[v2](char_v3/char_4048_doroth.md)) | 芳汀([v1](chars/char_271_spikes.md),[v2](char_v3/char_271_spikes.md)) | 菲莱([v1](chars/char_4148_philae.md),[v2](char_v3/char_4148_philae.md)) |
 | 菲亚梅塔([v1](chars/char_300_phenxi.md),[v2](char_v3/char_300_phenxi.md)) | 芬([v1](chars/char_123_fang.md),[v2](char_v3/char_123_fang.md)) | 风笛([v1](chars/char_222_bpipe.md),[v2](char_v3/char_222_bpipe.md)) | 风丸([v1](chars/char_4016_kazema.md),[v2](char_v3/char_4016_kazema.md)) | 芙兰卡([v1](chars/char_106_franka.md),[v2](char_v3/char_106_franka.md)) |
 | 芙蓉([v1](chars/char_120_hibisc.md),[v2](char_v3/char_120_hibisc.md)) | 格拉尼([v1](chars/char_220_grani.md),[v2](char_v3/char_220_grani.md)) | 格劳克斯([v1](chars/char_326_glacus.md),[v2](char_v3/char_326_glacus.md)) | 歌蕾蒂娅([v1](chars/char_474_glady.md),[v2](char_v3/char_474_glady.md)) | 格雷伊([v1](chars/char_253_greyy.md),[v2](char_v3/char_253_greyy.md)) |
-| 古米([v1](chars/char_196_sunbr.md),[v2](char_v3/char_196_sunbr.md)) | 归溟幽灵鲨([v1](chars/char_1023_ghost2.md)) | 瑰盐([v1](chars/char_4163_rosesa.md),[v2](char_v3/char_4163_rosesa.md)) | 傀影([v1](chars/char_250_phatom.md),[v2](char_v3/char_250_phatom.md)) | 哈洛德([v1](chars/char_4114_harold.md)) |
+| 古米([v1](chars/char_196_sunbr.md),[v2](char_v3/char_196_sunbr.md)) | 归溟幽灵鲨([v1](chars/char_1023_ghost2.md)) | 瑰盐([v1](chars/char_4163_rosesa.md),[v2](char_v3/char_4163_rosesa.md)) | 傀影([v1](chars/char_250_phatom.md),[v2](char_v3/char_250_phatom.md)) | 哈洛德([v1](chars/char_4114_harold.md),[v2](char_v3/char_4114_harold.md)) |
 | 海蒂([v1](chars/char_4045_heidi.md),[v2](char_v3/char_4045_heidi.md)) | 海沫([v1](chars/char_4066_highmo.md)) | 海霓([v1](chars/char_4079_haini.md)) | 寒芒克洛丝([v1](chars/char_1021_kroos2.md)) | 寒檀([v1](chars/char_341_sntlla.md),[v2](char_v3/char_341_sntlla.md)) |
 | 号角([v1](chars/char_4039_horn.md),[v2](char_v3/char_4039_horn.md)) | 赫德雷([v1](chars/char_4088_hodrer.md),[v2](char_v3/char_4088_hodrer.md)) | 褐果([v1](chars/char_4041_chnut.md)) | 赫拉格([v1](chars/char_188_helage.md),[v2](char_v3/char_188_helage.md)) | 赫默([v1](chars/char_108_silent.md),[v2](char_v3/char_108_silent.md)) |
 | 和弦([v1](chars/char_297_hamoni.md)) | 黑([v1](chars/char_340_shwaz.md),[v2](char_v3/char_340_shwaz.md)) | 黑键([v1](chars/char_4046_ebnhlz.md),[v2](char_v3/char_4046_ebnhlz.md)) | 黑角([v1](chars/char_500_noirc.md)) | 衡沙([v1](chars/char_4140_lasher.md)) |

@@ -19,7 +19,8 @@
 
 Additional TODO items (ordered from top pri to low pri):
 - Complete the 版本二角色wiki generation
-- Automatically Add hyperlink between 相关活动 and 相关角色
+- Done ~~Automatically Add hyperlink between 相关活动 and 相关角色~~
+- Done ~~Add character name for their indivudual stories in the story index page~~
 - Selectively and gradually fix the hullcination for 版本二角色wiki and 活动wiki
 - Improving the prompt and retrieval heuristics 
 

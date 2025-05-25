@@ -16,7 +16,7 @@ Touch是罗德岛的一名精英干员，同时也是医疗部门的重要成员
 -   **煌([v1](../chars/char_017_huang.md),[v2](char_017_huang.md))**：在煌的回忆中，Touch与其他几位精英干员一起为她举办了在罗德岛的第一次生日庆祝，让她感受到伙伴的温暖和罗德岛的归属感。
 -   **华法琳([v1](../chars/char_171_bldsk.md),[v2](char_171_bldsk.md))**：Touch是华法琳在医疗研究方面的同事和伙伴，他们一同研究了感染者克洛伊的特殊病例。在罗德岛危机后，Touch与华法琳一同处理后续的伤亡统计和重建工作，并表现出对华法琳情绪的理解和支持。
 -   **Ace; Scout; Mechanist**：与Touch同为罗德岛精英干员，一同参与了为煌举办的惊喜生日庆祝。
--   **Pith([v1](../chars/char_612_accast.md))**：与Touch同为罗德岛精英干员，在罗德岛本舰遭遇内部危机期间，他们一同完成了大部分非核心区域的清理任务。
+-   **Pith([v1](../chars/char_612_accast.md),[v2](char_612_accast.md))**：与Touch同为罗德岛精英干员，在罗德岛本舰遭遇内部危机期间，他们一同完成了大部分非核心区域的清理任务。
 -   **博士([v2](extended_char_bo_shi.md))**：Touch是随同博士一同突入罗德岛Abyss核心区域的精英干员之一。在“慈悲灯塔”活动末尾，Touch出现在博士的内化宇宙（记忆/潜意识空间）中，参与Outcast的退休仪式。
 -   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：Touch在煌生日时曾代阿米娅送上生日祝福。Touch是随同阿米娅一同突入罗德岛Abyss核心区域的精英干员之一。
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：Touch是随同凯尔希一同突入罗德岛Abyss核心区域的精英干员之一。

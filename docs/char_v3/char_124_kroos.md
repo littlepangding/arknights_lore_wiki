@@ -24,7 +24,7 @@
 -   **老鲤([v1](../chars/char_322_lmlee.md),[v2](char_322_lmlee.md))**：罗德岛合作人。在将进酒活动中，克洛丝与乌有意外卷入老鲤的事件，并选择信任和支援老鲤，最终帮助他解决麻烦。
 -   **左乐([v1](../chars/char_4121_zuole.md),[v2](char_4121_zuole.md))**：大炎朝廷司岁台秉烛人。在将进酒活动中多次接触克洛丝，试图说服她协助司岁台，但被克洛丝明确拒绝，因为克洛丝选择信任年。
 -   **稀音([v1](../chars/char_336_folivo.md))**：罗德岛干员。在苹果活动中，克洛丝躲避芬和米格鲁时遇到稀音和镜头，与镜头交流，并帮助稀音处理无人机故障。
--   **柏喙([v1](../chars/char_252_bibeak.md))**：罗德岛干员。克洛丝参加了柏喙的送行茶话会，用幽默的方式关心和支持她。
+-   **柏喙([v1](../chars/char_252_bibeak.md),[v2](char_252_bibeak.md))**：罗德岛干员。克洛丝参加了柏喙的送行茶话会，用幽默的方式关心和支持她。
 -   **苇草([v1](../chars/char_261_sddrag.md),[v2](char_261_sddrag.md))**：罗德岛干员。在芦苇之心活动中，克洛丝在训练场偶遇并帮助苇草寻找Outcast的线索，并鼓励她尝试射击。
 -   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：罗德岛干员。克洛丝在芦苇之心活动中称呼她为“好老师”，并知道她的遗物存放在遗物室。
 -   **Ace([v1](../chars/extended_char_Ace.md),[v2](extended_char_Ace.md))**：已故罗德岛干员。在博士的意识投影中，A1小队曾在Ace的监督下进行训练。

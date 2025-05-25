@@ -17,7 +17,7 @@ Sharp是罗德岛的精英干员，以其卓越的战斗能力和高度的职业
 -   **锏([v1](../chars/char_4116_blkkgt.md),[v2](char_4116_blkkgt.md))**：谢拉格的黑骑士，在“风雪过境”中与Sharp交手，对其战斗能力给予高度评价，并在“银心湖列车”中再次相遇时表达了切磋的意愿。
 -   **极光([v1](../chars/char_422_aurora.md),[v2](char_422_aurora.md))**：罗德岛干员，在“风雪过境”中与Sharp一同行动，称呼他为“队长”，两人共同制定营救博士的计划，Sharp对极光及其家人表示关心。
 -   **烈夏([v1](../chars/char_194_leto.md),[v2](char_194_leto.md))**：罗德岛干员，在“银心湖列车”中与Sharp同行，称呼他为“Sharp大哥”，显示两人关系亲近。
--   **Stormeye([v1](../chars/char_611_acnipe.md))**：罗德岛精英干员，在“离解复合”中与Sharp共同执行任务，Sharp在“风雪过境”中提到Stormeye可能会喜欢锏这样的对手。
+-   **Stormeye([v1](../chars/char_611_acnipe.md),[v2](char_611_acnipe.md))**：罗德岛精英干员，在“离解复合”中与Sharp共同执行任务，Sharp在“风雪过境”中提到Stormeye可能会喜欢锏这样的对手。
 -   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：罗德岛干员（已故），在博士的“内化宇宙”中所见的退休仪式上，Sharp向其表达了敬意。
 -   **“灰礼帽”**：在“银心湖列车”中偶然遇到Sharp一行人，通过制服认出Sharp来自罗德岛。
 -   **恩希欧迪斯**：谢拉格希瓦艾什家族成员，在“风雪过境”中，Sharp在制定计划时曾将其视为假想敌，但后来在冲突中出手阻止了可能危及恩希欧迪斯方的进一步恶化。

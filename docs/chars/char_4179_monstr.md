@@ -22,7 +22,7 @@ Mon3tr，代号AMa-10，是前文明时期以双生循环系统为核心研发�
 -   **亚叶([v1](char_345_folnic.md),[v2](../char_v3/char_345_folnic.md))**：亚叶会温柔地帮助Mon3tr处理一些遗漏的事情。
 -   **煌([v1](char_017_huang.md),[v2](../char_v3/char_017_huang.md))**：煌是Mon3tr在训练场进行对抗练习的最佳对手。煌对Mon3tr新形态的战斗技巧和神出鬼没表示惊讶，并确认Mon3tr仍能使用喷射冲击波一类的能力。
 -   **迷迭香([v1](char_391_rosmon.md),[v2](../char_v3/char_391_rosmon.md))**：迷迭香曾触碰Mon3tr的手，指出她现在的手是软的。
--   **Stormeye([v1](char_611_acnipe.md))**：将Mon3tr视为罗德岛的新战友和战斗伙伴。
+-   **Stormeye([v1](char_611_acnipe.md),[v2](../char_v3/char_611_acnipe.md))**：将Mon3tr视为罗德岛的新战友和战斗伙伴。
 -   **普瑞赛斯 (P.R.T.S.)**：前文明播种舰的管理员Oracle，与Mon3tr（AMa-10）曾是舰船上的管理员。在“众生行记”活动中，博士和Mon3tr在PCS演算空间中遇到了PCS系统的人格具象普瑞赛斯。普瑞赛斯称Mon3tr为“AMa-10”，并表示“又见面了”。Mon3tr试图接入PCS，却意外将普瑞赛斯拉入演算空间，并称她为“幽灵”、“一段具象化的代码”。普瑞赛斯对Mon3tr表现出一定程度的了解，提及她的“底层代码”和“自行更新迭代”，也提到了凯尔希（称其为“你的凯尔希”），并试图以修复Mon3tr的缺陷为诱饵拉拢她。Mon3tr拒绝了普瑞赛斯的提议，并协助博士对抗和摧毁PCS。
 -   **歧法/圣徒**：拉特兰“众生行记”事件中PCS系统具象出的“圣徒”形态，也是拉特兰最初的圣徒。Mon3tr在追逐圣徒的过程中下意识地称其为“怪物”，并与博士一同被卷入由圣徒/PCS制造的集体幻觉和灾异，最终对抗PCS。Mon3tr将圣徒视作灾异的核心，并试图阻止她。
 -   **伊万杰利斯塔十一世([v1](extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md),[v2](../char_v3/extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md))**：拉特兰教宗。Mon3tr与博士在“众生行记”中遭遇了因PCS而状态衰弱的教宗，他们的行动最终帮助平息了灾异，使得教宗得以清醒并主持拉特兰重建。

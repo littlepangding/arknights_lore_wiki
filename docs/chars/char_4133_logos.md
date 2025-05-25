@@ -16,11 +16,11 @@
 -   **博士([v2](../char_v3/extended_char_bo_shi.md))**：罗德岛的领导者，逻各斯向其述职，讨论咒术、源石技艺与卡兹戴尔的诅咒。逻各斯为其驱散噩梦，赠送有助眠咒文的睡帽和寄托新生祝福的新年芦苇项链。
 -   **女妖们**：逻各斯河谷的姐妹和长辈，热情，尊敬逻各斯为“女主人”。在河谷中与哀珐尼尔一同生活、歌唱、起舞。
 -   **Mechanist([v1](char_610_acfend.md),[v2](../char_v3/char_610_acfend.md))**：罗德岛干员，与逻各斯一同研究咒术谜题、程序谜题以及“宿醉消失”咒言。两人曾一同组织并改造了圆凳滑行赛赛场。
--   **Pith([v1](char_612_accast.md))**：罗德岛干员，逻各斯在进行源石技艺实验时的好战友，协助进行转录、纠错与教学工作。
+-   **Pith([v1](char_612_accast.md),[v2](../char_v3/char_612_accast.md))**：罗德岛干员，逻各斯在进行源石技艺实验时的好战友，协助进行转录、纠错与教学工作。
 -   **Misery([v1](char_615_acspec.md),[v2](../char_v3/char_615_acspec.md))**：罗德岛精英干员，见证了逻各斯在源石技艺上的突破。曾参与圆凳滑行赛。
 -   **Outcast([v1](extended_char_Outcast.md),[v2](../char_v3/extended_char_Outcast.md))**：罗德岛精英干员，曾与Misery有赌局。参与圆凳滑行赛并被Misery追尾。
 -   **煌([v1](char_017_huang.md),[v2](../char_v3/char_017_huang.md))**：罗德岛精英干员，战斗中容易休克。参与圆凳滑行赛并第一个出局。
--   **Stormeye([v1](char_611_acnipe.md))**：罗德岛精英干员，遇到强敌时易沉迷战斗。
+-   **Stormeye([v1](char_611_acnipe.md),[v2](../char_v3/char_611_acnipe.md))**：罗德岛精英干员，遇到强敌时易沉迷战斗。
 -   **Sharp([v1](char_609_acguad.md),[v2](../char_v3/char_609_acguad.md))**：罗德岛精英干员，将“绝不做多余的事”奉为人生准则，曾在战斗中将Stormeye从火线上扯下。
 -   **Mantra([v1](extended_char_Mantra.md),[v2](../char_v3/extended_char_Mantra.md))**：罗德岛精英干员，擅长掌握舰上的花边新闻。
 -   **Ace([v1](extended_char_Ace.md),[v2](../char_v3/extended_char_Ace.md))**：罗德岛精英干员，在圆凳滑行赛中追逐冠军。

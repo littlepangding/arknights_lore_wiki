@@ -20,7 +20,7 @@ U-Official，通称主播U，是一位于某移动城市作为网络主播活动
 -   **傀影([v1](char_250_phatom.md),[v2](../char_v3/char_250_phatom.md))**：原计划作为U-Official直播采访的嘉宾，但临时不见了。
 -   **莱恩哈特([v1](char_373_lionhd.md),[v2](../char_v3/char_373_lionhd.md))**：原计划作为U-Official直播采访的嘉宾，但有外勤任务。
 -   **雪绒([v1](char_466_qanik.md))**：原计划作为U-Official直播采访的嘉宾，但在忙。
--   **THRM-EX([v1](char_376_therex.md))**：在原定嘉宾缺席的情况下，作为“阳光开朗热情大帅哥”临时救场，成为了U-Official直播采访的嘉宾。
+-   **THRM-EX([v1](char_376_therex.md),[v2](../char_v3/char_376_therex.md))**：在原定嘉宾缺席的情况下，作为“阳光开朗热情大帅哥”临时救场，成为了U-Official直播采访的嘉宾。
 -   **稀音([v1](char_336_folivo.md))**：作为U-Official八小时不间断直播挑战的嘉宾之一，直播过程中突然不说话，让U-Official感到困惑。
 -   **食铁兽([v1](char_241_panda.md))**：作为U-Official吃播挑战的嘉宾，一起挑战吃辣。被U-Official即使吃到脱水也坚持完成工作的职业精神所感动，表示会帮忙联系尚蜀文艺界的熟人，为她拓展职业道路。
 ## 详细介绍

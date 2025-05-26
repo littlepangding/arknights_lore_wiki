@@ -22,7 +22,7 @@ Lancet-2是罗德岛的一台医疗作业平台，由雷神工业制造，经罗
 -   **迪伦([v1](../chars/extended_char_di_lun.md))**：在密林地区与Lancet-2一同滞留并看护坠毁的飞行器，藏匿了火箭筒在Lancet-2体内。
 -   **祖玛玛**：对Lancet-2的存在和先进机械本质感到震撼，成为其决定前往罗德岛学习技术的契机之一。
 -   **大祭司([v1](../chars/extended_char_da_ji_si.md))**：对Lancet-2感到好奇，甚至向其发出了约会邀请。
--   **贾维([v1](../chars/char_349_chiave.md))**：称Lancet-2是他的“挚友”，并向埃拉托推荐其为英雄人选。
+-   **贾维([v1](../chars/char_349_chiave.md),[v2](char_349_chiave.md))**：称Lancet-2是他的“挚友”，并向埃拉托推荐其为英雄人选。
 -   **埃拉托([v1](../chars/char_4043_erato.md),[v2](char_4043_erato.md))**：为了创作诗篇而拜访了Lancet-2，看到了Lancet-2的自我怀疑和对博士的关心。
 -   **Friston-3([v1](../chars/char_4093_frston.md),[v2](char_4093_frston.md))**：在PRTS失控事件中，通过代码覆写连接了Lancet-2等小车，Lancet-2似乎因此感知到了Friston-3的情绪。
 -   **清流([v1](../chars/char_385_finlpp.md))**：Lancet-2受可露希尔委托向其传递了气象和水文资料。

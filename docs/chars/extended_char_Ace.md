@@ -20,7 +20,7 @@ Ace，巴别塔时期的一员，后加入罗德岛，是罗德岛精锐干员�
 -   **杜宾([v1](char_130_doberm.md),[v2](../char_v3/char_130_doberm.md))**：E0小队领袖，与Ace共同指挥切尔诺伯格撤离行动，对Ace的指挥能力表示认可，称他们是“共患难的战友”。
 -   **Scout([v1](extended_char_Scout.md),[v2](../char_v3/extended_char_Scout.md))**：E0小队成员，Ace似乎是他的上级或资深同伴，Scout信任Ace的判断和能力。在巴别塔事件中，Scout也执行Ace的命令。Ace在牺牲前与Scout有过关于流民聚落旧设备的打赌。
 -   **煌([v1](char_017_huang.md),[v2](../char_v3/char_017_huang.md))**：Ace是煌的导师和推荐人，指导她的训练和作战。煌非常尊敬和信任Ace，称呼他为“Ace大姐头”。
--   **米格鲁([v1](char_122_beagle.md))**：Ace是米格鲁敬重的前辈，米格鲁在罗德岛的遗物室里定期擦拭Ace的盾牌。
+-   **米格鲁([v1](char_122_beagle.md),[v2](../char_v3/char_122_beagle.md))**：Ace是米格鲁敬重的前辈，米格鲁在罗德岛的遗物室里定期擦拭Ace的盾牌。
 -   **萨卡兹谋反者**：Ace在巴别塔时期审问过一名对博士心怀敌意的萨卡兹谋反者，试图理解他的动机，并讲述了自己眼中博士的形象。
 -   **塔露拉([v1](extended_char_386da9.md),[v2](../char_v3/extended_char_ta_lu_la.md))**：Ace在切尔诺伯格撤退时遭遇塔露拉，与她战斗以掩护队友撤离，最终牺牲在塔露拉手下。塔露拉也承认Ace的顽强。
 ## 详细介绍

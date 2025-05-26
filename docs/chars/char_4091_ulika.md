@@ -13,8 +13,8 @@
 ## 简要介绍
 U-Official，通称主播U，是一位于某移动城市作为网络主播活动的札拉克女性，经干员卡达介绍加入罗德岛。她原为一名主持人，后转型为主播。在罗德岛，她主要负责为干员们提供直播服务、担任活动主持，并作为顾问协助罗德岛与外部传媒机构的合作。尽管体检报告显示其生理和战斗能力普通甚至有缺陷，且似乎不太愿意出门，但她展现了极强的职业精神。她似乎有着一段不愿被深挖的过去，甚至可能使用过“尤里卡”这一名字，并因此对某些人保持警惕。
 ## 相关角色
--   **卡达([v1](char_328_cammou.md))**：U-Official加入罗德岛的介绍人，对U-Official伸出了援手。
--   **龙舌兰([v1](char_486_takila.md))**：似乎认出U-Official过去的身份，称其为“尤里卡”，但被U-Official矢口否认，U-Official称龙舌兰是“道貌岸然的大骗子”。这暗示了U-Official可能有不为人知的过去。
+-   **卡达([v1](char_328_cammou.md),[v2](../char_v3/char_328_cammou.md))**：U-Official加入罗德岛的介绍人，对U-Official伸出了援手。
+-   **龙舌兰([v1](char_486_takila.md),[v2](../char_v3/char_486_takila.md))**：似乎认出U-Official过去的身份，称其为“尤里卡”，但被U-Official矢口否认，U-Official称龙舌兰是“道貌岸然的大骗子”。这暗示了U-Official可能有不为人知的过去。
 -   **嘉维尔([v1](char_187_ccheal.md),[v2](../char_v3/char_187_ccheal.md))**：医疗部干员。关心U-Official久坐不动的生活方式，建议她多运动，并答应在可露希尔提议下，教导U-Official基础的拉伸运动，甚至可能配合直播。
 -   **可露希尔([v1](extended_char_ke_lu_xi_er.md),[v2](../char_v3/extended_char_ke_lu_xi_er.md))**：工程部干员。答应帮助U-Official策划罗德岛的首播内容，并提议让嘉维尔教导U-Official拉伸，同时嘱咐嘉维尔手下留情。
 -   **傀影([v1](char_250_phatom.md),[v2](../char_v3/char_250_phatom.md))**：原计划作为U-Official直播采访的嘉宾，但临时不见了。

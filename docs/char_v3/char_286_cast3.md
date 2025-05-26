@@ -16,9 +16,9 @@ Castle-3是一台由哥伦比亚雷神工业制造，后被罗德岛工程师可
 -   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：Castle-3的制造者和管理者，对他进行了深度改造和升级。Castle-3将可露希尔视为“主人”，对她高度忠诚，并曾被设定为最喜欢可露希尔。
 -   **博士([v2](extended_char_bo_shi.md))**：Castle-3的主要指挥者和并肩作战的伙伴。Castle-3对博士也表现出极高的忠诚，认为博士非常重要，愿意为博士赴汤蹈火。在不朽事件中，Castle-3选择与博士一起度过最后时刻并共同撤离。
 -   **Thermal-EX;Lancet-2**：罗德岛上的其他小型机械单位。Castle-3经常与它们一同执行任务，组成机械小队，例如一同照顾比丢，或在离解复合事件中一同被PRTS控制。
--   **贾维([v1](../chars/char_349_chiave.md))**：罗德岛干员，与Castle-3关系较好，称Castle-3为“兄弟”或“小弟”。在不朽事件中，贾维试图营救面临报废的Castle-3，并在他升级后为他更新了歌曲库。Castle-3升级后也 playfully 称贾维为“好小弟”。
+-   **贾维([v1](../chars/char_349_chiave.md),[v2](char_349_chiave.md))**：罗德岛干员，与Castle-3关系较好，称Castle-3为“兄弟”或“小弟”。在不朽事件中，贾维试图营救面临报废的Castle-3，并在他升级后为他更新了歌曲库。Castle-3升级后也 playfully 称贾维为“好小弟”。
 -   **比丢**：在好久不见事件中，Castle-3与Thermal-EX、Lancet-2一同负责照顾的特殊生物。照顾比丢的经历让Castle-3反思了过度依赖手册的局限性，并开始学习更灵活的照顾方式。
--   **洛洛([v1](../chars/char_4040_rockr.md))**：在好久不见事件中，洛洛向Castle-3等机械单位展示了更具人性化和经验性的照顾比丢的方式，促使Castle-3开始反思。
+-   **洛洛([v1](../chars/char_4040_rockr.md),[v2](char_4040_rockr.md))**：在好久不见事件中，洛洛向Castle-3等机械单位展示了更具人性化和经验性的照顾比丢的方式，促使Castle-3开始反思。
 -   **猎弓**：一位已故的罗德岛狙击干员，其在生命最后时刻通过在外壳刻痕来记录击杀数的行为，启发了Castle-3开始在他自己的外壳上刻痕计数，以“模仿”和理解“纪念”的意义。
 -   **Friston-3([v1](../chars/char_4093_frston.md),[v2](char_4093_frston.md))**：在离解复合事件中，Friston-3帮助被失控PRTS控制的Castle-3等机械单位恢复正常，并在此过程中与Castle-3的思维模组短暂相连。
 ## 详细介绍

@@ -20,7 +20,7 @@
 -   **Scout([v1](../chars/extended_char_Scout.md),[v2](extended_char_Scout.md))**：罗德岛已故干员，与Ace一同牺牲，煌为此寻求复仇。
 -   **Mechanist([v1](../chars/char_610_acfend.md),[v2](char_610_acfend.md))**：罗德岛工程干员，为煌定制和维护武器，是她的精英干员保荐人之一，煌会给他带礼物。
 -   **迷迭香([v1](../chars/char_391_rosmon.md),[v2](char_391_rosmon.md))**：罗德岛精英干员，煌关心她的安全，会陪她训练，关系亲近。
--   **温蒂([v1](../chars/char_400_weedy.md))**：罗德岛干员，煌是她的体能训练伙伴，关心温蒂的身体，训练方式激烈。
+-   **温蒂([v1](../chars/char_400_weedy.md),[v2](char_400_weedy.md))**：罗德岛干员，煌是她的体能训练伙伴，关心温蒂的身体，训练方式激烈。
 -   **灰喉([v1](../chars/char_367_swllow.md),[v2](char_367_swllow.md))**：罗德岛干员，煌最初有偏见，经历共同战斗后互相理解并成为战友。
 -   **霜星([v1](../chars/extended_char_shuang_xing.md),[v2](extended_char_shuang_xing.md))**：整合运动雪怪小队领袖，煌与她多次交战，对其强大和悲剧命运感到敬佩与不甘。
 -   **陈([v1](../chars/char_010_chen.md),[v2](char_010_chen.md))**：龙门近卫局警司，煌在龙门支援时与她并肩作战，并对她略带调侃。

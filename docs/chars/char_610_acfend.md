@@ -15,7 +15,7 @@ Mechanist是罗德岛工程部门的关键成员，专注于为干员设计和�
 ## 相关角色
 -   **煌([v1](char_017_huang.md),[v2](../char_v3/char_017_huang.md))**：Mechanist为煌设计并改进了她使用的巨型电锯武器。他为此付出了巨大心血，甚至让后勤部因纸张消耗而发怒。煌对Mechanist的武器表示赞赏，认为它是完成任务的关键，并会给她带礼物，例如叙拉古的特产奶酪。Mechanist作为见证人出席了煌的精英干员询问会议，并在会议前与其短暂交流。
 -   **Ace([v1](extended_char_Ace.md),[v2](../char_v3/extended_char_Ace.md))**：Ace在剧情中提及Mechanist为煌的武器付出了巨大心血，并建议煌多与Mechanist沟通。Ace和Mechanist一同作为见证人出现在煌的精英干员询问现场。Ace也是煌的保荐人。
--   **温蒂([v1](char_400_weedy.md))**：温蒂是申请成为正式干员并被批准的研究员，她的申请被可露希尔担保，并且她所在的工程部门与Mechanist的工作相关联（基于原有wiki信息）。在“你愿意吗”的剧情中，温蒂遇到了正在自言自语琢磨技术问题的煌。
+-   **温蒂([v1](char_400_weedy.md),[v2](../char_v3/char_400_weedy.md))**：温蒂是申请成为正式干员并被批准的研究员，她的申请被可露希尔担保，并且她所在的工程部门与Mechanist的工作相关联（基于原有wiki信息）。在“你愿意吗”的剧情中，温蒂遇到了正在自言自语琢磨技术问题的煌。
 -   **可露希尔([v1](extended_char_ke_lu_xi_er.md),[v2](../char_v3/extended_char_ke_lu_xi_er.md))**：可露希尔为温蒂的工程产品做了担保，这与Mechanist所在的工程部门有关联（基于原有wiki信息）。
 -   **凯尔希([v1](char_003_kalts.md),[v2](../char_v3/char_003_kalts.md))**：凯尔希是主导精英干员询问会议的人，Mechanist作为见证人之一出席了会议。
 -   **Logos([v1](extended_char_Logos.md))**：Logos和Mechanist一同作为见证人出现在煌的精英干员询问现场。

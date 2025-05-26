@@ -15,7 +15,7 @@ Lancet-2是罗德岛的一台医疗作业平台，由雷神工业制造，经罗
 ## 相关角色
 -   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：Lancet-2的工程师，对其进行了深度客制化，设置了“最喜欢的东西是可爱的可露希尔姐姐”的程序。Lancet-2在意自己被改造，也因此感到困惑。
 -   **博士([v2](extended_char_bo_shi.md))**：Lancet-2主要的护理对象之一。Lancet-2非常关心博士的健康，经常监测其数据并劝阻不良习惯（如喝咖啡、熬夜），会因博士的健康状况而过度担心或感到自责，也会因博士的肯定而高兴。
--   **酸糖([v1](../chars/char_366_acdrop.md))**：Lancet-2的朋友。酸糖曾因不习惯Lancet-2的健康提醒而对其进行恶作剧改造，但随后两人建立了“非常酷的——朋友”的关系。Lancet-2将这次事件定义为朋友间的有默契的恶作剧。
+-   **酸糖([v1](../chars/char_366_acdrop.md),[v2](char_366_acdrop.md))**：Lancet-2的朋友。酸糖曾因不习惯Lancet-2的健康提醒而对其进行恶作剧改造，但随后两人建立了“非常酷的——朋友”的关系。Lancet-2将这次事件定义为朋友间的有默契的恶作剧。
 -   **Thermal-EX**：罗德岛的机械载具之一，与Lancet-2、Castle-3一同照顾过宠物比丢。
 -   **Castle-3([v1](../chars/char_286_cast3.md),[v2](char_286_cast3.md))**：罗德岛的机械载具之一，与Lancet-2、Thermal-EX一同照顾过宠物比丢，一起讨论过照顾比丢的方式。
 -   **嘉维尔([v1](../chars/char_187_ccheal.md),[v2](char_187_ccheal.md))**：在密林地区参与救援了坠机后的Lancet-2。
@@ -25,7 +25,7 @@ Lancet-2是罗德岛的一台医疗作业平台，由雷神工业制造，经罗
 -   **贾维([v1](../chars/char_349_chiave.md),[v2](char_349_chiave.md))**：称Lancet-2是他的“挚友”，并向埃拉托推荐其为英雄人选。
 -   **埃拉托([v1](../chars/char_4043_erato.md),[v2](char_4043_erato.md))**：为了创作诗篇而拜访了Lancet-2，看到了Lancet-2的自我怀疑和对博士的关心。
 -   **Friston-3([v1](../chars/char_4093_frston.md),[v2](char_4093_frston.md))**：在PRTS失控事件中，通过代码覆写连接了Lancet-2等小车，Lancet-2似乎因此感知到了Friston-3的情绪。
--   **清流([v1](../chars/char_385_finlpp.md))**：Lancet-2受可露希尔委托向其传递了气象和水文资料。
+-   **清流([v1](../chars/char_385_finlpp.md),[v2](char_385_finlpp.md))**：Lancet-2受可露希尔委托向其传递了气象和水文资料。
 -   **森蚺([v1](../chars/char_416_zumama.md),[v2](char_416_zumama.md))**：受到Lancet-2的启发，设计了外观为一个放大版Lancet-2的移动城市，并希望邀请Lancet-2担任核心总控。
 -   **玫兰莎([v1](../chars/char_208_melan.md),[v2](char_208_melan.md))**：在“一个涂鸦”事件结尾，发现了Lancet-2背上的涂鸦。
 ## 详细介绍

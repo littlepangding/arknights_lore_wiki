@@ -23,7 +23,7 @@
 -   **Scout([v1](../chars/extended_char_Scout.md),[v2](extended_char_Scout.md))**：罗德岛侦察小队队长，在切尔诺伯格牺牲。迷迭香对他的牺牲感到痛苦和困惑，并回忆起他曾提及博士。
 -   **Ace([v1](../chars/extended_char_Ace.md),[v2](extended_char_Ace.md))**：已故的罗德岛干员，被Scout和迷迭香提及，似乎与博士、迷迭香有某种关联。
 -   **煌([v1](../chars/char_017_huang.md),[v2](char_017_huang.md))**：罗德岛精英干员，迷迭香的战友，有时会昵称她为“小猫”。
--   **温蒂([v1](../chars/char_400_weedy.md))**：罗德岛精英干员，迷迭香的朋友，被她记在笔记本上。
+-   **温蒂([v1](../chars/char_400_weedy.md),[v2](char_400_weedy.md))**：罗德岛精英干员，迷迭香的朋友，被她记在笔记本上。
 -   **Outcast, Pith, Touch, Logos**：罗德岛干员，参与了是否让迷迭香成为干员的投票和讨论，并在迷迭香的训练和评估中扮演角色。Outcast和Pith对迷迭香的未来和审判观有过深入交流。
 -   **爱国者([v1](../chars/extended_char_ai_guo_zhe.md),[v2](extended_char_ai_guo_zhe.md))**：整合运动指挥官，在“苦难摇篮”中与迷迭香交战。迷迭香试图对抗他，并在最后与Mon3tr一同对他造成了关键伤害。
 -   **Mon3tr([v1](../chars/char_4179_monstr.md),[v2](char_4179_monstr.md))**：凯尔希的召唤物，在“苦难摇篮”中与迷迭香一同对抗爱国者。

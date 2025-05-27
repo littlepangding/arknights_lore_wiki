@@ -15,7 +15,7 @@ Stormeye是罗德岛的精英干员，一位沉默寡言但经验极其丰富的
 ## 相关角色
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：Stormeye曾向凯尔希医生汇报在萨尔贡发现曼提柯少女（狮蝎）的经过。
 -   **狮蝎([v1](../chars/char_215_mantic.md),[v2](char_215_mantic.md))**：Stormeye是在萨尔贡荒漠中发现并带回罗德岛的曼提柯少女。
--   **巡林者([v1](../chars/char_503_rang.md))**：Stormeye与巡林者是旧识，知晓巡林者的外号“老游侠”和“血色山谷的弯刀”，曾在长泉镇危机中与他并肩作战。
+-   **巡林者([v1](../chars/char_503_rang.md),[v2](char_503_rang.md))**：Stormeye与巡林者是旧识，知晓巡林者的外号“老游侠”和“血色山谷的弯刀”，曾在长泉镇危机中与他并肩作战。
 -   **Sharp([v1](../chars/char_609_acguad.md),[v2](char_609_acguad.md))**：Stormeye与Sharp是长期的任务搭档，曾在罗德岛本舰异变危机中一同行动，互相扶持。
 -   **彩虹小队**：Stormeye在长泉镇危机中率队援救了彩虹小队成员，并在事后护送他们前往罗德岛，协助他们完成信息录入。
 ## 详细介绍

@@ -16,7 +16,7 @@
 -   **红([v1](char_144_red.md),[v2](../char_v3/char_144_red.md))**：恺撒的“獠牙”，称恺撒为“外婆”。恺撒是红的训练者，教授她“狩猎”并指引其寻找“真狼”。恺撒以“外婆”的身份出现，用谎言和情感联系驱使红执行狩猎任务。
 -   **扎罗([v1](extended_char_zha_luo.md))**：狼之主之一，本轮游戏中的“出局者”。与恺撒有长期的斗争。扎罗干涉游戏，并与拉普兰德同行。恺撒认为扎罗虚伪狡诈，并对其行为表示愤怒。
 -   **瓦古([v1](extended_char_wa_gu.md),[v2](../char_v3/extended_char_wa_gu.md))**：狼之主之一。瓦古的“獠牙”是翁贝托。瓦古不满恺撒欺骗红，称其为“无耻的狼之主”。瓦古因干涉游戏而受到其他狼之主的围困。
--   **阿涅塞([v1](extended_char_a_nie_sai.md))**：狼之主之一。与恺撒、扎罗、瓦古一同观察人类的游戏。
+-   **阿涅塞([v1](extended_char_a_nie_sai.md),[v2](../char_v3/extended_char_a_nie_sai.md))**：狼之主之一。与恺撒、扎罗、瓦古一同观察人类的游戏。
 -   **拉普兰德([v1](char_140_whitew.md),[v2](../char_v3/char_140_whitew.md))**：萨卢佐家族的白狼。她与扎罗一同行动，搅乱了新沃尔西尼的局势。恺撒评论拉普兰德的行动，并最终与其他狼之主一同认可她成为新的头狼。
 -   **翁贝托([v1](extended_char_weng_bei_tuo.md),[v2](../char_v3/extended_char_weng_bei_tuo.md))**：瓦古的“獠牙”。恺撒在故事中观察到瓦古的獠牙是翁贝托，并对其选择感到意外或不以为意。
 -   **大帝([v1](extended_char_da_di.md),[v2](../char_v3/extended_char_da_di.md))**：兽主之一。恺撒提到大帝找过他，暗示兽主们可能因某种危机而联系。

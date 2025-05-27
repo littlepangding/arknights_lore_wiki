@@ -23,7 +23,7 @@
 -   **博士([v2](extended_char_bo_shi.md))**：罗德岛的指挥官。早露对博士抱有信任，曾向博士讲述自己在切尔诺伯格的部分经历，并寻求其帮助（指引同伴）。博士批准了她的前线调岗申请，并在她需要时提供支持。
 -   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：罗德岛的领导者。参与了对乌萨斯学生的营救。理解并批准了早露转调前线的申请。
 -   **杜宾([v1](../chars/char_130_doberm.md),[v2](char_130_doberm.md))**：罗德岛教官。负责对早露进行前线战斗训练，肯定了早露的意志力。
--   **火神([v1](../chars/char_163_hpsts.md))**：罗德岛干员。为早露改造了她从切尔诺伯格找到的攻城器械作为武器。
+-   **火神([v1](../chars/char_163_hpsts.md),[v2](char_163_hpsts.md))**：罗德岛干员。为早露改造了她从切尔诺伯格找到的攻城器械作为武器。
 -   **Stormeye([v1](../chars/char_611_acnipe.md),[v2](char_611_acnipe.md))**：罗德岛干员。曾夸赞早露在实战演练中的表现。
 -   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：罗德岛干员。早露曾就美食节摊位事宜与她商议。
 ## 详细介绍

@@ -17,7 +17,7 @@ Logos;Logs;哀珐尼尔;丧钟的王庭;王庭丧钟;女妖之主
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：罗德岛重要成员，巴别塔时期的高层。Logos是她信任的精英干员，在源石技艺评估、情报处理等方面给予她协助。Logos感知到凯尔希突破限制后的变化，并能帮助理解相关编码。
 -   **特蕾西娅([v1](../chars/extended_char_te_lei_xi_ya.md),[v2](extended_char_te_lei_xi_ya.md))**：已故的巴别塔领袖。Logos的母亲将年幼的他托付给特蕾西娅，Logos在巴别塔追随她。特蕾西娅的死对Logos影响巨大，但他也继承了特蕾西娅部分关于萨卡兹未来的理想。
 -   **菈玛莲([v1](../chars/extended_char_la_ma_lian.md),[v2](extended_char_la_ma_lian.md))**：Logos的母亲，前女妖王庭之主。将Logos托付给特蕾西娅，对Logos影响深远。她可能在Logos重伤时提供了帮助。
--   **萨卢斯([v1](../chars/extended_char_sa_lu_si.md))**：赦罪师。Logos在恶兆湍流中及时出现，与萨卢斯交手并成功保护了阿米娅和博士，展现出与其抗衡的力量。
+-   **萨卢斯([v1](../chars/extended_char_sa_lu_si.md),[v2](extended_char_sa_lu_si.md))**：赦罪师。Logos在恶兆湍流中及时出现，与萨卢斯交手并成功保护了阿米娅和博士，展现出与其抗衡的力量。
 -   **血魔大君（杜卡雷）**：萨卡兹王庭成员。与Logos在恶兆湍流和淬火尘霾中多次交锋，Logos分析并对抗他的血魔法和仪式，理解“提卡兹的血”的影响。
 -   **孽茨雷布**：食腐者之王。在我们明日见和慈悲灯塔中与Logos交锋。称呼Logos为“哀珐尼尔”，似乎了解他的过去和命运。Logos在慈悲灯塔中独自断后并重伤了他。
 -   **变形者集群（茉莉）**：古老萨卡兹王庭。在惊霆无声中，Logos追猎他们，通过“帷幕”引导其思考存在意义，并最终见证了他们的“灭亡”与“新生”。
@@ -28,7 +28,7 @@ Logos;Logs;哀珐尼尔;丧钟的王庭;王庭丧钟;女妖之主
 -   **Ace([v1](../chars/extended_char_Ace.md),[v2](extended_char_Ace.md))**：巴别塔/罗德岛干员，Logos的朋友。巴别塔的幸存者，与Logos一起参加过圆凳滑行赛。
 -   **炎熔([v1](../chars/char_121_lava.md),[v2](char_121_lava.md))**：罗德岛干员。非常尊敬Logos，Logos曾指点并夸奖她在源石技艺上的天分。
 -   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：罗德岛工程师。Logos在离解复合后主动提出协助她破译PRTS源代码。
--   **萨卡兹锅炉工([v1](../chars/extended_char_sa_ka_zi_guo_lu_gong.md))**：罗德岛的锅炉工。在离解复合中与Logos一同应对舰内危机，称呼Logos为“哀珐尼尔”，似乎了解他的过去。
+-   **萨卡兹锅炉工([v1](../chars/extended_char_sa_ka_zi_guo_lu_gong.md),[v2](extended_char_sa_ka_zi_guo_lu_gong.md))**：罗德岛的锅炉工。在离解复合中与Logos一同应对舰内危机，称呼Logos为“哀珐尼尔”，似乎了解他的过去。
 ## 详细介绍
 逻各斯，本名哀珐尼尔，是萨卡兹报丧女妖（Banshee）族裔的成员，也是这一古老王庭现任的主人。他出生并成长于隐秘且美丽的哀珐尼尔河谷，其母菈玛莲是前任的女妖王庭之主。童年时期的哀珐尼尔，便展露出对卡兹戴尔及其历史的浓厚兴趣，早慧的他开始质疑母族为何舍弃卡兹戴尔城而迁徙至河谷。他对萨卡兹的过去、战争以及“六英雄”的故事充满好奇，并试图在古籍中寻找答案。他从小就展现出与族人不同的特质，对周围的世界和其中的“语言”充满探究欲，甚至在年幼时就使用骨笔记录观察到的声音和感受，试图理解生灵的痛苦并渴望帮助他们。菈玛莲理解并支持了哀珐尼尔的求知欲，允许他自由探索和练习巫术。
 

@@ -23,7 +23,7 @@
 -   **汉密尔顿上校([v1](../chars/extended_char_han_mi_er_dun_shang_xiao.md),[v2](extended_char_han_mi_er_dun_shang_xiao.md))**：小丘郡驻军指挥官。他因个人仇恨残害塔拉平民，与深池勾结。号角坚决反对并调查他的行为，最终与他站在对立面，誓要将其送上军事法庭。
 -   **曼弗雷德([v1](../chars/extended_char_man_fu_lei_de.md),[v2](extended_char_man_fu_lei_de.md))**：萨卡兹将军。在破碎日冕中，号角带领残兵与曼弗雷德正面交战，拖延时间，为阿米娅等人的行动争取了宝贵时间。曼弗雷德称她为“维多利亚的白狼”。
 -   **戴菲恩([v1](../chars/char_4110_delphn.md),[v2](char_4110_delphn.md))**：温德米尔公爵的女儿。在慈悲灯塔中，号角向因父亲战死而悲痛的戴菲恩致歉，并与她一同在典范军中行动。
--   **高多汀公爵([v1](../chars/extended_char_gao_duo_ting_gong_jue.md))**：维多利亚公爵。在慈悲灯塔中，高多汀公爵的回忆显示他童年时曾见过号角，称她为“小丽塔”。他在吉布森镇的战斗中与号角指挥的典范军协同作战。
+-   **高多汀公爵([v1](../chars/extended_char_gao_duo_ting_gong_jue.md),[v2](extended_char_gao_duo_ting_gong_jue.md))**：维多利亚公爵。在慈悲灯塔中，高多汀公爵的回忆显示他童年时曾见过号角，称她为“小丽塔”。他在吉布森镇的战斗中与号角指挥的典范军协同作战。
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：罗德岛干员。在惊霆无声中，号角与Misery等人掩护重伤的凯尔希撤离。
 -   **Logos([v1](../chars/extended_char_Logos.md))**：罗德岛干员。在惊霆无声中，与号角、Misery一同掩护撤离。
 -   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：罗德岛精英干员，已故。号角曾提及Outcast，并对她有所了解，可能与她在小丘郡或伦蒂尼姆的经历有关。档案中提到深池是杀死Outcast的势力之一。

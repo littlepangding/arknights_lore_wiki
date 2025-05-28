@@ -19,11 +19,11 @@
 -   **塞茜莉亚([v1](../chars/extended_char_sai_qian_li_ya.md),[v2](extended_char_sai_qian_li_ya.md))**：在“吾导先路”中被奥伦视为有价值的“筹码”，试图控制和利用；
 -   **费莉亚**：塞茜莉亚的母亲，奥伦曾帮助过她并因此被费德里科追查；
 -   **安多恩([v1](../chars/extended_char_an_duo_en.md),[v2](extended_char_an_duo_en.md))**：奥伦的联系人之一，奥伦认为他“添了很多麻烦”；
--   **帕蒂亚([v1](../chars/extended_char_pa_di_ya.md))**：奥伦的联系人之一，奥伦曾向她阐述立场；
+-   **帕蒂亚([v1](../chars/extended_char_pa_di_ya.md),[v2](extended_char_pa_di_ya.md))**：奥伦的联系人之一，奥伦曾向她阐述立场；
 -   **教宗**：奥伦曾是其信使，代表其行事，但奥伦对其理念有自己的看法；
 -   **阿尔图罗([v1](../chars/extended_char_a_er_tu_luo.md))**：奥伦曾见过她，后对费德里科未能阻止她离开感到意外；
 -   **维娜**：在“追迹日落以西”中作为信使拜访她并转达教宗邀请；
--   **高多汀公爵([v1](../chars/extended_char_gao_duo_ting_gong_jue.md))**：奥伦曾在其舰上帮助难民，似乎关系不错；
+-   **高多汀公爵([v1](../chars/extended_char_gao_duo_ting_gong_jue.md),[v2](extended_char_gao_duo_ting_gong_jue.md))**：奥伦曾在其舰上帮助难民，似乎关系不错；
 -   **蕾缪安([v1](../chars/char_4193_lemuen.md),[v2](char_4193_lemuen.md))**：在“空想花庭”中一同执行任务，在行动理念上激烈冲突，后一同返回拉特兰；
 -   **斯普莉雅**：在“空想花庭”中一同执行任务，奥伦秘密与其联系并透露计划；
 -   **里凯莱**：在“空想花庭”中一同执行任务，对奥伦的失联和行为警觉，后奥伦与其总结事件。

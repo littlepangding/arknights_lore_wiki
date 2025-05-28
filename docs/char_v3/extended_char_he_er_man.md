@@ -16,11 +16,11 @@
 -   **锡兰([v1](../chars/char_348_ceylon.md),[v2](char_348_ceylon.md))**：赫尔曼的亲生女儿，罗德岛干员。父女关系复杂，因理念不合有所疏远，后通过对母亲芭芭拉的了解有所缓和。
 -   **黑([v1](../chars/char_340_shwaz.md),[v2](char_340_shwaz.md))**：赫尔曼的养女、心腹兼保镖。曾是试图刺杀赫尔曼的杀手，被其收养。赫尔曼视她如亲生女儿，期望她拥有独立事业。
 -   **芭芭拉·道尔科斯**：赫尔曼已故的妻子，维多利亚学者。关心汐斯塔的感染者，她的理念深刻影响了赫尔曼，汐斯塔是为了纪念她而建。
--   **欧厄尔([v1](../chars/extended_char_ou_e_er.md))**：峯驰物流/峯联贸易的领导者，赫尔曼的商业合作伙伴。
+-   **欧厄尔([v1](../chars/extended_char_ou_e_er.md),[v2](extended_char_ou_e_er.md))**：峯驰物流/峯联贸易的领导者，赫尔曼的商业合作伙伴。
 -   **拜松([v1](../chars/char_325_bison.md),[v2](char_325_bison.md))**：欧厄尔的儿子，峯联贸易的成员。赫尔曼在商业竞争中最终选择与之合作。
 -   **诗怀雅([v1](../chars/char_308_swire.md),[v2](char_308_swire.md))**：龙门诗怀雅家族集团代表。在新汐斯塔商业街项目上与拜松竞争，最终与赫尔曼和峯联贸易合作。
 -   **魏彦吾([v1](../chars/extended_char_wei_yan_wu.md),[v2](extended_char_wei_yan_wu.md))**：龙门的核心人物，赫尔曼与其在政治层面有交流，相互观察和期许。
--   **克洛宁([v1](../chars/extended_char_ke_luo_ning.md))**：赫尔曼的前市长助理。贪污腐败，篡改火山数据，被赫尔曼揭露并解雇/关押。
+-   **克洛宁([v1](../chars/extended_char_ke_luo_ning.md),[v2](extended_char_ke_luo_ning.md))**：赫尔曼的前市长助理。贪污腐败，篡改火山数据，被赫尔曼揭露并解雇/关押。
 -   **赫拉格([v1](../chars/char_188_helage.md),[v2](char_188_helage.md))**：在火山危机中协助赫尔曼组织市民疏散。
 -   **查理**：黑的副手，接替黑成为治安局局长。
 -   **博士([v2](extended_char_bo_shi.md))**：罗德岛的博士。赫尔曼曾向其袒露心迹，并暗示他曾雇佣假扮自己的人（可能指博士）。

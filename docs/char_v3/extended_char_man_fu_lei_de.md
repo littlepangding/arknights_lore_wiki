@@ -26,7 +26,7 @@
 -   **蔓德拉([v1](../chars/extended_char_man_de_la.md),[v2](extended_char_man_de_la.md))**：深池指挥官。曼弗雷德与她维持着复杂的合作与敌对关系，最终设计并亲手杀死了她。
 -   **巫妖王庭**：萨卡兹王庭成员。在曼弗雷德的劝说下前往伦蒂尼姆。
 -   **厄尔苏拉([v1](../chars/extended_char_e_er_su_la.md),[v2](extended_char_e_er_su_la.md))**：军事委员会成员。曼弗雷德曾给她带来赫德雷的书，提及她关于“生命脊椎”的情报。
--   **莱托中校([v1](../chars/extended_char_lai_tuo_zhong_xiao.md))**：投靠萨卡兹的伦蒂尼姆城防军指挥官。与曼弗雷德有过合作，曼弗雷德曾救下他。
+-   **莱托中校([v1](../chars/extended_char_lai_tuo_zhong_xiao.md),[v2](extended_char_lai_tuo_zhong_xiao.md))**：投靠萨卡兹的伦蒂尼姆城防军指挥官。与曼弗雷德有过合作，曼弗雷德曾救下他。
 -   **Misery([v1](../chars/char_615_acspec.md),[v2](char_615_acspec.md))**：罗德岛精英干员。与曼弗雷德交手，能力令曼弗雷德感到惊讶和警惕。
 -   **号角([v1](../chars/char_4039_horn.md),[v2](char_4039_horn.md))**：维多利亚士兵。与曼弗雷德交战，被曼弗雷德认为是“可敬的对手”。
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：罗德岛干员。曼弗雷德知道她受伤、撤退。

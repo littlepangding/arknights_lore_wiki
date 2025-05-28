@@ -21,7 +21,7 @@
 -   **Ducare (血魔大君)**：萨卡兹血魔王庭之主，极度推崇血脉和传统力量。Logos在恶兆湍流中与Ducare多次交锋，Logos的言语系法术与Ducare的血系巫术形成对比。Ducare对Logos的言行不屑，认为他背离萨卡兹本质，但也承认Logos的强大。
 -   **Nezzar (食腐者之王)**：萨卡兹食腐者王庭之主，象征战争与死亡。Logos独自面对Nezzar的军队，并在单挑中击败了他，展现了远超传统认知的力量。Nezzar对Logos的力量感到惊讶，但认为他无法改变萨卡兹的宿命。
 -   **Quasitush'tah**：萨卡兹赦罪师首领，闪灵和萨卢斯的父亲。他试图篡夺“魔王”的力量并与“阿喃那”相连。Logos视他为萨卡兹腐朽力量的代表并与之对抗，但并未直接与他交手，而是对抗其部下和造物。
--   **萨卢斯([v1](extended_char_sa_lu_si.md))**：Logos的妹妹，赦罪师成员。追随Quasitush'tah。Logos在恶兆湍流中遭遇萨卢斯，并阻止她伤害阿米娅。Logos对她表现出复杂的情感，认识到她被扭曲的事实。
+-   **萨卢斯([v1](extended_char_sa_lu_si.md),[v2](../char_v3/extended_char_sa_lu_si.md))**：Logos的妹妹，赦罪师成员。追随Quasitush'tah。Logos在恶兆湍流中遭遇萨卢斯，并阻止她伤害阿米娅。Logos对她表现出复杂的情感，认识到她被扭曲的事实。
 -   **闪灵([v1](char_147_shining.md),[v2](../char_v3/char_147_shining.md))**：Logos的姐妹，赦罪师成员，罗德岛使徒。Logos认可她的正直和力量，并与她一同对抗Quasitush'tah的邪恶计划。Logos知道闪灵也在为丽兹的命运挣扎。
 -   **Ace; Scout; Misery; Outcast**：巴别塔时期的战友，罗德岛精英干员。Logos在巴别塔覆灭后选择留在罗德岛，与这些坚守巴别塔理想的同伴共事，他将他们视为真正的朋友和理想的同行者。
 -   **W([v1](char_113_cqbw.md),[v2](../char_v3/char_113_cqbw.md))**：萨卡兹雇佣兵，曾与巴别塔合作。在维多利亚与Logos等人合作，虽然时有摩擦，但Logos认可她的力量和对特蕾西娅的特殊情感。他们曾一同面对死魂灵的威胁。

@@ -16,10 +16,10 @@
 -   **Guard([v1](../chars/extended_char_Guard.md),[v2](extended_char_Guard.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
 -   **雷德([v1](../chars/extended_char_lei_de.md),[v2](extended_char_lei_de.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
 -   **九([v1](../chars/extended_char_jiu.md),[v2](extended_char_jiu.md))**：安德烈向她汇报载具修复的技术需求。
--   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md))**：为安德烈的团队运送载具修复所需的零件。
+-   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md),[v2](extended_char_kan_nuo_te.md))**：为安德烈的团队运送载具修复所需的零件。
 -   **Dijkstra([v1](../chars/extended_char_Dijkstra.md),[v2](extended_char_Dijkstra.md))**：哥伦比亚术师，为安德烈团队提供了悬浮载具的情报。
 -   **烈夏([v1](../chars/char_194_leto.md),[v2](char_194_leto.md))**：在切尔诺伯格占领期间击败了作为学生团体领袖的安德烈。
--   **卢布廖夫([v1](../chars/extended_char_lu_bu_liao_fu.md))**：在切尔诺伯格废墟中与安德烈相依为命，安德烈冒险为其寻找医疗物资。
+-   **卢布廖夫([v1](../chars/extended_char_lu_bu_liao_fu.md),[v2](extended_char_lu_bu_liao_fu.md))**：在切尔诺伯格废墟中与安德烈相依为命，安德烈冒险为其寻找医疗物资。
 -   **W([v1](../chars/char_113_cqbw.md),[v2](char_113_cqbw.md))**：在切尔诺伯格废墟中遇到安德烈和卢布廖夫，观察并以言语引导了安德烈的求生行为。
 -   **整合运动**：安德烈曾在切尔诺伯格占领期间领导学生团体，后在骸骨荒原与部分整合运动成员（如Guard、雷德、九）进行技术合作。
 ## 详细介绍

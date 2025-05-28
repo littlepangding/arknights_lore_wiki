@@ -21,7 +21,7 @@ Stormeye是一位罗德岛的干员，也是一位精通箭术的优秀战斗人
 -   **雷蛇;黑;芙兰卡**：罗德岛外勤小队成员，与巡林者一同行动，并在“源石尘行动”后期与Stormeye带领的援军和彩虹小队并肩作战，击退了袭击者。
 -   **奥克芬([v1](extended_char_ao_ke_fen.md),[v2](../char_v3/extended_char_ao_ke_fen.md))**：罗德岛安全屋看门人/后勤预备干员，在“源石尘行动”中被袭击者打伤，被Stormeye和彩虹小队救助并安置。Stormeye带领的援军抵达后，他向Stormeye等人汇报了安全屋被袭击的情况。
 -   **米亚罗([v1](extended_char_mi_ya_luo.md),[v2](../char_v3/extended_char_mi_ya_luo.md))**：长泉镇感染者医生，在“源石尘行动”中被Stormeye等人（包括彩虹小队和罗德岛外勤小队）保护和救助。Stormeye的援军赶到时，他已牺牲。
--   **皮加尔([v1](extended_char_pi_jia_er.md))**：长泉镇领主之女，在“源石尘行动”后期出现，将幸存的感染者带走。
+-   **皮加尔([v1](extended_char_pi_jia_er.md),[v2](../char_v3/extended_char_pi_jia_er.md))**：长泉镇领主之女，在“源石尘行动”后期出现，将幸存的感染者带走。
 -   **德鲁奇;列维**：长泉镇危机的始作俑者，制造并操纵变异生物袭击长泉镇和平民。Stormeye带领的援军帮助对抗了他们的造物和雇佣兵。
 ## 详细介绍
 Stormeye是罗德岛的一名外勤干员，他同时也是一位精通箭术的战斗人员，与“游侠”这一身份背景有着某种联系。

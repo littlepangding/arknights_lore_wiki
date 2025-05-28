@@ -18,10 +18,10 @@
 -   **风笛([v1](../chars/char_222_bpipe.md),[v2](char_222_bpipe.md))**：罗德岛干员，在小丘郡事件中受Outcast所托，将拉芙希妮带往罗德岛。曾对拉芙希妮的深池身份有所怀疑，后选择信任。
 -   **陈([v1](../chars/char_010_chen.md),[v2](char_010_chen.md))**：罗德岛干员，与风笛一同在维多利亚行动时与苇草有过短暂接触和合作。
 -   **维恩([v1](../chars/extended_char_wei_en.md),[v2](extended_char_wei_en.md))**：塔拉流民，在“照我以火”中被苇草保护，并因对苇草的信任而选择站出来保护她。
--   **塞尔蒙([v1](../chars/extended_char_sai_er_meng.md))**：塔拉流民，维恩的同伴，曾鼓动流民加入深池。其兄长是深池“亡魂”。他的遭遇反映了塔拉人的苦难和深池的激进倾向。
+-   **塞尔蒙([v1](../chars/extended_char_sai_er_meng.md),[v2](extended_char_sai_er_meng.md))**：塔拉流民，维恩的同伴，曾鼓动流民加入深池。其兄长是深池“亡魂”。他的遭遇反映了塔拉人的苦难和深池的激进倾向。
 -   **布莉吉**：塔拉游牧民，在“挽歌燃烧殆尽”中与拉芙希妮共同行动，是拉芙希妮在纳斯尔纱的同行者。
--   **库林([v1](../chars/extended_char_ku_lin.md))**：纳斯尔纱铁匠，提奥养父。在“挽歌燃烧殆尽”中因悲愤揭露真相而牺牲，其死触动了拉芙希妮。
--   **涅梅丝([v1](../chars/extended_char_nie_mei_si.md))**：深池成员，在“挽歌燃烧殆尽”中见证纳斯尔纱的疯狂与腐败后，协助拉芙希妮对抗紫火。
+-   **库林([v1](../chars/extended_char_ku_lin.md),[v2](extended_char_ku_lin.md))**：纳斯尔纱铁匠，提奥养父。在“挽歌燃烧殆尽”中因悲愤揭露真相而牺牲，其死触动了拉芙希妮。
+-   **涅梅丝([v1](../chars/extended_char_nie_mei_si.md),[v2](extended_char_nie_mei_si.md))**：深池成员，在“挽歌燃烧殆尽”中见证纳斯尔纱的疯狂与腐败后，协助拉芙希妮对抗紫火。
 -   **简妮**：罗德岛干员，小丘郡办事处成员，参与了早期对苇草的救治。
 -   **威灵顿公爵([v1](../chars/extended_char_wei_ling_dun_gong_jue.md),[v2](extended_char_wei_ling_dun_gong_jue.md))**：维多利亚公爵，在“我们明日见”中接受了拉芙希妮以“塔拉名义”下达的命令。
 ## 详细介绍

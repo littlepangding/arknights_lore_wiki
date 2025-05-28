@@ -15,7 +15,7 @@
 ## 相关角色
 -   **Logos([v1](../chars/extended_char_Logos.md))**：与其多次进行形而上的哲学交流，Logos的“新生从灭亡中来”理论深刻影响了变形者集群的最终决定，Logos见证了其集体的灭亡与新生。
 -   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：变形者集群对其身份和能力表现出强烈好奇，称其为“小魔王”，并向其发出了深入了解的邀请。
--   **戈尔丁([v1](../chars/extended_char_ge_er_ding.md))**：变形者集群伪装成其助手的形态与其对话，试图理解其痛苦和关于放弃生活的选择，受到启发。
+-   **戈尔丁([v1](../chars/extended_char_ge_er_ding.md),[v2](extended_char_ge_er_ding.md))**：变形者集群伪装成其助手的形态与其对话，试图理解其痛苦和关于放弃生活的选择，受到启发。
 -   **莱托**：变形者集群与其交流，认为他不像典型的萨卡兹，并利用他作为信息渠道。
 -   **曼弗雷德([v1](../chars/extended_char_man_fu_lei_de.md),[v2](extended_char_man_fu_lei_de.md))**：与其合作在破碎日冕设下陷阱，互相利用；变形者集群曾伪装成曼弗雷德，对其有所了解。
 -   **血魔大君([v1](../chars/extended_char_xue_mo_da_jun.md),[v2](extended_char_xue_mo_da_jun.md))**：与其合作袭击军舰，能感知并一定程度上识破变形者的伪装，称其“小女妖”，变形者集群对其有芥蒂。

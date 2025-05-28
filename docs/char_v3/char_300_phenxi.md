@@ -19,7 +19,7 @@
 -   **帕特里奇昂**：导师、监护人、养祖父。萨科塔铳骑。自小抚养菲亚梅塔长大，是她射击技艺的启蒙者。对菲亚梅塔有极高期望，对她的现状感到复杂。两人关系深厚，最终互相理解并和解。
 -   **能天使([v1](../chars/char_103_angel.md),[v2](char_103_angel.md))**：蕾缪安的妹妹。菲亚梅塔间接关心能天使，尤其担心她被卷入与卡兹戴尔及八年前事件相关的危险中，明确表示会阻止这种事情发生。
 -   **塞茜莉亚([v1](../chars/extended_char_sai_qian_li_ya.md),[v2](extended_char_sai_qian_li_ya.md))**：一位罕见的萨科塔与异族混血女孩，体检报告异常。安多恩和帕蒂亚试图保护她。菲亚梅塔最初奉命追查其下落，是她与安多恩再度产生交集的重要引子。
--   **帕蒂亚([v1](../chars/extended_char_pa_di_ya.md))**：前戍卫队成员，与安多恩有关联。在“吾导先路”中试图阻拦菲亚梅塔追查塞茜莉亚。
+-   **帕蒂亚([v1](../chars/extended_char_pa_di_ya.md),[v2](extended_char_pa_di_ya.md))**：前戍卫队成员，与安多恩有关联。在“吾导先路”中试图阻拦菲亚梅塔追查塞茜莉亚。
 -   **伊万杰利斯塔十一世([v1](../chars/extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md),[v2](extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.md))**：拉特兰教宗。曾委派菲亚梅塔小队任务。知道塞茜莉亚的情况并介入。
 -   **伊斯([v1](../chars/extended_char_yi_si.md),[v2](extended_char_yi_si.md))**：在“高楼之上”与莫斯提马交谈的人物。菲亚梅塔对其身份不确定，对其与莫斯提马接触表示担忧。
 ## 详细介绍

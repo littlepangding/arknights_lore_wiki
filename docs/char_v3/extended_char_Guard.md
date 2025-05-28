@@ -20,7 +20,7 @@ Guard，一位经历复杂的感染者，曾是罗德岛的雇员，切尔诺伯
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：在切尔诺伯格相遇，Guard向凯尔希等人解释爱国者的行动和立场。凯尔希也利用Guard的信用，向当地乌萨斯感染者证明其清白。
 -   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：在切尔诺伯格与罗德岛行动期间，Guard曾与其互动，解释切尔诺伯格的状况。
 -   **迷迭香([v1](../chars/char_391_rosmon.md),[v2](char_391_rosmon.md))**：在切尔诺伯格目睹迷迭香的力量和战斗方式，感到惊讶。
--   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md))**：在阴云火花活动中，Guard作为整合运动领导者与荒地商人坎诺特进行重要物资交易。Guard对其手段和身份保持警惕和不信任，但出于任务需求完成了交易。
+-   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md),[v2](extended_char_kan_nuo_te.md))**：在阴云火花活动中，Guard作为整合运动领导者与荒地商人坎诺特进行重要物资交易。Guard对其手段和身份保持警惕和不信任，但出于任务需求完成了交易。
 -   **雷德([v1](../chars/extended_char_lei_de.md),[v2](extended_char_lei_de.md))**：整合运动成员，在恶兆湍流和阴云火花中均与Guard一同行动或受其指挥，是Guard的下属或合作者。
 -   **梅斯**：在恶兆湍流中，Guard试图保护的假冒整合运动的难民。Guard为保护他和其他人而牺牲。
 -   **珀茜瓦尔([v1](../chars/extended_char_po_qian_wa_er.md),[v2](extended_char_po_qian_wa_er.md))**：在恶兆湍流中与Guard一同在维多利亚行动的整合运动成员。

@@ -21,7 +21,7 @@
 -   **阿克托斯([v1](../chars/extended_char_a_ke_tuo_si.md))**：烈夏的父亲，谢拉格佩尔罗契家族成员。与塔季扬娜相爱并育有烈夏，后因谢拉格局势分离。与烈夏重逢后，关系复杂。
 -   **杜宾([v1](../chars/char_130_doberm.md),[v2](char_130_doberm.md))**：罗德岛教官，负责训练烈夏等干员，指导过烈夏攀岩。
 -   **猎蜂([v1](../chars/char_137_brownb.md),[v2](char_137_brownb.md))**：罗德岛干员，曾与烈夏进行训练，烈夏醉蜜后曾抱她的玩偶。
--   **哈洛德·克雷加文([v1](../chars/extended_char_6367bd.md))**：维多利亚子爵，在谢拉格列车上与烈夏偶遇。
+-   **哈洛德·克雷加文([v1](../chars/extended_char_6367bd.md),[v2](extended_char_6367bd.md))**：维多利亚子爵，在谢拉格列车上与烈夏偶遇。
 -   **灰礼帽([v1](../chars/extended_char_hui_li_mao.md),[v2](extended_char_hui_li_mao.md))**：维多利亚密探，在谢拉格与烈夏有过短暂接触。
 -   **石棉([v1](../chars/char_378_asbest.md),[v2](char_378_asbest.md))**：罗德岛干员，与烈夏的母亲塔季扬娜一同出行探险。
 -   **苦艾([v1](../chars/char_405_absin.md),[v2](char_405_absin.md))**：乌萨斯学生自治团后期加入的成员。

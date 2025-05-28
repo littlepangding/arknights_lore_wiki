@@ -20,7 +20,7 @@ Touch是罗德岛的一名精英干员，同时也是医疗部门的重要成员
 -   **博士([v2](extended_char_bo_shi.md))**：Touch是随同博士一同突入罗德岛Abyss核心区域的精英干员之一。在“慈悲灯塔”活动末尾，Touch出现在博士的内化宇宙（记忆/潜意识空间）中，参与Outcast的退休仪式。
 -   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：Touch在煌生日时曾代阿米娅送上生日祝福。Touch是随同阿米娅一同突入罗德岛Abyss核心区域的精英干员之一。
 -   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：Touch是随同凯尔希一同突入罗德岛Abyss核心区域的精英干员之一。
--   **克洛伊([v1](../chars/extended_char_ke_luo_yi.md))**：一位特殊的感染者病人，Touch与华法琳一同研究了她的病例，发现了前所未有的矿石病病征。
+-   **克洛伊([v1](../chars/extended_char_ke_luo_yi.md),[v2](extended_char_ke_luo_yi.md))**：一位特殊的感染者病人，Touch与华法琳一同研究了她的病例，发现了前所未有的矿石病病征。
 -   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：在博士的内化宇宙中，Touch出现在为Outcast举办的退休仪式上。
 ## 详细介绍
 Touch是罗德岛医疗部门的一员，同时也是位居前线的精英干员。他将这双重身份的能力完美结合，在多个罗德岛的重要时刻都发挥了关键作用。

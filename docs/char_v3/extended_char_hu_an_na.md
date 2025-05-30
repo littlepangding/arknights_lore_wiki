@@ -17,7 +17,7 @@
 -   **伊西多**：被胡安娜认定为她寻找的炼金术师，被要求修复罗盘。在逃离审判庭追捕的过程中与胡安娜等人合作，手臂意外与罗盘融合，能够感知骸礁峡谷的蒸汽。最终成为“征服宣告号”的新任船长。
 -   **鲁斯([v1](../chars/extended_char_lu_si.md),[v2](extended_char_lu_si.md))**：胡安娜船队中的老船员代表，对出海计划持保守和反对态度，与哈维尔一起试图发起哗变。
 -   **安纳斯塔西奥([v1](../chars/extended_char_an_na_si_ta_xi_ao.md),[v2](extended_char_an_na_si_ta_xi_ao.md))**：伊比利亚审判庭的执裁官，率队追捕帕斯卡拉并试图剿灭胡安娜的船队，夺回罗盘。
--   **西尔弗([v1](../chars/extended_char_xi_er_fu.md))**：伊比利亚审判庭的证裁官，与哈维尔接触，提出赦免船队部分成员以换取罗盘和犯人的条件。
+-   **西尔弗([v1](../chars/extended_char_xi_er_fu.md),[v2](extended_char_xi_er_fu.md))**：伊比利亚审判庭的证裁官，与哈维尔接触，提出赦免船队部分成员以换取罗盘和犯人的条件。
 -   **哈维尔([v1](../chars/extended_char_ha_wei_er.md),[v2](extended_char_ha_wei_er.md))**：胡安娜从小收养并寄予厚望的孩子。他不认同胡安娜的出海计划，认为其执念过深，选择接受审判庭的赦免条件，试图发起哗变。在与胡安娜的决斗后，被胡安娜推举为选择返回城镇的船员的首领。
 -   **科鲁兹([v1](../chars/extended_char_ke_lu_zi.md),[v2](extended_char_ke_lu_zi.md))**：胡安娜深爱的爱人，船队的前任船长。为保护家园牺牲自己，海嗣化并被困。胡安娜希望通过罗盘传承他的剑术，最终请求伊西多代为终结了他的痛苦。
 -   **蒂奇([v1](../chars/extended_char_di_qi.md),[v2](extended_char_di_qi.md))**：胡安娜船队中选择追随她出海的船员之一。

@@ -23,7 +23,7 @@
 -   **拜松([v1](../chars/char_325_bison.md),[v2](char_325_bison.md))**：欧厄尔之子，曾受欧厄尔委托在大帝的企鹅物流进行短暂的“学习”和考察，亲历了企鹅物流处理黑帮冲突的方式。
 -   **老鲤([v1](../chars/char_322_lmlee.md),[v2](char_322_lmlee.md))**：龙门情报贩子/线人，大帝的商业伙伴和好友，曾介绍小黑给大帝解决酒吧的麻烦。
 -   **西西里夫人([v1](../chars/extended_char_xi_xi_li_fu_ren.md),[v2](extended_char_xi_xi_li_fu_ren.md))**：叙拉古的实际统治者，与大帝关系友好，在大帝到访叙拉古时曾邀请他游玩。
--   **扎罗([v1](../chars/extended_char_zha_luo.md))**：狼之主之一，试图将德克萨斯强行带回叙拉古，与大帝理念不合，最终被大帝和其他狼之主“制裁”而失败。
+-   **扎罗([v1](../chars/extended_char_zha_luo.md),[v2](extended_char_zha_luo.md))**：狼之主之一，试图将德克萨斯强行带回叙拉古，与大帝理念不合，最终被大帝和其他狼之主“制裁”而失败。
 -   **瓦古、阿涅塞**：狼之主之一，与其他狼之主一同参与“游戏”，并在结局会议上认可拉普兰德成为新的头狼。
 -   **多利([v1](../chars/extended_char_duo_li.md),[v2](extended_char_duo_li.md))**：兽主之一，曾偷走大帝珍藏的专辑。与大帝一同感知到逼近的危机。
 -   **大祭司([v1](../chars/extended_char_da_ji_si.md),[v2](extended_char_da_ji_si.md))**：兽主之一，称呼大帝为“大嘴巴”和“肥仔”。与大帝一同感知到逼近的危机。

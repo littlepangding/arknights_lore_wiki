@@ -22,7 +22,7 @@
 -   **W([v1](../chars/char_113_cqbw.md),[v2](char_113_cqbw.md))**：萨卡兹雇佣兵，曾与爱国者共事。W对爱国者的军事才能表示认可，但也带有嘲讽。
 -   **Scout([v1](../chars/extended_char_Scout.md),[v2](extended_char_Scout.md))**：罗德岛干员。爱国者在切尔诺伯格废墟中发现了为保护他人而战死的Scout，对他表示了极大的敬意，并转交了他的遗物。
 -   **浮士德([v1](../chars/extended_char_fu_shi_de.md),[v2](extended_char_fu_shi_de.md))**：由爱国者和霜星共同训练的整合运动成员。
--   **雪怪小队([v1](../chars/extended_char_xue_guai_xiao_dui.md))**：爱国者麾下最忠诚的部队，由霜星带领。成员们将爱国者视为“大老爹”，对他和霜星忠心耿耿。
+-   **雪怪小队([v1](../chars/extended_char_xue_guai_xiao_dui.md),[v2](extended_char_xue_guai_xiao_dui.md))**：爱国者麾下最忠诚的部队，由霜星带领。成员们将爱国者视为“大老爹”，对他和霜星忠心耿耿。
 -   **格罗瓦兹尔**：爱国者的儿子，一名为感染者权利奔走的学者，在冲突中丧生，其死是爱国者改变道路的重要原因。
 -   **特蕾西娅([v1](../chars/extended_char_te_lei_xi_ya.md),[v2](extended_char_te_lei_xi_ya.md))**：萨卡兹的王。爱国者曾见过特蕾西娅，并对卡兹戴尔和她的命运深切关注，显示他并未完全割裂与萨卡兹的联系。
 -   **海伦**：爱国者的妻子，在他临终前的回忆中出现。

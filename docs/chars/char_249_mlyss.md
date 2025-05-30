@@ -27,7 +27,7 @@
 -   **雅拉·布克·威尔森([v1](extended_char_d1f8dc.md),[v2](../char_v3/extended_char_d1f8dc.md))**：莱茵生命人力资源科主任。在“绿野幻梦”中赫默提及。在“孤星”活动中参与事件。孤星结局退休。
 -   **洛肯·威廉姆斯([v1](extended_char_91b78b.md),[v2](../char_v3/extended_char_91b78b.md))**：科学家，洛肯水箱实验室创始人。在“孤星”中出狱，与小贾斯汀、克丽斯腾、迷迭香等互动，后死亡。孤星中缪尔赛思认出洛肯是自己父母的时代的人物，虽未深交，但在事件中有所感知。
 -   **莫布; Sharp**：在“银心湖列车”活动中，作为罗德岛/合作方的代表，与缪尔赛思一同抵达谢拉格。
--   **休露丝([v1](extended_char_xiu_lu_si.md))**：布朗陶家家主的妹妹。在“银心湖列车”活动中，邀请莱茵生命等势力前往谢拉格，缪尔赛思作为莱茵代表与她一同前往。
+-   **休露丝([v1](extended_char_xiu_lu_si.md),[v2](../char_v3/extended_char_xiu_lu_si.md))**：布朗陶家家主的妹妹。在“银心湖列车”活动中，邀请莱茵生命等势力前往谢拉格，缪尔赛思作为莱茵代表与她一同前往。
 -   **尤卡坦([v1](extended_char_you_ka_tan.md),[v2](../char_v3/extended_char_you_ka_tan.md))**：休露丝的丈夫。在“银心湖列车”活动中出场。
 -   **莫希([v1](extended_char_mo_xi.md),[v2](../char_v3/extended_char_mo_xi.md))**：布朗陶家手下。在“银心湖列车”活动中出场，是休露丝的助手。
 ## 详细介绍

@@ -23,7 +23,7 @@ Ace是罗德岛重要的精英干员（前巴别塔成员），也是早期罗�
 -   **霜星([v1](../chars/extended_char_shuang_xing.md),[v2](extended_char_shuang_xing.md))**：霜星在切尔诺伯格与Ace交战过，并评价他是一名“平生少见的顽强战士”，战斗中带着“忧愁”的情感，并知晓他独自死去。
 -   **特蕾西娅([v1](../chars/extended_char_te_lei_xi_ya.md),[v2](extended_char_te_lei_xi_ya.md))**：Ace忠诚于特蕾西娅，见证了她与博士的相遇。他保护特蕾西娅，甚至代替她向尤莉叶送行以避免离别痛苦。在特蕾西娅的意识中，Ace是她“最为出色”和“毫不质疑我们理想”的同伴。
 -   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：Ace曾与可露希尔一同协助煌进行训练和武器调试。可露希尔在回忆巴别塔时曾提及Ace对博士指挥能力的评价。
--   **尤莉叶([v1](../chars/extended_char_you_li_ye.md))**：Ace在尤莉叶执行卧底任务前代表特蕾西娅将制服交给她，显示了他对同伴命运的理解和对特蕾西娅的守护。
+-   **尤莉叶([v1](../chars/extended_char_you_li_ye.md),[v2](extended_char_you_li_ye.md))**：Ace在尤莉叶执行卧底任务前代表特蕾西娅将制服交给她，显示了他对同伴命运的理解和对特蕾西娅的守护。
 -   **温蒂([v1](../chars/char_400_weedy.md),[v2](char_400_weedy.md))**：Ace在“你愿意吗”活动中，确认了温蒂转正为正式干员的申请被同意，表明他在罗德岛内部事务中的角色。
 -   **灰喉([v1](../chars/char_367_swllow.md),[v2](char_367_swllow.md))**：灰喉曾是Ace的下属，尽管灰喉对感染者有过困惑的言论，Ace依然维护和信任她，认为她只是需要理解，并且始终服从命令。
 -   **塔露拉([v1](../chars/extended_char_386da9.md),[v2](extended_char_ta_lu_la.md))**：Ace在切尔诺伯格断后时独自面对塔露拉，最终牺牲。塔露拉事后提到了“奋战至尸骨无存”的对手，侧面证实了Ace的牺牲并表达了一定认可。

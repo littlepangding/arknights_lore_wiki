@@ -10,7 +10,14 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
+## 2025-05-30 Update
 
+- Finished the initial 版本二角色 wiki generation (完成了版本二角色wiki的首次生成)。
+- TODO(即将到来):
+    - Update the index pages to hide the V1 version (更新页面， 尽量隐藏版本一)
+    - Gradually fix the hallucination in 版本二 (逐渐更新修复版本二中存在的幻觉)
+
+## Note
 
 仍在继续建设/更新中.
 - The folder `docs` are automatically generated based on the content under `data`, please do not edit. TODO: upload the script after clean up
@@ -18,7 +25,7 @@
 - The folder `data/chars` (版本一角色) and `data/stories` (活动) can be manually updated/fixed.
 
 Additional TODO items (ordered from top pri to low pri):
-- Complete the 版本二角色wiki generation
+- Done ~~Complete the 版本二角色wiki generation~~
 - Done ~~Automatically Add hyperlink between 相关活动 and 相关角色~~
 - Done ~~Add character name for their indivudual stories in the story index page~~
 - Selectively and gradually fix the hullcination for 版本二角色wiki and 活动wiki

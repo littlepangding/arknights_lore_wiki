@@ -90,4 +90,4 @@
 -   **白垩的爷爷([v1](../chars/extended_char_bai_e_de_ye_ye.md),[v2](../char_v3/extended_char_bai_e_de_ye_ye.md))**: 白垩的监护人，慈爱的老人。曾是女皇密探，参与过当年的巫王残党实验场行动，了解尘世之音的秘密。他在白垩面临危机时出现，提供了关键资料，并在白垩牺牲的最后时刻陪伴了他。
 -   **拉赫曼([v1](../chars/extended_char_la_he_man.md),[v2](../char_v3/extended_char_la_he_man.md))**: 夕照区感染者，格特鲁德的手下。他在夕照区散布谣言，并受命进入下水道刺激源石虫，引发混乱作为格特鲁德计划的一部分，最终被别格勒击昏。
 -   **乌尔苏拉([v1](../chars/extended_char_wu_er_su_la.md),[v2](../char_v3/extended_char_wu_er_su_la.md))**: 车尔尼的远房亲戚，照顾他的生活。她是善良热情的夕照区居民，帮助芙蓉了解当地情况和车尔尼的过去。
--   **行板([v1](../chars/extended_char_xing_ban.md))**: 罗德岛维谢海姆办事处的本地干员。她协助芙蓉调查，是第一个注意到假愈现象的人，也负责夕照区感染者的初步医疗支持。
+-   **行板([v1](../chars/extended_char_xing_ban.md),[v2](../char_v3/extended_char_xing_ban.md))**: 罗德岛维谢海姆办事处的本地干员。她协助芙蓉调查，是第一个注意到假愈现象的人，也负责夕照区感染者的初步医疗支持。

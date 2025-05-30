@@ -15,10 +15,10 @@
 ## 相关角色
 -   **迈尔斯([v1](../chars/extended_char_mai_er_si.md),[v2](extended_char_mai_er_si.md))**：里昂的老朋友，达维镇居民，参与了银行抢劫行动。
 -   **海伦娜**：里昂的老朋友，达维镇居民，参与了银行抢劫行动，里昂为掩护她逃离而牺牲。
--   **伍德洛([v1](../chars/extended_char_wu_de_luo.md))**：里昂的朋友，达维镇居民，参与了银行抢劫行动。
+-   **伍德洛([v1](../chars/extended_char_wu_de_luo.md),[v2](extended_char_wu_de_luo.md))**：里昂的朋友，达维镇居民，参与了银行抢劫行动。
 -   **本尼([v1](../chars/extended_char_ben_ni.md),[v2](extended_char_ben_ni.md))**：里昂的养子，卡尔的弟弟。里昂为了保护他，最终同意卖掉矿厂股份。
 -   **卡尔**：里昂的养子，本尼的哥哥，前黑钢干员“精铁”，已牺牲。他的牺牲对里昂打击很大。
--   **西尔维娅([v1](../chars/extended_char_xi_er_wei_ya.md))**：卡尔的朋友，参与了银行抢劫行动。里昂在牺牲前托杰西卡带话给她。
+-   **西尔维娅([v1](../chars/extended_char_xi_er_wei_ya.md),[v2](extended_char_xi_er_wei_ya.md))**：卡尔的朋友，参与了银行抢劫行动。里昂在牺牲前托杰西卡带话给她。
 -   **杰西卡([v1](../chars/char_235_jesica.md),[v2](char_235_jesica.md))**：黑钢小队成员，在达维镇与里昂相识。里昂试图协助她修复动力炉，后杰西卡试图阻止里昂牺牲，并是里昂最后的对话者。
 -   **罗拉([v1](../chars/extended_char_luo_la.md),[v2](extended_char_luo_la.md))**：黑钢小队成员，负责修复动力炉。里昂曾主动提出协助她的工作。
 ## 详细介绍

@@ -20,7 +20,7 @@ Scout是巴别塔组织的成员，担任侦察小队的队长。他是一位经
 -   **可露希尔([v1](extended_char_ke_lu_xi_er.md),[v2](../char_v3/extended_char_ke_lu_xi_er.md))**：巴别塔的同伴，Scout协助可露希尔完成任务。可露希尔认为Scout能力出众，不容易害怕，但失忆后的博士让Scout变得有些不同。
 -   **Ace（巴别塔）**：巴别塔时期的朋友和战友，Scout提到曾与Ace打赌。
 -   **Ace（罗德岛）**：W提到曾与“那个外来的萨卡兹人”（Scout）合作杀死了她的前上司。Scout的牺牲地在切尔诺伯格，罗德岛干员Ace参与了该地区的作战。
--   **尤莉叶([v1](extended_char_you_li_ye.md))**：Scout在疤痕商场附近看到了追随特蕾西娅的尤莉叶，注意到她没有恶意。
+-   **尤莉叶([v1](extended_char_you_li_ye.md),[v2](../char_v3/extended_char_you_li_ye.md))**：Scout在疤痕商场附近看到了追随特蕾西娅的尤莉叶，注意到她没有恶意。
 -   **奥达([v1](char_4131_odda.md),[v2](../char_v3/char_4131_odda.md))**：Scout所在的小队曾在巴别塔活动中帮助奥达返回城市。奥达在后来的战斗中提及Scout预设的方案十分有效。
 -   **Guard([v1](extended_char_Guard.md),[v2](../char_v3/extended_char_Guard.md))**：罗德岛近卫干员，在切尔诺伯格被Scout救下，Scout为保护他而牺牲。Guard将Scout的遗物和临终嘱托带回罗德岛。他受到Scout牺牲的影响，重新思考自己的道路。
 -   **迷迭香([v1](char_391_rosmon.md),[v2](../char_v3/char_391_rosmon.md))**：对Scout的牺牲感到悲伤和不解，认为他的牺牲令她感到的空虚正是因为Scout。Guard提及Scout曾帮助过迷迭香。

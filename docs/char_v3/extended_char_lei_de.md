@@ -22,7 +22,7 @@
 -   **特蕾西娅([v1](../chars/extended_char_te_lei_xi_ya.md),[v2](extended_char_te_lei_xi_ya.md))**：作为“阿斯卡纶”时期，雷德是特蕾西娅的忠诚追随者和巴别塔成员，将保护特蕾西娅视为信念。特蕾西娅的死对她打击巨大。
 -   **曼弗雷德([v1](../chars/extended_char_man_fu_lei_de.md),[v2](extended_char_man_fu_lei_de.md))**：与阿斯卡纶一同接受特雷西斯和特蕾西娅的教导。阿斯卡纶选择巴别塔后，两人立场对立，曾发生冲突和较量。
 -   **屈光者([v1](../chars/extended_char_qu_guang_zhe.md),[v2](extended_char_qu_guang_zhe.md))**：作为“希尔达”时期，在神秘舰船上遇到的机械生命，被希尔达视为“神明”并与其交流。
--   **幽灵([v1](../chars/extended_char_you_ling.md))**：作为“希尔达”时期，在神秘舰船上遇到的机械生命，与希尔达交流。
+-   **幽灵([v1](../chars/extended_char_you_ling.md),[v2](extended_char_you_ling.md))**：作为“希尔达”时期，在神秘舰船上遇到的机械生命，与希尔达交流。
 -   **普瑞赛斯([v1](../chars/extended_char_pu_rui_sai_si.md),[v2](extended_char_pu_rui_sai_si.md))**：作为“希尔达”时期，舰船的主人，向希尔达揭示了源石和泰拉的真相，并将她送回泰拉。
 -   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md),[v2](extended_char_kan_nuo_te.md))**：在卡拉顿（阴云火花），雷德作为整合运动成员，参与了与坎诺特的接头，并对其动机表示怀疑。
 -   **加勒斯([v1](../chars/extended_char_jia_lei_si.md),[v2](extended_char_jia_lei_si.md))**：在卡拉顿（阴云火花），雷德意外遇到了曾经的整合运动同伴加勒斯，对其加入锈锤感到惊讶。

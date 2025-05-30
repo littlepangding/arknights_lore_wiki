@@ -19,7 +19,7 @@
 -   **太傅([v1](../chars/extended_char_tai_fu.md),[v2](extended_char_tai_fu.md))**：大炎朝廷重臣，在“将进酒”事件后召见宁辞秋，认可其能力并委派重要任务，显示宁辞秋深得高层信任。
 -   **老鲤([v1](../chars/char_322_lmlee.md),[v2](char_322_lmlee.md))**：龙门商人，梁洵的朋友，在“将进酒”和“未尽篇章”中作为旁观者见证并评价宁辞秋与梁洵的互动。
 -   **夜半([v1](../chars/char_476_blkngt.md),[v2](char_476_blkngt.md))**：赏金猎人，在“将进酒”中被宁辞秋私下雇佣以保护梁洵。
--   **万勤城**：工部侍郎，在“怀黍离”中与宁辞秋共同负责大荒城建设，合作应对危机，并在幻境中与她交流。
+-   **万勤城([v2](extended_char_wan_qin_cheng.md))**：工部侍郎，在“怀黍离”中与宁辞秋共同负责大荒城建设，合作应对危机，并在幻境中与她交流。
 -   **绩([v1](../chars/extended_char_ji.md),[v2](extended_char_ji.md))**：岁兽代理人，在“怀黍离”中制造危机，宁辞秋委托左乐调查他。
 -   **令([v1](../chars/char_2023_ling.md),[v2](char_2023_ling.md))**：岁兽之一，在“将进酒”中受到宁辞秋代表礼部的监督。
 -   **太合([v1](../chars/extended_char_tai_he.md),[v2](extended_char_tai_he.md))**：肃政院副监察御史，在“将进酒”中与宁辞秋等人一同处理事件，立场中立公正。

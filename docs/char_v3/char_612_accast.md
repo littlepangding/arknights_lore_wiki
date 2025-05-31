@@ -13,17 +13,17 @@ Pith老师;Pith小姐
 ## 简要介绍
 Pith是罗德岛的精英干员，也是一位拥有强大源石技艺的术师。她曾是巴别塔的重要成员，担任指挥和教育职务。加入罗德岛后，她继续发挥关键作用，参与多项行动，并在训练方面承担重任，以高强度特训培养干员。Pith具备敏锐的直觉和出色的组织指挥能力，关心同伴和学生。她对源石技艺的本质和潜在危险有着深刻理解，尤其对精英干员迷迭香的能力表现出审慎和担忧。
 ## 相关角色
--   **炎熔([v1](../chars/char_121_lava.md),[v2](char_121_lava.md))**：担任她的高强度训练教官，对她在源石技艺上的天赋和学习成果表示肯定和赞扬。
--   **芙蓉([v1](../chars/char_120_hibisc.md),[v2](char_120_hibisc.md))**：在与炎熔的对话中提及Pith，显示对Pith训练强度的关注，并在留言中提及Pith对炎熔的夸奖。
--   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：与Pith讨论过关于迷迭香能力和培养的问题，信任Pith并希望她一同承担培养迷迭香的责任。
--   **迷迭香([v1](../chars/char_391_rosmon.md),[v2](char_391_rosmon.md))**：Pith对她强大的源石技艺持谨慎和担忧态度，担心其失控的潜在危险。
--   **Touch([v1](../chars/char_613_acmedc.md),[v2](char_613_acmedc.md))**：在“离解复合”行动中与Pith紧密配合，一同清理舰船区域并协助处理善后工作。
--   **Mantra([v1](../chars/extended_char_Mantra.md),[v2](extended_char_Mantra.md))**：在“离解复合”行动初期与Pith一同作为增援小组行动。
--   **Logos([v1](../chars/extended_char_Logos.md))**：在芙蓉的留言中被提及，与Pith一同夸奖了炎熔的源石技艺天赋。
--   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：在博士/凯尔希的幻景/回忆中，Pith是参加Outcast退休仪式的罗德岛干员之一。
+-   **[炎熔](char_121_lava.md)([v1](../chars/char_121_lava.md))**：担任她的高强度训练教官，对她在源石技艺上的天赋和学习成果表示肯定和赞扬。
+-   **[芙蓉](char_120_hibisc.md)([v1](../chars/char_120_hibisc.md))**：在与炎熔的对话中提及Pith，显示对Pith训练强度的关注，并在留言中提及Pith对炎熔的夸奖。
+-   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：与Pith讨论过关于迷迭香能力和培养的问题，信任Pith并希望她一同承担培养迷迭香的责任。
+-   **[迷迭香](char_391_rosmon.md)([v1](../chars/char_391_rosmon.md))**：Pith对她强大的源石技艺持谨慎和担忧态度，担心其失控的潜在危险。
+-   **[Touch](char_613_acmedc.md)([v1](../chars/char_613_acmedc.md))**：在“离解复合”行动中与Pith紧密配合，一同清理舰船区域并协助处理善后工作。
+-   **[Mantra](extended_char_Mantra.md)([v1](../chars/extended_char_Mantra.md))**：在“离解复合”行动初期与Pith一同作为增援小组行动。
+-   **Logos**：在芙蓉的留言中被提及，与Pith一同夸奖了炎熔的源石技艺天赋。
+-   **[Outcast](extended_char_Outcast.md)([v1](../chars/extended_char_Outcast.md))**：在博士/凯尔希的幻景/回忆中，Pith是参加Outcast退休仪式的罗德岛干员之一。
 -   **巴别塔成员 (如艾丹)**：Pith在巴别塔时期是他们的指挥官和老师，在危机时刻仍关心他们的安危并进行教导。
 -   **特蕾西娅；特雷西斯**：Pith是巴别塔的核心成员，参与了他们之间的冲突，并经历了特蕾西娅牺牲后的组织变故。
--   **博士([v2](extended_char_bo_shi.md))**：罗德岛的指挥官，Pith作为精英干员在其领导下参与多项行动，并注意到博士的判断。
+-   **[博士](extended_char_bo_shi.md)**：罗德岛的指挥官，Pith作为精英干员在其领导下参与多项行动，并注意到博士的判断。
 ## 详细介绍
 Pith是一名实力强大且背景深厚的干员，其经历可追溯至罗德岛成立之前的巴别塔时期。在巴别塔中，Pith是组织内部的重要成员，身兼数职，不仅担任着指挥和行动协调的角色，更肩负着教育和培养新成员的任务，被一些干员尊称为“老师”。
 

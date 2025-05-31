@@ -13,14 +13,14 @@
 ## 简要介绍
 安德烈是一名在切尔诺伯格灾难中幸存的乌萨斯青年。最初作为学生团体“彼得海姆共荣会”的领袖，在沦陷的城市中通过掠夺求生，后在废墟中与同伴共同面对困境，展现出内在的勇气。灾难结束后，他成为一名工程术师，与整合运动的部分成员合作，运用其技术专长修复大型载具。他的经历反映了乌萨斯底层在灾难后的生存状态以及个体在极端环境下的变化。
 ## 相关角色
--   **Guard([v1](../chars/extended_char_Guard.md),[v2](extended_char_Guard.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
--   **雷德([v1](../chars/extended_char_lei_de.md),[v2](extended_char_lei_de.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
--   **九([v1](../chars/extended_char_jiu.md),[v2](extended_char_jiu.md))**：安德烈向她汇报载具修复的技术需求。
--   **坎诺特([v1](../chars/extended_char_kan_nuo_te.md),[v2](extended_char_kan_nuo_te.md))**：为安德烈的团队运送载具修复所需的零件。
--   **Dijkstra([v1](../chars/extended_char_Dijkstra.md),[v2](extended_char_Dijkstra.md))**：哥伦比亚术师，为安德烈团队提供了悬浮载具的情报。
--   **烈夏([v1](../chars/char_194_leto.md),[v2](char_194_leto.md))**：在切尔诺伯格占领期间击败了作为学生团体领袖的安德烈。
--   **卢布廖夫([v1](../chars/extended_char_lu_bu_liao_fu.md),[v2](extended_char_lu_bu_liao_fu.md))**：在切尔诺伯格废墟中与安德烈相依为命，安德烈冒险为其寻找医疗物资。
--   **W([v1](../chars/char_113_cqbw.md),[v2](char_113_cqbw.md))**：在切尔诺伯格废墟中遇到安德烈和卢布廖夫，观察并以言语引导了安德烈的求生行为。
+-   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
+-   **[雷德](extended_char_lei_de.md)([v1](../chars/extended_char_lei_de.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
+-   **[九](extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：安德烈向她汇报载具修复的技术需求。
+-   **[坎诺特](extended_char_kan_nuo_te.md)([v1](../chars/extended_char_kan_nuo_te.md))**：为安德烈的团队运送载具修复所需的零件。
+-   **[Dijkstra](extended_char_Dijkstra.md)([v1](../chars/extended_char_Dijkstra.md))**：哥伦比亚术师，为安德烈团队提供了悬浮载具的情报。
+-   **[烈夏](char_194_leto.md)([v1](../chars/char_194_leto.md))**：在切尔诺伯格占领期间击败了作为学生团体领袖的安德烈。
+-   **[卢布廖夫](extended_char_lu_bu_liao_fu.md)([v1](../chars/extended_char_lu_bu_liao_fu.md))**：在切尔诺伯格废墟中与安德烈相依为命，安德烈冒险为其寻找医疗物资。
+-   **[W](char_113_cqbw.md)([v1](../chars/char_113_cqbw.md))**：在切尔诺伯格废墟中遇到安德烈和卢布廖夫，观察并以言语引导了安德烈的求生行为。
 -   **整合运动**：安德烈曾在切尔诺伯格占领期间领导学生团体，后在骸骨荒原与部分整合运动成员（如Guard、雷德、九）进行技术合作。
 ## 详细介绍
 安德烈的早期经历与切尔诺伯格的毁灭紧密相连。在整合运动占领这座乌萨斯城市期间，作为滞留在学校内的学生，他迅速适应了混乱的环境，并组建了一个名为“彼得海姆共荣会”的学生团体。在资源极度匮乏的情况下，这个团体通过抢劫其他学生来获取食物和生活必需品。安德烈作为领袖，在团体成员中被尊称为“健壮的安德烈”，这或许是他为了树立威信而采取的姿态，也可能反映了他在那个时期的某种表现。

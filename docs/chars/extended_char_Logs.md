@@ -13,19 +13,19 @@
 ## 简要介绍
 Logs是罗德岛的一名萨卡兹干员，来自报丧女妖王庭，是丧钟之主的继承者。他精通萨卡兹咒术，特别是与影子、灵魂和诅咒相关的技艺。在“惊霆无声”活动中，Logs在伦蒂尼姆协助罗德岛和伦蒂尼姆市民自救军行动，展现出强大的战斗力和侦察能力。他不仅在掩护自救军撤离时发挥了关键作用，更是凭借其独特的视角和深刻的思考，与古老的变形者集群展开了一场关于存在、变化与历史的辩论，最终促成了变形者集群的“死亡”与新生。Logs忠诚于罗德岛，也对自己的萨卡兹身份和未来有着清醒的认知与探索。
 ## 相关角色
--   **博士([v2](../char_v3/extended_char_bo_shi.md))**：Logs向博士报告并接受指令，博士信任Logs的能力，特别是在危险的撤离行动中。Logs也会向博士提供他对局势的判断。
--   **阿米娅([v1](char_002_amiya.md),[v2](../char_v3/char_002_amiya.md))**：Logs与阿米娅并肩作战。Logs了解阿米娅作为“魔王”的身份及其承受的痛苦和困惑，并从她身上看到了新的可能性。变形者集群在与Logs的对话中提及阿米娅为“小魔王”。
--   **阿斯卡纶([v1](char_4132_ascln.md),[v2](../char_v3/char_4132_ascln.md))**：Logs与阿斯卡纶在伦蒂尼姆的行动中密切合作。阿斯卡纶称Logs为“丧钟之主”，并对他吹响骨哨的举动表示震惊，显示了对他身份的了解和对这一传统的尊重。
--   **可露希尔([v1](extended_char_ke_lu_xi_er.md),[v2](../char_v3/extended_char_ke_lu_xi_er.md))**：Logs熟悉罗德岛的工程师可露希尔，并对罗德岛的通讯安全表示一定信心，同时承认维多利亚势力可能具备的入侵能力。
--   **号角([v1](char_4039_horn.md),[v2](../char_v3/char_4039_horn.md))**：Logs与号角在自救军的撤离行动中并肩作战， Logs信任号角的指挥，并用自己的咒术掩护她和队伍。号角也肯定Logs咒术的强大。
--   **Misery([v1](char_615_acspec.md),[v2](../char_v3/char_615_acspec.md))**：Logs与Misery一起执行掩护任务，显示他与Misery有合作经验，或者了解其作战方式。
--   **洛洛([v1](char_4040_rockr.md),[v2](../char_v3/char_4040_rockr.md))**：洛洛称呼Logs为“Logs先生”，对他的咒术和个人技能（如玩飞镖）表示认可和信任，特别是在撤离行动中。
--   **变形者集群([v1](extended_char_bian_xing_zhe_ji_qun.md),[v2](../char_v3/extended_char_bian_xing_zhe_ji_qun.md))**：Logs是追猎变形者集群（包括他们化身的各种形态）的萨卡兹，他们之间存在着漫长且复杂的互动。Logs试图理解变形者的存在方式和他们对历史、变化、生存的看法，并与他们进行深刻的哲学辩论。他最终通过挑战变形者对“完成”和“演进”的认知，促使变形者集群经历了“死亡”并分裂成两个新的实体。变形者称Logs为“女妖”和“报丧女妖”，认可他的智慧，但也嘲讽他生命的短暂和知识的有限。
--   **赫德雷([v1](char_4088_hodrer.md),[v2](../char_v3/char_4088_hodrer.md))**：Logs提及“我的一位朋友”教他玩飞镖，并描述这位朋友圆凳滑行赛比不过他但飞镖准头不差。W后来确认这位朋友就是赫德雷，并称Logs为赫德雷的“好搭档”。
--   **W([v1](char_113_cqbw.md),[v2](../char_v3/char_113_cqbw.md))**：W认识Logs的友人赫德雷，并知道赫德雷教Logs玩飞镖的细节。Logs在追猎变形者时，变形者提及Logs和W一样有“未揭开的底牌”，暗示两人之间存在某种联系或了解。
--   **曼弗雷德([v1](extended_char_man_fu_lei_de.md),[v2](../char_v3/extended_char_man_fu_lei_de.md))**：Logs认为曼弗雷德比他佯装出来的更敏锐。曼弗雷德知道Logs的一些活动，并可能与赫德雷的监禁有关。
--   **特雷西斯([v1](extended_char_te_lei_xi_si.md),[v2](../char_v3/extended_char_te_lei_xi_si.md))**：Logs认为特雷西斯比他佯装出来的更敏锐。
--   **凯尔希([v1](char_003_kalts.md),[v2](../char_v3/char_003_kalts.md))**：Logs知道凯尔希与巫妖的交谈。
+-   **[博士](../char_v3/extended_char_bo_shi.md)**：Logs向博士报告并接受指令，博士信任Logs的能力，特别是在危险的撤离行动中。Logs也会向博士提供他对局势的判断。
+-   **[阿米娅](../char_v3/char_002_amiya.md)([v1](char_002_amiya.md))**：Logs与阿米娅并肩作战。Logs了解阿米娅作为“魔王”的身份及其承受的痛苦和困惑，并从她身上看到了新的可能性。变形者集群在与Logs的对话中提及阿米娅为“小魔王”。
+-   **[阿斯卡纶](../char_v3/char_4132_ascln.md)([v1](char_4132_ascln.md))**：Logs与阿斯卡纶在伦蒂尼姆的行动中密切合作。阿斯卡纶称Logs为“丧钟之主”，并对他吹响骨哨的举动表示震惊，显示了对他身份的了解和对这一传统的尊重。
+-   **[可露希尔](../char_v3/extended_char_ke_lu_xi_er.md)([v1](extended_char_ke_lu_xi_er.md))**：Logs熟悉罗德岛的工程师可露希尔，并对罗德岛的通讯安全表示一定信心，同时承认维多利亚势力可能具备的入侵能力。
+-   **[号角](../char_v3/char_4039_horn.md)([v1](char_4039_horn.md))**：Logs与号角在自救军的撤离行动中并肩作战， Logs信任号角的指挥，并用自己的咒术掩护她和队伍。号角也肯定Logs咒术的强大。
+-   **[Misery](../char_v3/char_615_acspec.md)([v1](char_615_acspec.md))**：Logs与Misery一起执行掩护任务，显示他与Misery有合作经验，或者了解其作战方式。
+-   **[洛洛](../char_v3/char_4040_rockr.md)([v1](char_4040_rockr.md))**：洛洛称呼Logs为“Logs先生”，对他的咒术和个人技能（如玩飞镖）表示认可和信任，特别是在撤离行动中。
+-   **[变形者集群](../char_v3/extended_char_bian_xing_zhe_ji_qun.md)([v1](extended_char_bian_xing_zhe_ji_qun.md))**：Logs是追猎变形者集群（包括他们化身的各种形态）的萨卡兹，他们之间存在着漫长且复杂的互动。Logs试图理解变形者的存在方式和他们对历史、变化、生存的看法，并与他们进行深刻的哲学辩论。他最终通过挑战变形者对“完成”和“演进”的认知，促使变形者集群经历了“死亡”并分裂成两个新的实体。变形者称Logs为“女妖”和“报丧女妖”，认可他的智慧，但也嘲讽他生命的短暂和知识的有限。
+-   **[赫德雷](../char_v3/char_4088_hodrer.md)([v1](char_4088_hodrer.md))**：Logs提及“我的一位朋友”教他玩飞镖，并描述这位朋友圆凳滑行赛比不过他但飞镖准头不差。W后来确认这位朋友就是赫德雷，并称Logs为赫德雷的“好搭档”。
+-   **[W](../char_v3/char_113_cqbw.md)([v1](char_113_cqbw.md))**：W认识Logs的友人赫德雷，并知道赫德雷教Logs玩飞镖的细节。Logs在追猎变形者时，变形者提及Logs和W一样有“未揭开的底牌”，暗示两人之间存在某种联系或了解。
+-   **[曼弗雷德](../char_v3/extended_char_man_fu_lei_de.md)([v1](extended_char_man_fu_lei_de.md))**：Logs认为曼弗雷德比他佯装出来的更敏锐。曼弗雷德知道Logs的一些活动，并可能与赫德雷的监禁有关。
+-   **[特雷西斯](../char_v3/extended_char_te_lei_xi_si.md)([v1](extended_char_te_lei_xi_si.md))**：Logs认为特雷西斯比他佯装出来的更敏锐。
+-   **[凯尔希](../char_v3/char_003_kalts.md)([v1](char_003_kalts.md))**：Logs知道凯尔希与巫妖的交谈。
 ## 详细介绍
 Logs是罗德岛的一位萨卡兹干员，身份背景与报丧女妖王庭和丧钟之主有关。他掌握着强大的萨卡兹咒术，尤其擅长运用影子、诅咒以及与灵魂、死亡相关的技艺。在“惊霆无声”活动中，Logs随同罗德岛队伍深入维多利亚的伦蒂尼姆，参与了营救被困市民自救军的行动。
 

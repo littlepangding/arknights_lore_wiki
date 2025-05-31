@@ -15,14 +15,14 @@ D.D.D.是一位活跃于泰拉世界的知名音乐艺人，隶属于塞壬唱�
 ## 相关角色
 -   **经纪人**：D.D.D.的经纪人，对其极高的工作强度和过往因源石技艺失控导致事故表示担忧。
 -   **D.litHun**：另一位音乐艺人，D.D.D.视其为重要的竞争对手，渴望超越对方。
--   **克洛宁([v1](../chars/extended_char_ke_luo_ning.md),[v2](extended_char_ke_luo_ning.md))**：汐斯塔市长秘书，D.D.D.曾与其打过交道，认为克洛宁只看重金钱。
--   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：罗德岛干员，与D.D.D.相识，知道D.D.D.的别名“Grace”，并提及了一个名为Dijkstra的人物，邀请未来一起做大事。
--   **坎黛拉·桑切斯([v1](../chars/extended_char_9efa34.md),[v2](extended_char_9efa34.md))**：多索雷斯市长，邀请D.D.D.担任极限铁人大奖赛的特邀主持及解说。
--   **陈([v1](../chars/char_010_chen.md),[v2](char_010_chen.md))**：极限铁人大奖赛参赛者，D.D.D.高度关注的“鼠胆龙威队”成员，对其表现印象深刻，并从中获得创作灵感。
+-   **[克洛宁](extended_char_ke_luo_ning.md)([v1](../chars/extended_char_ke_luo_ning.md))**：汐斯塔市长秘书，D.D.D.曾与其打过交道，认为克洛宁只看重金钱。
+-   **[可露希尔](extended_char_ke_lu_xi_er.md)([v1](../chars/extended_char_ke_lu_xi_er.md))**：罗德岛干员，与D.D.D.相识，知道D.D.D.的别名“Grace”，并提及了一个名为Dijkstra的人物，邀请未来一起做大事。
+-   **[坎黛拉·桑切斯](extended_char_9efa34.md)([v1](../chars/extended_char_9efa34.md))**：多索雷斯市长，邀请D.D.D.担任极限铁人大奖赛的特邀主持及解说。
+-   **[陈](char_010_chen.md)([v1](../chars/char_010_chen.md))**：极限铁人大奖赛参赛者，D.D.D.高度关注的“鼠胆龙威队”成员，对其表现印象深刻，并从中获得创作灵感。
 -   **林雨霞**：极限铁人大奖赛参赛者，D.D.D.高度关注的“鼠胆龙威队”成员，对其表现印象深刻，并从中获得创作灵感。
 -   **埃内斯托**：极限铁人大奖赛参赛者，D.D.D.高度关注的“鼠胆龙威队”成员，因其武器店爆炸而让D.D.D.担忧队伍命运。
--   **潘乔([v1](../chars/extended_char_pan_qiao.md),[v2](extended_char_pan_qiao.md))**：极限铁人大奖赛解说员，与D.D.D.一同进行赛事解说，有互动。
--   **赫尔曼([v1](../chars/extended_char_he_er_man.md),[v2](extended_char_he_er_man.md))**：汐斯塔市长，因火山危机决定搁置与D.D.D.所属的塞壬唱片公司的合作。
+-   **[潘乔](extended_char_pan_qiao.md)([v1](../chars/extended_char_pan_qiao.md))**：极限铁人大奖赛解说员，与D.D.D.一同进行赛事解说，有互动。
+-   **[赫尔曼](extended_char_he_er_man.md)([v1](../chars/extended_char_he_er_man.md))**：汐斯塔市长，因火山危机决定搁置与D.D.D.所属的塞壬唱片公司的合作。
 ## 详细介绍
 D.D.D.是一位充满激情、技艺精湛的音乐人，隶属于泰拉大陆知名的塞壬唱片公司。她在公众面前总是以蒙面示人，维持着一份神秘感，但也因此引发了观众对其性别的猜测（有观众猜测她是女性）。
 

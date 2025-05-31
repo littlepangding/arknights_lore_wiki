@@ -13,12 +13,12 @@ Mantra女士
 ## 简要介绍
 Mantra是巴别塔的成员，隶属于其隐秘行动小队。她拥有独特的源石技艺，能够进行无声交流并压制声音。Mantra是一位能力出众的战场协调员，与Scout、Ace和Pith等队友紧密合作。她对泰拉世界的苦难，特别是感染者和儿童的困境，抱有深刻的同情与悲悯。在博士的指挥下，她执行着包括救援行动在内的多项重要任务，并忠实地遵循着巴别塔，尤其是特蕾西娅殿下关于最小化伤亡的理念。
 ## 相关角色
--   **Scout([v1](extended_char_Scout.md),[v2](../char_v3/extended_char_Scout.md))**：巴别塔隐秘行动小队的队友，Mantra的主要联络对象。两人通过无声的方式沟通，Scout称赞Mantra是“最完美的协调员”。
--   **Ace([v1](extended_char_Ace.md),[v2](../char_v3/extended_char_Ace.md))**：巴别塔隐秘行动小队的队友。他对Mantra的源石技艺印象深刻，并在任务中提供协助和保护。
--   **Pith([v1](char_612_accast.md),[v2](../char_v3/char_612_accast.md))**：巴别塔隐秘行动小队的队友。
+-   **[Scout](../char_v3/extended_char_Scout.md)([v1](extended_char_Scout.md))**：巴别塔隐秘行动小队的队友，Mantra的主要联络对象。两人通过无声的方式沟通，Scout称赞Mantra是“最完美的协调员”。
+-   **[Ace](../char_v3/extended_char_Ace.md)([v1](extended_char_Ace.md))**：巴别塔隐秘行动小队的队友。他对Mantra的源石技艺印象深刻，并在任务中提供协助和保护。
+-   **[Pith](../char_v3/char_612_accast.md)([v1](char_612_accast.md))**：巴别塔隐秘行动小队的队友。
 -   **Doctor**：巴别塔的指挥官。在内战期间，博士指挥包括Mantra在内的行动小队执行任务，信任Mantra的协调能力。
--   **阿斯卡纶([v1](char_4132_ascln.md),[v2](../char_v3/char_4132_ascln.md))**：巴别塔成员，与Mantra在部分行动中协同作战，相互信任。
--   **特蕾西娅([v1](extended_char_te_lei_xi_ya.md),[v2](../char_v3/extended_char_te_lei_xi_ya.md))**：巴别塔的议长。Mantra忠诚于特蕾西娅“最高优先级的任务是保证伤亡最小化”的指令，体现了对她理念的认同。
+-   **[阿斯卡纶](../char_v3/char_4132_ascln.md)([v1](char_4132_ascln.md))**：巴别塔成员，与Mantra在部分行动中协同作战，相互信任。
+-   **[特蕾西娅](../char_v3/extended_char_te_lei_xi_ya.md)([v1](extended_char_te_lei_xi_ya.md))**：巴别塔的议长。Mantra忠诚于特蕾西娅“最高优先级的任务是保证伤亡最小化”的指令，体现了对她理念的认同。
 -   **孩子/感染者/平民**：Mantra对这些受苦难的人们，特别是天灾下被困的儿童，表现出强烈的悲悯与同情，并将他们的救援放在首位。
 ## 详细介绍
 Mantra是巴别塔行动队伍中的一员，具体隶属于进行渗透和隐秘行动的小队。她的核心能力体现在其独特且强大的源石技艺上。与依赖声音传播或实体媒介的通讯方式不同，Mantra的技艺似乎能够实现精神层面或是一种无媒介的“无声”交流，范围可达数公里，并且能够压制或“沉默”环境中的声音乃至干扰敌人的心神。这种能力在潜行、协调分散单位和干扰敌人方面极为有效，使得她在巴别塔的隐秘行动中扮演着至关重要的角色。Scout就曾形容她在敌人心中会成为“蚕食理智的阴影”，并称她的源石技艺“大开眼界”，将之比作“一条毒蛇，缠绕住了天空，沉默了狂风的呼啸”。然而，这种“说话”或使用技艺的方式对Mantra本身也存在负担，Scout曾提醒她“您‘说话’的负担太重了”，暗示其精神或体力消耗较大。

@@ -13,16 +13,16 @@
 ## 简要介绍
 卡彭是一名来自叙拉古的萨科塔，通常与他的老搭档甘比诺一同行动。与崇尚家族传统和暴力的甘比诺不同，卡彭更为务实、狡猾且注重变通。他曾试图带领甘比诺家族在龙门立足，但以失败告终，并在与鼠王的冲突中背叛了甘比诺。经历了一系列挫折和被拉普兰德的嘲弄与摆布后，卡彭与甘比诺一同回到了叙拉古，试图重新寻找生存之道，后又前往新沃尔西尼，努力融入当地社会并追求市民身份。他始终在叙拉古传统的束缚与现实生存的压力之间挣扎，寻求一条能够让自己和搭档（至少是他自己）活下去的道路。
 ## 相关角色
--   **甘比诺([v1](../chars/extended_char_gan_bi_nuo.md),[v2](extended_char_gan_bi_nuo.md))**：卡彭长期以来的搭档，两人关系复杂，既是兄弟也是竞争对手，多次冲突甚至试图杀死对方，但又相互依赖。
--   **拉普兰德([v1](../chars/char_140_whitew.md),[v2](char_140_whitew.md))**：在多个事件中与卡彭和甘比诺相遇，对他们表现出极大的蔑视和玩弄，有时利用他们，有时嘲讽他们，是卡彭难以理解和应对的人物。
--   **鼠王([v1](../chars/extended_char_shu_wang.md),[v2](extended_char_shu_wang.md))**：龙门地下世界的统治者，曾是卡彭和甘比诺的手下败将，但在卡彭企图投诚时拒绝了他，并羞辱了他，是卡彭失败的重要原因之一。
--   **拜松([v1](../chars/char_325_bison.md),[v2](char_325_bison.md))**：峯驰物流的小少爷，卡彭在龙门试图绑架并与其交易的对象。
--   **莫斯提马([v1](../chars/char_213_mostma.md),[v2](char_213_mostma.md))**：在龙门短暂阻止了卡彭绑架拜松。
--   **西西里夫人([v1](../chars/extended_char_xi_xi_li_fu_ren.md),[v2](extended_char_xi_xi_li_fu_ren.md))**：卡彭所惧怕的叙拉古大家长。
--   **德克萨斯([v1](../chars/char_102_texas.md),[v2](char_102_texas.md))**：卡彭通过拉普兰德和西西里夫人有所了解的人物，对她敢于反抗家族感到意外并好奇她的结局。
--   **安东尼奥([v1](../chars/extended_char_an_dong_ni_ao.md),[v2](extended_char_an_dong_ni_ao.md))**：新沃尔西尼威尼斯家族的负责人，卡彭和甘比诺一度为其工作，后被卡彭背叛以促成他与英格丽的会面。
+-   **[甘比诺](extended_char_gan_bi_nuo.md)([v1](../chars/extended_char_gan_bi_nuo.md))**：卡彭长期以来的搭档，两人关系复杂，既是兄弟也是竞争对手，多次冲突甚至试图杀死对方，但又相互依赖。
+-   **[拉普兰德](char_140_whitew.md)([v1](../chars/char_140_whitew.md))**：在多个事件中与卡彭和甘比诺相遇，对他们表现出极大的蔑视和玩弄，有时利用他们，有时嘲讽他们，是卡彭难以理解和应对的人物。
+-   **[鼠王](extended_char_shu_wang.md)([v1](../chars/extended_char_shu_wang.md))**：龙门地下世界的统治者，曾是卡彭和甘比诺的手下败将，但在卡彭企图投诚时拒绝了他，并羞辱了他，是卡彭失败的重要原因之一。
+-   **[拜松](char_325_bison.md)([v1](../chars/char_325_bison.md))**：峯驰物流的小少爷，卡彭在龙门试图绑架并与其交易的对象。
+-   **[莫斯提马](char_213_mostma.md)([v1](../chars/char_213_mostma.md))**：在龙门短暂阻止了卡彭绑架拜松。
+-   **[西西里夫人](extended_char_xi_xi_li_fu_ren.md)([v1](../chars/extended_char_xi_xi_li_fu_ren.md))**：卡彭所惧怕的叙拉古大家长。
+-   **[德克萨斯](char_102_texas.md)([v1](../chars/char_102_texas.md))**：卡彭通过拉普兰德和西西里夫人有所了解的人物，对她敢于反抗家族感到意外并好奇她的结局。
+-   **[安东尼奥](extended_char_an_dong_ni_ao.md)([v1](../chars/extended_char_an_dong_ni_ao.md))**：新沃尔西尼威尼斯家族的负责人，卡彭和甘比诺一度为其工作，后被卡彭背叛以促成他与英格丽的会面。
 -   **卢奇诺**：在“揭幕者们”中被卡彭和甘比诺绑架的目击者。
--   **德米特里([v1](../chars/extended_char_de_mi_te_li.md),[v2](extended_char_de_mi_te_li.md))**：在“叙拉古人”中雇佣卡彭和甘比诺执行任务。
+-   **[德米特里](extended_char_de_mi_te_li.md)([v1](../chars/extended_char_de_mi_te_li.md))**：在“叙拉古人”中雇佣卡彭和甘比诺执行任务。
 ## 详细介绍
 卡彭是一名来自叙拉古萨科塔，其经历主要围绕着他与搭档甘比诺在叙拉古家族体系内外的挣扎和求生展开。他曾与甘比诺一同离开叙拉古，前往龙门寻求发展，这段经历持续了大约七八年或更久。
 

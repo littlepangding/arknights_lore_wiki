@@ -13,18 +13,18 @@
 ## 简要介绍
 Scout是巴别塔和罗德岛的精英干员，一位萨卡兹。他擅长侦察、潜入和行动协调，是巴别塔时期特蕾西娅殿下麾下的核心成员，也是罗德岛时期一支侦察小队的队长。Scout为人冷静、可靠、务实，但也拥有深刻的思想和情感。他曾与Ace等资深干员并肩作战，对博士有着复杂的看法。最终，在切尔诺伯格行动中，Scout为了保护其他干员，带领他的小队浴血奋战并全员牺牲，他本人也壮烈牺牲，成为这场无名氏战争的象征之一。
 ## 相关角色
--   **Ace([v1](../chars/extended_char_Ace.md),[v2](extended_char_Ace.md))**：巴别塔及罗德岛时期的亲密队友，多次一同执行任务，对彼此能力高度认可，曾就红色机械打赌。Scout牺牲后，红色机械（啤酒）成为两人留下的“最后赌注”。
--   **博士([v2](extended_char_bo_shi.md))**：巴别塔时期的指挥者，Scout曾向其汇报并听从指挥，对其指挥能力认可，但也担忧其成为“战争机器”。切尔诺伯格行动的营救目标，Scout为营救博士而牺牲。Scout认识失忆前的博士，并留下遗言。
--   **特蕾西娅([v1](../chars/extended_char_te_lei_xi_ya.md),[v2](extended_char_te_lei_xi_ya.md))**：巴别塔的领袖，Scout对她高度忠诚，是其麾下的精英干员。
--   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：巴别塔及罗德岛成员，与Scout一同工作，Scout向其汇报情报。
--   **煌([v1](../chars/char_017_huang.md),[v2](char_017_huang.md))**：罗德岛队友，Scout曾与其一同为她庆生，称她为“大猫”。
+-   **[Ace](extended_char_Ace.md)([v1](../chars/extended_char_Ace.md))**：巴别塔及罗德岛时期的亲密队友，多次一同执行任务，对彼此能力高度认可，曾就红色机械打赌。Scout牺牲后，红色机械（啤酒）成为两人留下的“最后赌注”。
+-   **[博士](extended_char_bo_shi.md)**：巴别塔时期的指挥者，Scout曾向其汇报并听从指挥，对其指挥能力认可，但也担忧其成为“战争机器”。切尔诺伯格行动的营救目标，Scout为营救博士而牺牲。Scout认识失忆前的博士，并留下遗言。
+-   **[特蕾西娅](extended_char_te_lei_xi_ya.md)([v1](../chars/extended_char_te_lei_xi_ya.md))**：巴别塔的领袖，Scout对她高度忠诚，是其麾下的精英干员。
+-   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：巴别塔及罗德岛成员，与Scout一同工作，Scout向其汇报情报。
+-   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：罗德岛队友，Scout曾与其一同为她庆生，称她为“大猫”。
 -   **Rosmontis**：罗德岛队友，Scout曾与其短暂交流，称她为“小猫”，给她留下“干净”的印象。
--   **赫拉格([v1](../chars/char_188_helage.md),[v2](char_188_helage.md))**：未曾谋面的罗德岛资深干员，经手了Scout的遗物，对Scout的牺牲表示敬佩。
--   **临光([v1](../chars/char_148_nearl.md),[v2](char_148_nearl.md))**：罗德岛干员，与赫拉格谈论Scout的遗物，认为Scout有独特的“觉悟”。
+-   **[赫拉格](char_188_helage.md)([v1](../chars/char_188_helage.md))**：未曾谋面的罗德岛资深干员，经手了Scout的遗物，对Scout的牺牲表示敬佩。
+-   **[临光](char_148_nearl.md)([v1](../chars/char_148_nearl.md))**：罗德岛干员，与赫拉格谈论Scout的遗物，认为Scout有独特的“觉悟”。
 -   **Guard (罗德岛近卫干员)**：Scout在切尔诺伯格拼死保护的对象，Scout遗言的转达者，因Scout的牺牲背负着其生命。
--   **迷迭香([v1](../chars/char_391_rosmon.md),[v2](char_391_rosmon.md))**：罗德岛干员，得知Scout牺牲的消息受到巨大冲击，收到其遗物，回忆Scout。
--   **W([v1](../chars/char_113_cqbw.md),[v2](char_113_cqbw.md))**：整合运动成员，Scout在切尔诺伯格可能与她达成过某种交易，以确保被保护干员的存活。
--   **阿斯卡纶([v1](../chars/char_4132_ascln.md),[v2](char_4132_ascln.md))**：巴别塔成员，与Scout一同执行任务。
+-   **[迷迭香](char_391_rosmon.md)([v1](../chars/char_391_rosmon.md))**：罗德岛干员，得知Scout牺牲的消息受到巨大冲击，收到其遗物，回忆Scout。
+-   **[W](char_113_cqbw.md)([v1](../chars/char_113_cqbw.md))**：整合运动成员，Scout在切尔诺伯格可能与她达成过某种交易，以确保被保护干员的存活。
+-   **[阿斯卡纶](char_4132_ascln.md)([v1](../chars/char_4132_ascln.md))**：巴别塔成员，与Scout一同执行任务。
 -   **Scout的队员们（斯琳珂等十二人）**：由Scout领导的侦察小队成员，在切尔诺伯格与Scout一同全员牺牲。
 ## 详细介绍
 Scout是一位资深的萨卡兹干员，其故事线贯穿了巴别塔时期和罗德岛早期，尤其是在切尔诺伯格的行动中达到了顶峰。

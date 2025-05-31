@@ -14,19 +14,19 @@
 Misery曾是活跃于卡兹戴尔的萨卡兹雇佣兵，与赫德雷、伊内丝、W等人是旧识。在维多利亚的战乱中与他们重逢，并以罗德岛精英干员的身份参与了伦蒂尼姆的诸多重要行动。他擅长运用独特的源石技艺进行空间和密度操纵，在潜入、侦察、战斗和撤离中发挥着关键作用。Outcast的牺牲对他产生了深远影响，促使他坚定了推动罗德岛深入伦蒂尼姆的决心。Misery与罗德岛的核心成员，特别是凯尔希、Logos、Scout、Outcast等人关系密切，是连接罗德岛与巴别塔（维什戴尔）的重要人物。
 ## 相关角色
 -   **赫德雷, 伊内丝, W**：昔日的萨卡兹雇佣兵同伴，在维多利亚重逢并共同行动，有着复杂的过去和现在。
--   **号角([v1](../chars/char_4039_horn.md),[v2](char_4039_horn.md))**：在切特雷镇防御战中结识，并肩作战，建立了深厚的友谊。多次共同执行任务，包括突袭监狱、高墙作战等。
--   **推进之王([v1](../chars/char_112_siege.md),[v2](char_112_siege.md))**：在切特雷镇并肩作战，典范军的同伴，推进之王称与Misery的配合是“个人的友谊”。
--   **Outcast([v1](../chars/extended_char_Outcast.md),[v2](extended_char_Outcast.md))**：罗德岛的重要同僚，关系非常亲密。Outcast的牺牲对Misery打击巨大，是推动罗德岛进军伦蒂尼姆的重要原因。Misery在源石结晶中看到过Outcast的影像，并深切怀念与她的往事。
--   **Logos([v1](../chars/extended_char_Logos.md))**：罗德岛的同僚和亲密朋友，曾与Scout一同为Logos准备“欢送会”，并在战场上并肩作战。
--   **Scout([v1](../chars/extended_char_Scout.md),[v2](extended_char_Scout.md))**：与Logos一同在Misery的回忆中出现，似乎是罗德岛核心成员圈子里的朋友。
--   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：罗德岛的重要领导者。Misery与她之间有约定或承诺，并听从她的安排（如保护博士）。Misery也会向凯尔希表达自己的决定和看法。
--   **博士([v2](extended_char_bo_shi.md))**：罗德岛的重要指挥者。Misery作为干员听从博士的指令，也曾利用自己的能力保护博士的安全。
--   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：罗德岛的重要领导者。Misery一同参与了对Abyss的突入行动，并在伦蒂尼姆的行动中受到阿米娅的高度评价和信任。
--   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：罗德岛干员，通讯专家。Misery在战场上保护过可露希尔，并被她称为“刺客大师”。两人在舰内异常事件中也有合作。
--   **曼弗雷德([v1](../chars/extended_char_man_fu_lei_de.md),[v2](extended_char_man_fu_lei_de.md))**：萨卡兹王庭的将领。在伦蒂尼姆高墙上与Misery短暂交锋， Misery利用源石技艺干扰了他的行动。
+-   **[号角](char_4039_horn.md)([v1](../chars/char_4039_horn.md))**：在切特雷镇防御战中结识，并肩作战，建立了深厚的友谊。多次共同执行任务，包括突袭监狱、高墙作战等。
+-   **[推进之王](char_112_siege.md)([v1](../chars/char_112_siege.md))**：在切特雷镇并肩作战，典范军的同伴，推进之王称与Misery的配合是“个人的友谊”。
+-   **[Outcast](extended_char_Outcast.md)([v1](../chars/extended_char_Outcast.md))**：罗德岛的重要同僚，关系非常亲密。Outcast的牺牲对Misery打击巨大，是推动罗德岛进军伦蒂尼姆的重要原因。Misery在源石结晶中看到过Outcast的影像，并深切怀念与她的往事。
+-   **Logos**：罗德岛的同僚和亲密朋友，曾与Scout一同为Logos准备“欢送会”，并在战场上并肩作战。
+-   **[Scout](extended_char_Scout.md)([v1](../chars/extended_char_Scout.md))**：与Logos一同在Misery的回忆中出现，似乎是罗德岛核心成员圈子里的朋友。
+-   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：罗德岛的重要领导者。Misery与她之间有约定或承诺，并听从她的安排（如保护博士）。Misery也会向凯尔希表达自己的决定和看法。
+-   **[博士](extended_char_bo_shi.md)**：罗德岛的重要指挥者。Misery作为干员听从博士的指令，也曾利用自己的能力保护博士的安全。
+-   **[阿米娅](char_002_amiya.md)([v1](../chars/char_002_amiya.md))**：罗德岛的重要领导者。Misery一同参与了对Abyss的突入行动，并在伦蒂尼姆的行动中受到阿米娅的高度评价和信任。
+-   **[可露希尔](extended_char_ke_lu_xi_er.md)([v1](../chars/extended_char_ke_lu_xi_er.md))**：罗德岛干员，通讯专家。Misery在战场上保护过可露希尔，并被她称为“刺客大师”。两人在舰内异常事件中也有合作。
+-   **[曼弗雷德](extended_char_man_fu_lei_de.md)([v1](../chars/extended_char_man_fu_lei_de.md))**：萨卡兹王庭的将领。在伦蒂尼姆高墙上与Misery短暂交锋， Misery利用源石技艺干扰了他的行动。
 -   **斯卡特 / 风笛**：Misery提到自己是风笛最好朋友（斯卡特）的最后一个朋友，这层关系显示了他与Outcast、斯卡特、风笛这个圈子的紧密联系。
 -   **罗本**：伦蒂尼姆自救军成员。在高墙上与号角一同被Misery救下，并在后续战斗中与Misery并肩作战。
--   **血魔大君([v1](../chars/extended_char_xue_mo_da_jun.md),[v2](extended_char_xue_mo_da_jun.md))**：在夺取巨兽骸骨的行动中对峙的强大敌人。
+-   **[血魔大君](extended_char_xue_mo_da_jun.md)([v1](../chars/extended_char_xue_mo_da_jun.md))**：在夺取巨兽骸骨的行动中对峙的强大敌人。
 ## 详细介绍
 Misery，这位沉默而高效的萨卡兹精英干员，有着一段复杂的过去。他曾是活跃于卡兹戴尔的雇佣兵，与日后的W、赫德雷、伊内丝等人一同在血与火中摸爬滚打。这段经历赋予了他丰富的战斗技巧、对各种势力的了解，以及对萨卡兹内部错综复杂关系的洞悉。
 

@@ -14,15 +14,15 @@
 温德米尔公爵是维多利亚的六大公爵之一，温德米尔家族的领袖。她是一位手握重兵的强大军事指挥官，拥有高速军舰“加拉瓦铁盾”舰队。在萨卡兹对维多利亚发动进攻期间，她展现了作为公爵的责任感和作为母亲的深情。她曾果断行动营救陷入危机的女儿戴菲恩，并在后来试图返回首都伦蒂尼姆参与反攻。温德米尔公爵是一位经验丰富的战士，曾与萨卡兹血魔大君正面交锋，但不幸因分神保护女儿而受致命伤，最终阵亡。她的牺牲对维多利亚的政治格局和女儿戴菲恩的命运产生了深远影响。
 ## 相关角色
 -   **戴菲恩·温德米尔**：温德米尔公爵的女儿，继承人。公爵对她关爱有加，其多次行动的核心动机都与女儿的安全和未来有关。公爵最终是为了保护女儿而牺牲。戴菲恩在公爵死后决定继承母亲的遗志。
--   **血魔大君([v1](../chars/extended_char_xue_mo_da_jun.md),[v2](extended_char_xue_mo_da_jun.md))**：萨卡兹军事委员会成员。在“恶兆湍流”中袭击了温德米尔公爵的旗舰，并最终将其重伤致死。温德米尔公爵对其表现出强硬的战斗姿态。
--   **特雷西斯([v1](../chars/extended_char_te_lei_xi_si.md),[v2](extended_char_te_lei_xi_si.md))**：萨卡兹摄政王，萨卡兹军事委员会领袖。温德米尔公爵曾被认为很早就对特雷西斯的意图保持警惕。
--   **威灵顿公爵([v1](../chars/extended_char_wei_ling_dun_gong_jue.md),[v2](extended_char_wei_ling_dun_gong_jue.md))**：维多利亚大公爵之一。曾计划与温德米尔联席指挥反攻。在温德米尔死后与其他公爵讨论其牺牲。
--   **开斯特公爵([v1](../chars/extended_char_kai_si_te_gong_jue.md),[v2](extended_char_kai_si_te_gong_jue.md))**：维多利亚大公爵之一。曾对温德米尔针对诺伯特地块的激进行动表示关注和猜测，并在温德米尔死后讨论其牺牲。
--   **高多汀公爵([v1](../chars/extended_char_gao_duo_ting_gong_jue.md),[v2](extended_char_gao_duo_ting_gong_jue.md))**：维多利亚大公爵之一。在温德米尔死后与其他公爵讨论其牺牲。
+-   **[血魔大君](extended_char_xue_mo_da_jun.md)([v1](../chars/extended_char_xue_mo_da_jun.md))**：萨卡兹军事委员会成员。在“恶兆湍流”中袭击了温德米尔公爵的旗舰，并最终将其重伤致死。温德米尔公爵对其表现出强硬的战斗姿态。
+-   **[特雷西斯](extended_char_te_lei_xi_si.md)([v1](../chars/extended_char_te_lei_xi_si.md))**：萨卡兹摄政王，萨卡兹军事委员会领袖。温德米尔公爵曾被认为很早就对特雷西斯的意图保持警惕。
+-   **[威灵顿公爵](extended_char_wei_ling_dun_gong_jue.md)([v1](../chars/extended_char_wei_ling_dun_gong_jue.md))**：维多利亚大公爵之一。曾计划与温德米尔联席指挥反攻。在温德米尔死后与其他公爵讨论其牺牲。
+-   **[开斯特公爵](extended_char_kai_si_te_gong_jue.md)([v1](../chars/extended_char_kai_si_te_gong_jue.md))**：维多利亚大公爵之一。曾对温德米尔针对诺伯特地块的激进行动表示关注和猜测，并在温德米尔死后讨论其牺牲。
+-   **[高多汀公爵](extended_char_gao_duo_ting_gong_jue.md)([v1](../chars/extended_char_gao_duo_ting_gong_jue.md))**：维多利亚大公爵之一。在温德米尔死后与其他公爵讨论其牺牲。
 -   **罗德岛**：在“惊霆无声”中协助营救了诺伯特地块的市民和戴菲恩。温德米尔公爵对罗德岛表示感谢并同意庇护难民，并与他们讨论了推进之王持有诸王之息一事。
--   **推进之王([v1](../chars/char_112_siege.md),[v2](char_112_siege.md))**：在“惊霆无声”事件中与罗德岛一同行动，被温德米尔公爵得知持有维多利亚国剑“诸王之息”。
--   **达格达([v1](../chars/char_157_dagda.md),[v2](char_157_dagda.md))**：曾向温德米尔公爵提及并质问关于蒸汽骑士的命运，温德米尔公爵承认签署了相关命令。
--   **曼弗雷德([v1](../chars/extended_char_man_fu_lei_de.md),[v2](extended_char_man_fu_lei_de.md))**：萨卡兹军事委员会成员。曾提及温德米尔公爵与其他公爵一样，可能试图利用萨卡兹来解决自身问题。
+-   **[推进之王](char_112_siege.md)([v1](../chars/char_112_siege.md))**：在“惊霆无声”事件中与罗德岛一同行动，被温德米尔公爵得知持有维多利亚国剑“诸王之息”。
+-   **[达格达](char_157_dagda.md)([v1](../chars/char_157_dagda.md))**：曾向温德米尔公爵提及并质问关于蒸汽骑士的命运，温德米尔公爵承认签署了相关命令。
+-   **[曼弗雷德](extended_char_man_fu_lei_de.md)([v1](../chars/extended_char_man_fu_lei_de.md))**：萨卡兹军事委员会成员。曾提及温德米尔公爵与其他公爵一样，可能试图利用萨卡兹来解决自身问题。
 ## 详细介绍
 温德米尔公爵，作为维多利亚位高权重的六大公爵之一，执掌着庞大的军事力量，特别是拥有高速军舰“加拉瓦铁盾”及其所属舰队。她在维多利亚面临萨卡兹军事委员会入侵的危急时刻，扮演着重要的角色。
 

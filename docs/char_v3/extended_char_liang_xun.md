@@ -13,19 +13,19 @@
 ## 简要介绍
 梁洵，大炎朝廷官员。他出身尚蜀，早年外出闯荡，与老鲤、槐天裴结为结义兄弟。曾任尚蜀知府期间，他因心系百姓、推行惠民政策而赢得好评，被称为“了不得的父母官”。后被大炎太傅赏识并调往京城，历任玉门参知、肃政院官员，并曾协助处理玉门归国事务。在涉及黑酒盏、宗师佩剑以及岁兽等重大事件中，梁洵展现出偏向权谋和布局的行事风格，试图在复杂的朝廷势力博弈中保护大局和百姓安危。他与礼部左侍郎宁辞秋关系匪浅。
 ## 相关角色
--   **老鲤([v1](../chars/char_322_lmlee.md),[v2](char_322_lmlee.md))**：梁洵年轻时在尚蜀的同窗好友，结义兄弟。梁洵信任并利用老鲤的特殊身份和能力来处理一些复杂事件，尽管常将他卷入麻烦，但两人情谊深厚。
--   **宁辞秋([v1](../chars/extended_char_ning_ci_qiu.md),[v2](extended_char_ning_ci_qiu.md))**：礼部左侍郎，与梁洵关系匪浅，互相理解和支持。知晓梁洵的困境和选择，并在关键时刻（如调任京城）给予支持。
--   **太傅([v1](../chars/extended_char_tai_fu.md),[v2](extended_char_tai_fu.md))**：大炎朝廷重要人物，梁洵的顶头上司和引路人。太傅赏识梁洵的能力，将其调往京城进行培养和考验，也对他有所评估和指导。
--   **槐天裴([v1](../chars/extended_char_huai_tian_pei.md),[v2](extended_char_huai_tian_pei.md))**：老鲤和梁洵的结义兄弟，槐琥的父亲。在登临意事件中，梁洵通过布局促成了槐天裴保管宗师佩剑。
--   **左乐([v1](../chars/char_4121_zuole.md),[v2](char_4121_zuole.md))**：大炎司岁台官员。在将进酒事件中代表司岁台向梁洵施压，要求其配合行动。
--   **太合([v1](../chars/extended_char_tai_he.md),[v2](extended_char_tai_he.md))**：大炎司岁台官员。与左乐一同向梁洵施压，并参与了岁相幻境棋局。
--   **左宣辽([v1](../chars/extended_char_zuo_xuan_liao.md),[v2](extended_char_zuo_xuan_liao.md))**：玉门守将。在登临意事件中与梁洵搭档处理玉门事务，梁洵对其为将者的决断表示尊重。
--   **重岳([v1](../chars/char_2024_chyue.md),[v2](char_2024_chyue.md))**：大炎宗师。在登临意事件中接受槐天裴的挑战，最终决定将宗师佩剑托付给槐天裴，梁洵对此起到了推动作用。
--   **宁述([v1](../chars/extended_char_ning_shu.md),[v2](extended_char_ning_shu.md))**：礼部前尚书，宁辞秋的祖父。在相见欢事件中，梁洵拜访宁府，与他讨论时局。
--   **杜遥夜([v1](../chars/extended_char_du_yao_ye.md),[v2](extended_char_du_yao_ye.md))**：行裕镖局大小姐。在将进酒事件中，梁洵曾计划利用其镖局“窃取”酒盏。
+-   **[老鲤](char_322_lmlee.md)([v1](../chars/char_322_lmlee.md))**：梁洵年轻时在尚蜀的同窗好友，结义兄弟。梁洵信任并利用老鲤的特殊身份和能力来处理一些复杂事件，尽管常将他卷入麻烦，但两人情谊深厚。
+-   **[宁辞秋](extended_char_ning_ci_qiu.md)([v1](../chars/extended_char_ning_ci_qiu.md))**：礼部左侍郎，与梁洵关系匪浅，互相理解和支持。知晓梁洵的困境和选择，并在关键时刻（如调任京城）给予支持。
+-   **[太傅](extended_char_tai_fu.md)([v1](../chars/extended_char_tai_fu.md))**：大炎朝廷重要人物，梁洵的顶头上司和引路人。太傅赏识梁洵的能力，将其调往京城进行培养和考验，也对他有所评估和指导。
+-   **[槐天裴](extended_char_huai_tian_pei.md)([v1](../chars/extended_char_huai_tian_pei.md))**：老鲤和梁洵的结义兄弟，槐琥的父亲。在登临意事件中，梁洵通过布局促成了槐天裴保管宗师佩剑。
+-   **[左乐](char_4121_zuole.md)([v1](../chars/char_4121_zuole.md))**：大炎司岁台官员。在将进酒事件中代表司岁台向梁洵施压，要求其配合行动。
+-   **[太合](extended_char_tai_he.md)([v1](../chars/extended_char_tai_he.md))**：大炎司岁台官员。与左乐一同向梁洵施压，并参与了岁相幻境棋局。
+-   **[左宣辽](extended_char_zuo_xuan_liao.md)([v1](../chars/extended_char_zuo_xuan_liao.md))**：玉门守将。在登临意事件中与梁洵搭档处理玉门事务，梁洵对其为将者的决断表示尊重。
+-   **[重岳](char_2024_chyue.md)([v1](../chars/char_2024_chyue.md))**：大炎宗师。在登临意事件中接受槐天裴的挑战，最终决定将宗师佩剑托付给槐天裴，梁洵对此起到了推动作用。
+-   **[宁述](extended_char_ning_shu.md)([v1](../chars/extended_char_ning_shu.md))**：礼部前尚书，宁辞秋的祖父。在相见欢事件中，梁洵拜访宁府，与他讨论时局。
+-   **[杜遥夜](extended_char_du_yao_ye.md)([v1](../chars/extended_char_du_yao_ye.md))**：行裕镖局大小姐。在将进酒事件中，梁洵曾计划利用其镖局“窃取”酒盏。
 -   **郑掌柜**：行裕镖局掌柜，杜遥夜的父亲。在将进酒事件中被梁洵计划利用。
--   **夜半([v1](../chars/char_476_blkngt.md),[v2](char_476_blkngt.md))**：赏金猎人。在将进酒事件中受人委托盗取酒盏，打乱了梁洵原计划。
--   **尚冢([v1](../chars/extended_char_shang_zhong.md),[v2](extended_char_shang_zhong.md))**：挑山人。在将进酒事件中从夜半手中夺走了酒盏，使局势更加复杂。
+-   **[夜半](char_476_blkngt.md)([v1](../chars/char_476_blkngt.md))**：赏金猎人。在将进酒事件中受人委托盗取酒盏，打乱了梁洵原计划。
+-   **[尚冢](extended_char_shang_zhong.md)([v1](../chars/extended_char_shang_zhong.md))**：挑山人。在将进酒事件中从夜半手中夺走了酒盏，使局势更加复杂。
 ## 详细介绍
 梁洵，一位出身尚蜀、心系百姓的大炎官员，其仕途经历与大炎面临的岁兽危机和朝廷内部的博弈紧密相连。他从一名地方知府，逐步走入京城的权力中心，其行事风格也从朴素的为民，发展出更具权谋色彩的一面。
 

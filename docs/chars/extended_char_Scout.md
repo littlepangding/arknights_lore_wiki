@@ -13,20 +13,20 @@ Scout先生;侦察小队队长
 ## 简要介绍
 Scout是巴别塔组织的成员，担任侦察小队的队长。他是一位经验丰富、能力出众的萨卡兹雇佣兵，忠诚追随特蕾西娅殿下的理想，并参与了巴别塔的各项军事与情报行动。在切尔诺伯格救援博士的行动中，Scout为掩护战友而牺牲。他生前不仅是可靠的战士，也对战争、牺牲以及博士的未来有着复杂而深刻的思考，对罗德岛的许多干员产生了重要影响。
 ## 相关角色
--   **特蕾西娅([v1](extended_char_te_lei_xi_ya.md),[v2](../char_v3/extended_char_te_lei_xi_ya.md))**：对特蕾西娅殿下无限忠诚，相信并追随她的理想。他信赖殿下和凯尔希医生能够应对困难。
--   **凯尔希([v1](char_003_kalts.md),[v2](../char_v3/char_003_kalts.md))**：与凯尔希医生在巴别塔共事，执行她的指令。凯尔希信任Scout的能力，并在他牺牲后提及他的身份和职责。
--   **博士([v2](../char_v3/extended_char_bo_shi.md))**：在博士苏醒后，Scout听从博士的指挥。他对博士的战术能力表示赞赏，但也担忧博士可能会变成“战争机器”，希望博士远离战争。在切尔诺伯格救援行动中，Scout的牺牲帮助博士得以安全。他给博士留下了遗言。
--   **阿斯卡纶([v1](char_4132_ascln.md),[v2](../char_v3/char_4132_ascln.md))**：巴别塔的同伴，与Scout在行动中合作。阿斯卡纶信任Scout的能力和判断。
--   **可露希尔([v1](extended_char_ke_lu_xi_er.md),[v2](../char_v3/extended_char_ke_lu_xi_er.md))**：巴别塔的同伴，Scout协助可露希尔完成任务。可露希尔认为Scout能力出众，不容易害怕，但失忆后的博士让Scout变得有些不同。
+-   **[特蕾西娅](../char_v3/extended_char_te_lei_xi_ya.md)([v1](extended_char_te_lei_xi_ya.md))**：对特蕾西娅殿下无限忠诚，相信并追随她的理想。他信赖殿下和凯尔希医生能够应对困难。
+-   **[凯尔希](../char_v3/char_003_kalts.md)([v1](char_003_kalts.md))**：与凯尔希医生在巴别塔共事，执行她的指令。凯尔希信任Scout的能力，并在他牺牲后提及他的身份和职责。
+-   **[博士](../char_v3/extended_char_bo_shi.md)**：在博士苏醒后，Scout听从博士的指挥。他对博士的战术能力表示赞赏，但也担忧博士可能会变成“战争机器”，希望博士远离战争。在切尔诺伯格救援行动中，Scout的牺牲帮助博士得以安全。他给博士留下了遗言。
+-   **[阿斯卡纶](../char_v3/char_4132_ascln.md)([v1](char_4132_ascln.md))**：巴别塔的同伴，与Scout在行动中合作。阿斯卡纶信任Scout的能力和判断。
+-   **[可露希尔](../char_v3/extended_char_ke_lu_xi_er.md)([v1](extended_char_ke_lu_xi_er.md))**：巴别塔的同伴，Scout协助可露希尔完成任务。可露希尔认为Scout能力出众，不容易害怕，但失忆后的博士让Scout变得有些不同。
 -   **Ace（巴别塔）**：巴别塔时期的朋友和战友，Scout提到曾与Ace打赌。
 -   **Ace（罗德岛）**：W提到曾与“那个外来的萨卡兹人”（Scout）合作杀死了她的前上司。Scout的牺牲地在切尔诺伯格，罗德岛干员Ace参与了该地区的作战。
--   **尤莉叶([v1](extended_char_you_li_ye.md),[v2](../char_v3/extended_char_you_li_ye.md))**：Scout在疤痕商场附近看到了追随特蕾西娅的尤莉叶，注意到她没有恶意。
--   **奥达([v1](char_4131_odda.md),[v2](../char_v3/char_4131_odda.md))**：Scout所在的小队曾在巴别塔活动中帮助奥达返回城市。奥达在后来的战斗中提及Scout预设的方案十分有效。
--   **Guard([v1](extended_char_Guard.md),[v2](../char_v3/extended_char_Guard.md))**：罗德岛近卫干员，在切尔诺伯格被Scout救下，Scout为保护他而牺牲。Guard将Scout的遗物和临终嘱托带回罗德岛。他受到Scout牺牲的影响，重新思考自己的道路。
--   **迷迭香([v1](char_391_rosmon.md),[v2](../char_v3/char_391_rosmon.md))**：对Scout的牺牲感到悲伤和不解，认为他的牺牲令她感到的空虚正是因为Scout。Guard提及Scout曾帮助过迷迭香。
--   **爱国者([v1](extended_char_ai_guo_zhe.md),[v2](../char_v3/extended_char_ai_guo_zhe.md))**：整合运动领袖，在切尔诺伯格的战斗中遇到Scout。爱国者欣赏Scout作为“真正的战士”的英勇和战术能力，并将其遗物转交给罗德岛干员。
--   **W([v1](char_113_cqbw.md),[v2](../char_v3/char_113_cqbw.md))**：W在巴别塔分裂后接管了萨卡兹佣兵队伍，曾与“那个外来的萨卡兹人”（Scout）合作，并提及他帮助她除掉了前任。在爱国者死后，W提及Scout是除了爱国者外她在整合运动中唯一在意的人。
--   **赫拉格([v1](char_188_helage.md),[v2](../char_v3/char_188_helage.md))**：接收了爱国者转交的Scout遗物，并将其带回罗德岛。
+-   **[尤莉叶](../char_v3/extended_char_you_li_ye.md)([v1](extended_char_you_li_ye.md))**：Scout在疤痕商场附近看到了追随特蕾西娅的尤莉叶，注意到她没有恶意。
+-   **[奥达](../char_v3/char_4131_odda.md)([v1](char_4131_odda.md))**：Scout所在的小队曾在巴别塔活动中帮助奥达返回城市。奥达在后来的战斗中提及Scout预设的方案十分有效。
+-   **[Guard](../char_v3/extended_char_Guard.md)([v1](extended_char_Guard.md))**：罗德岛近卫干员，在切尔诺伯格被Scout救下，Scout为保护他而牺牲。Guard将Scout的遗物和临终嘱托带回罗德岛。他受到Scout牺牲的影响，重新思考自己的道路。
+-   **[迷迭香](../char_v3/char_391_rosmon.md)([v1](char_391_rosmon.md))**：对Scout的牺牲感到悲伤和不解，认为他的牺牲令她感到的空虚正是因为Scout。Guard提及Scout曾帮助过迷迭香。
+-   **[爱国者](../char_v3/extended_char_ai_guo_zhe.md)([v1](extended_char_ai_guo_zhe.md))**：整合运动领袖，在切尔诺伯格的战斗中遇到Scout。爱国者欣赏Scout作为“真正的战士”的英勇和战术能力，并将其遗物转交给罗德岛干员。
+-   **[W](../char_v3/char_113_cqbw.md)([v1](char_113_cqbw.md))**：W在巴别塔分裂后接管了萨卡兹佣兵队伍，曾与“那个外来的萨卡兹人”（Scout）合作，并提及他帮助她除掉了前任。在爱国者死后，W提及Scout是除了爱国者外她在整合运动中唯一在意的人。
+-   **[赫拉格](../char_v3/char_188_helage.md)([v1](char_188_helage.md))**：接收了爱国者转交的Scout遗物，并将其带回罗德岛。
 ## 详细介绍
 Scout是活跃于卡兹戴尔历史中巴别塔组织的成员，担任着至关重要的侦察小队队长一职。作为一名萨卡兹，他可能曾是一名雇佣兵，但他选择了追随特蕾西娅殿下对萨卡兹乃至泰拉未来的美好愿景，展现出对殿下的无限忠诚。
 

@@ -13,25 +13,25 @@
 ## 简要介绍
 Mon3tr，代号AMa-10，是一个源于前文明“双生循环系统”项目的机械生命，原本计划用于大规模环境改造。作为唯一的原型，它在泰拉大地上漫游了约一万年，最终成为罗德岛精英干员凯尔希的独特伙伴和战斗具象。在凯尔希经历“离解复合”中的牺牲后，Mon3tr由其庞大的旧形态收缩为晶茧，一个月后以近似凯尔希的人形复苏，继承了凯尔希的全部记忆与知识。如今，Mon3tr作为罗德岛的特别顾问，凭借继承的庞大知识库协助罗德岛重建与运作，并决心探寻将凯尔希带回的方法。它曾是凯尔希的盾与剑，现在则承载着她的意志与使命，同时也在罗德岛寻找“自己”的存在意义。
 ## 相关角色
--   **凯尔希([v1](../chars/char_003_kalts.md),[v2](char_003_kalts.md))**：Mon3tr是凯尔希最亲密的伙伴和战斗具象，由她掌控并与她共生。凯尔希将其作为核心战力、守护者和执行者。在凯尔希牺牲后，Mon3tr继承了她的全部记忆、知识和部分使命（尤其是保护博士和阿米娅）。
--   **博士([v2](extended_char_bo_shi.md))**：Mon3tr最高优先级的保护对象之一，凯尔希最初设定的指令，后成为Mon3tr自身的选择。Mon3tr多次在危机时刻保护博士，并与博士建立了深厚的同伴情谊，共同经历了许多事件，包括在“离解复合”后的重建，以及在“众生行记”中的特殊逃亡与协作。
--   **阿米娅([v1](../chars/char_002_amiya.md),[v2](char_002_amiya.md))**：Mon3tr最高优先级的保护对象之一。Mon3tr关心阿米娅的成长，并渴望多陪伴她。
--   **华法琳([v1](../chars/char_171_bldsk.md),[v2](char_171_bldsk.md))**：作为医疗部负责人，评估了Mon3tr的能力并正式聘请其为特别顾问。华法琳与Mon3tr有互动，并对它的身体状况表示关注。她曾开玩笑提到自己是被Mon3tr“绑”上罗德岛的。
--   **煌([v1](../chars/char_017_huang.md),[v2](char_017_huang.md))**：Mon3tr新形态的训练对手，认为她“比以前更神出鬼没”。
--   **W([v1](../chars/char_113_cqbw.md),[v2](char_113_cqbw.md))**：与Mon3tr有频繁互动，常称其为“小怪物”。W曾被Mon3tr制服，也曾借Mon3tr的身体进行移动和突破。Mon3tr在凯尔希受伤时对W表现出保护欲。
--   **特雷西斯([v1](../chars/extended_char_te_lei_xi_si.md),[v2](extended_char_te_lei_xi_si.md))**：萨卡兹摄政王，多次与Mon3tr交手。Mon3tr曾为保护博士和阿米娅挡下特雷西斯的致命攻击。
+-   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：Mon3tr是凯尔希最亲密的伙伴和战斗具象，由她掌控并与她共生。凯尔希将其作为核心战力、守护者和执行者。在凯尔希牺牲后，Mon3tr继承了她的全部记忆、知识和部分使命（尤其是保护博士和阿米娅）。
+-   **[博士](extended_char_bo_shi.md)**：Mon3tr最高优先级的保护对象之一，凯尔希最初设定的指令，后成为Mon3tr自身的选择。Mon3tr多次在危机时刻保护博士，并与博士建立了深厚的同伴情谊，共同经历了许多事件，包括在“离解复合”后的重建，以及在“众生行记”中的特殊逃亡与协作。
+-   **[阿米娅](char_002_amiya.md)([v1](../chars/char_002_amiya.md))**：Mon3tr最高优先级的保护对象之一。Mon3tr关心阿米娅的成长，并渴望多陪伴她。
+-   **[华法琳](char_171_bldsk.md)([v1](../chars/char_171_bldsk.md))**：作为医疗部负责人，评估了Mon3tr的能力并正式聘请其为特别顾问。华法琳与Mon3tr有互动，并对它的身体状况表示关注。她曾开玩笑提到自己是被Mon3tr“绑”上罗德岛的。
+-   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：Mon3tr新形态的训练对手，认为她“比以前更神出鬼没”。
+-   **[W](char_113_cqbw.md)([v1](../chars/char_113_cqbw.md))**：与Mon3tr有频繁互动，常称其为“小怪物”。W曾被Mon3tr制服，也曾借Mon3tr的身体进行移动和突破。Mon3tr在凯尔希受伤时对W表现出保护欲。
+-   **[特雷西斯](extended_char_te_lei_xi_si.md)([v1](../chars/extended_char_te_lei_xi_si.md))**：萨卡兹摄政王，多次与Mon3tr交手。Mon3tr曾为保护博士和阿米娅挡下特雷西斯的致命攻击。
 -   **赦罪师**：意图捕捉Mon3tr，称其为“小怪物”，认为Mon3tr的变形者模仿很拙劣。
--   **普瑞赛斯([v1](../chars/extended_char_pu_rui_sai_si.md),[v2](extended_char_pu_rui_sai_si.md))**：前文明实体，与凯尔希和Mon3tr（AMa-10）有联系。在“众生行记”中与Mon3tr和博士交谈，提及PCS系统和带回凯尔希的可能性，对Mon3tr的系统接入能力有限制。
+-   **[普瑞赛斯](extended_char_pu_rui_sai_si.md)([v1](../chars/extended_char_pu_rui_sai_si.md))**：前文明实体，与凯尔希和Mon3tr（AMa-10）有联系。在“众生行记”中与Mon3tr和博士交谈，提及PCS系统和带回凯尔希的可能性，对Mon3tr的系统接入能力有限制。
 -   **伊蒂达**：在“众生行记”中遇到的小女孩，Mon3tr（告解车形态）品尝并喜欢了她制作的冰淇淋，短暂同行。
--   **老伊辛([v1](../chars/extended_char_lao_yi_xin.md),[v2](extended_char_lao_yi_xin.md))**：在“遗尘漫步”中感知到Mon3tr与凯尔希之间“相依而生”、“心灵相通”的深厚联系。
--   **皇帝的利刃([v1](../chars/extended_char_87573b.md),[v2](extended_char_huang_di_de_li_ren.md))**：在“遗尘漫步”中与Mon3tr交手，对Mon3tr的坚韧和力量感到惊讶和忌惮。
--   **玛利图斯([v1](../chars/extended_char_ma_li_tu_si.md),[v2](extended_char_ma_li_tu_si.md))**：海嗣化的先史文明研究者。在“生路”中认出凯尔希是AMa-10，触发了Mon3tr的强烈反应。
--   **塔露拉([v1](../chars/extended_char_386da9.md),[v2](extended_char_ta_lu_la.md))**：整合运动领袖。Mon3tr在“风暴瞭望”中短暂阻止其撤离，对她的火焰表现出畏缩。
+-   **[老伊辛](extended_char_lao_yi_xin.md)([v1](../chars/extended_char_lao_yi_xin.md))**：在“遗尘漫步”中感知到Mon3tr与凯尔希之间“相依而生”、“心灵相通”的深厚联系。
+-   **[皇帝的利刃](extended_char_huang_di_de_li_ren.md)([v1](../chars/extended_char_87573b.md))**：在“遗尘漫步”中与Mon3tr交手，对Mon3tr的坚韧和力量感到惊讶和忌惮。
+-   **[玛利图斯](extended_char_ma_li_tu_si.md)([v1](../chars/extended_char_ma_li_tu_si.md))**：海嗣化的先史文明研究者。在“生路”中认出凯尔希是AMa-10，触发了Mon3tr的强烈反应。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：整合运动领袖。Mon3tr在“风暴瞭望”中短暂阻止其撤离，对她的火焰表现出畏缩。
 -   **乔迪**：在“愚人号”中试图营救的对象。
 -   **维娜**：Mon3tr在“追迹日落以西”中一次会议场合出现，并被公爵要求退下。
 -   **艾尔希**：Mon3tr在“追迹日落以西”中曾极短暂地出现在她附近。
--   **食腐者之王([v1](../chars/extended_char_shi_fu_zhe_zhi_wang.md))**：古老的萨卡兹王庭之主。在“破碎日冕”中提及“那头漆黑的怪物”，认为其足以抵挡自己。
--   **Guard([v1](../chars/extended_char_Guard.md),[v2](extended_char_Guard.md))**：在“苦难摇篮”中曾被Mon3tr钳制以协助凯尔希进行审问。
+-   **食腐者之王**：古老的萨卡兹王庭之主。在“破碎日冕”中提及“那头漆黑的怪物”，认为其足以抵挡自己。
+-   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：在“苦难摇篮”中曾被Mon3tr钳制以协助凯尔希进行审问。
 ## 详细介绍
 Mon3tr，其真实代号为AMa-10，是一个起源于前文明“双生循环系统”项目的人工智能机械生命。该项目旨在研发一种具有强大学习能力和几乎不会损毁结构的机械生命，以便在极端环境下大规模改造星球环境，建设新的家园。然而，前文明最终未能完成这一宏大计划，AMa-10也只剩下了唯一的原型——Mon3tr。它诞生于前文明播种船“罗德岛”号上，在管理者陷入沉睡后，孤独地在星海中航行，最终抵达泰拉。一位苏醒的管理者“预言家”曾与它一同勘测泰拉，并在旅行结束时给予了它最后的指令：“去找到你自己。”带着这份疑惑，Mon3tr开始了它在泰拉大地上漫长的一万年旅程。
 

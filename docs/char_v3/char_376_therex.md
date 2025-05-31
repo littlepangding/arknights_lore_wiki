@@ -13,13 +13,13 @@ Thermal-EX
 ## 简要介绍
 THRM-EX，型号亦作Thermal-EX，是由雷神工业制造，并由罗德岛工程师梅尔和可露希尔共同客制化的工业级作战平台。他主要负责战地作战任务，搭载有强大的热力法术冲击发生器。THRM-EX以其极度外向、对一切事物都充满赞美和“热”情的独特个性而闻名，尤其对改进他的梅尔推崇备至。尽管外形具有侵略性，且过于“热烈”的言语有时让人难以适应，但他始终致力于用自己的方式温暖他人。在“离解复合”活动中，他与其他小车一同因PRTS异常而失控，后被弗里斯顿-3修复，期间短暂表现出对自身状态的感知和困惑。
 ## 相关角色
--   **梅尔([v1](../chars/char_242_otter.md),[v2](char_242_otter.md))**：负责THRM-EX的武器与储能装置的制作和改进，THRM-EX对其改装尤为赞叹。
--   **可露希尔([v1](../chars/extended_char_ke_lu_xi_er.md),[v2](extended_char_ke_lu_xi_er.md))**：决定改装THRM-EX的工程师，评价他意外地能让内向干员愿意听他滔滔不绝。
--   **煌([v1](../chars/char_017_huang.md),[v2](char_017_huang.md))**：THRM-EX称她为“灼热的伙伴”，是他的好搭档。
+-   **[梅尔](char_242_otter.md)([v1](../chars/char_242_otter.md))**：负责THRM-EX的武器与储能装置的制作和改进，THRM-EX对其改装尤为赞叹。
+-   **[可露希尔](extended_char_ke_lu_xi_er.md)([v1](../chars/extended_char_ke_lu_xi_er.md))**：决定改装THRM-EX的工程师，评价他意外地能让内向干员愿意听他滔滔不绝。
+-   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：THRM-EX称她为“灼热的伙伴”，是他的好搭档。
 -   **弗里斯顿-3**：在“离解复合”活动中修复了失控的THRM-EX及其他小车，THRM-EX能通过温度感知他。
--   **Lancet-2([v1](../chars/char_285_medic2.md),[v2](char_285_medic2.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
--   **Castle-3([v1](../chars/char_286_cast3.md),[v2](char_286_cast3.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
--   **正义骑士号([v1](../chars/char_4000_jnight.md),[v2](char_4000_jnight.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
+-   **[Lancet-2](char_285_medic2.md)([v1](../chars/char_285_medic2.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
+-   **[Castle-3](char_286_cast3.md)([v1](../chars/char_286_cast3.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
+-   **[正义骑士号](char_4000_jnight.md)([v1](../chars/char_4000_jnight.md))**：罗德岛的作业平台，在“离解复合”中与THRM-EX一同经历异常和修复。
 ## 详细介绍
 THRM-EX，全称Thermal-EX，是一款源自哥伦比亚雷神工业的工业级作业平台，后来由罗德岛的工程师团队，特别是梅尔和可露希尔，进行了深度客制化，使其成为一个专注于战地作战任务的高性能版本。梅尔在这一过程中贡献良多，主要负责为其打造和改进武器系统以及储能装置，赋予了他搭载的雷神工业定制款全量热力法术冲击发生器强大的能力。可露希尔则是最初决定对这款型号进行改装的人。尽管出厂时间不足一年，THRM-EX已经成为了罗德岛不可或缺的一员。
 

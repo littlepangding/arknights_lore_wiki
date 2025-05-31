@@ -13,15 +13,15 @@
 ## 简要介绍
 Pith是一名萨卡兹（未明确种族亚型）干员，曾是特蕾西娅领导的巴别塔组织中的教师和精英行动队成员，对巴别塔和特蕾西娅保持忠诚。在卡兹戴尔内战期间，她在博士的指挥下参与了多项重要行动，并展现了控制受源石影响环境现象（如暴雪）的独特源石技艺。内战结束后，Pith加入了罗德岛，成为一名术师干员和源石技艺教官，负责指导干员进行高强度特训，并肯定了部分年轻干员（如炎熔）的天赋和努力。她以严谨的教学风格著称，甚至在战场上也不忘指导学生。
 ## 相关角色
--   **特蕾西娅([v1](extended_char_te_lei_xi_ya.md),[v2](../char_v3/extended_char_te_lei_xi_ya.md))**：Pith是巴别塔的成员，对特蕾西娅忠诚，参与巴别塔的行动并为其理念而战。
--   **博士([v2](../char_v3/extended_char_bo_shi.md))**：Pith在巴别塔时期是精英行动队成员，曾受博士指挥参与内战行动，并在罗德岛时期与博士一同参与作战简报。
--   **炎熔([v1](char_121_lava.md),[v2](../char_v3/char_121_lava.md))**：Pith是炎熔在罗德岛进行高强度源石技艺特训的教官之一，炎熔称其为“Pith老师”，并肯定了她的天赋和努力。炎熔的过度疲劳和发烧正是由于Pith主导的特训强度过大所致，但炎熔认为训练是值得的。
--   **芙蓉([v1](char_120_hibisc.md),[v2](../char_v3/char_120_hibisc.md))**：芙蓉通过杜宾教官、Pith和Logos的肯定了解到炎熔在源石技艺上的天赋和刻苦练习。她也从炎熔处得知Pith是导致炎熔特训后疲惫生病的原因。
--   **杜宾([v1](char_130_doberm.md),[v2](../char_v3/char_130_doberm.md))**：芙蓉的信中提及杜宾、Pith和Logos都赞赏炎熔在源石技艺上的天赋。
--   **Logos([v1](extended_char_Logos.md))**：Pith与Logos同为巴别塔的精英行动队成员，在罗德岛时期一同被提及赞赏炎熔的天赋，并共同参与了行动简报。
--   **Ace([v1](extended_char_Ace.md),[v2](../char_v3/extended_char_Ace.md))**：Pith与Ace一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
--   **Mantra([v1](extended_char_Mantra.md),[v2](../char_v3/extended_char_Mantra.md))**：Pith与Mantra一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
--   **Scout([v1](extended_char_Scout.md),[v2](../char_v3/extended_char_Scout.md))**：Pith与Scout一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
+-   **[特蕾西娅](../char_v3/extended_char_te_lei_xi_ya.md)([v1](extended_char_te_lei_xi_ya.md))**：Pith是巴别塔的成员，对特蕾西娅忠诚，参与巴别塔的行动并为其理念而战。
+-   **[博士](../char_v3/extended_char_bo_shi.md)**：Pith在巴别塔时期是精英行动队成员，曾受博士指挥参与内战行动，并在罗德岛时期与博士一同参与作战简报。
+-   **[炎熔](../char_v3/char_121_lava.md)([v1](char_121_lava.md))**：Pith是炎熔在罗德岛进行高强度源石技艺特训的教官之一，炎熔称其为“Pith老师”，并肯定了她的天赋和努力。炎熔的过度疲劳和发烧正是由于Pith主导的特训强度过大所致，但炎熔认为训练是值得的。
+-   **[芙蓉](../char_v3/char_120_hibisc.md)([v1](char_120_hibisc.md))**：芙蓉通过杜宾教官、Pith和Logos的肯定了解到炎熔在源石技艺上的天赋和刻苦练习。她也从炎熔处得知Pith是导致炎熔特训后疲惫生病的原因。
+-   **[杜宾](../char_v3/char_130_doberm.md)([v1](char_130_doberm.md))**：芙蓉的信中提及杜宾、Pith和Logos都赞赏炎熔在源石技艺上的天赋。
+-   **Logos**：Pith与Logos同为巴别塔的精英行动队成员，在罗德岛时期一同被提及赞赏炎熔的天赋，并共同参与了行动简报。
+-   **[Ace](../char_v3/extended_char_Ace.md)([v1](extended_char_Ace.md))**：Pith与Ace一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
+-   **[Mantra](../char_v3/extended_char_Mantra.md)([v1](extended_char_Mantra.md))**：Pith与Mantra一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
+-   **[Scout](../char_v3/extended_char_Scout.md)([v1](extended_char_Scout.md))**：Pith与Scout一同参与了针对被困巴别塔成员的救援行动，并在行动简报中共同分析战况。
 -   **Aidan**：Aidan是Pith的学生，在“灯火闪烁不定”章节中，Pith在救援行动中使用源石技艺掩护撤退时，批评Aidan没有记住防护手段，并要求其提交论文。
 ## 详细介绍
 Pith最初是巴别塔组织中的一名教师，秉持着特蕾西娅通过知识和合作改变萨卡兹命运的理想。随着卡兹戴尔内战的爆发，她也投身战场，加入了巴别塔的精英行动队，在博士的指挥下参与了多项关键的军事行动。

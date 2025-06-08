@@ -10,6 +10,12 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
+
+## 2025-06-07 Update
+
+新活动:
+- [红丝绒](docs/stories/act43side.md), [盐漠上的海风](docs/stories/story_weedy_set_2.md)(温蒂), [何处寻宝藏](docs/stories/story_narant_set_1.md)(娜仁图亚), [不写诗的诗人](docs/stories/story_vvana_set_1.md)(薇薇安娜), [很久很久以前](docs/stories/story_christ_set_1.md)(Miss.Christine)
+
 ## 2025-05-30 Update
 
 - Finished the initial 版本二角色 wiki generation (完成了版本二角色wiki的首次生成)。

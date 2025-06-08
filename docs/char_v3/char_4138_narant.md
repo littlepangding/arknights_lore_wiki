@@ -1,5 +1,5 @@
 # 娜仁图亚
-页面版本:None
+页面版本:v3.1
  
 
 | :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：[BV1gdJ7zqESe](https://www.bilibili.com/video/BV1gdJ7zqESe/)         |

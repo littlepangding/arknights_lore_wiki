@@ -1,5 +1,5 @@
 <time>2025-06-08-01:30:27</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_mai_ji</ID>
 <名称>
 麦基

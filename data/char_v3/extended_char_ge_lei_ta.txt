@@ -1,5 +1,5 @@
 <time>2025-06-07-23:42:20</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_ge_lei_ta</ID>
 <名称>
 格蕾塔

@@ -1,5 +1,5 @@
 <time>2025-06-08-01:24:09</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_ao_bi_na</ID>
 <名称>
 奥比娜

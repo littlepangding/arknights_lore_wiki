@@ -1,5 +1,5 @@
 <time>2025-06-08-02:10:25</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_ka_li_tuo</ID>
 <名称>
 卡利托

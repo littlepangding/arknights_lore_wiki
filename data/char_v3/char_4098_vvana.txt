@@ -1,5 +1,5 @@
 <time>2025-06-08-01:20:26</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_4098_vvana</ID>
 <名称>
 薇薇安娜

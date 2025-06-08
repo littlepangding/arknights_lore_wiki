@@ -1,5 +1,5 @@
 <time>2025-06-08-02:06:39</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_4009_irene</ID>
 <名称>
 艾丽妮

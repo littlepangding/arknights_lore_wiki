@@ -1,5 +1,5 @@
 <time>2025-06-08-00:08:33</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_4191_tippi</ID>
 <名称>
 蒂比

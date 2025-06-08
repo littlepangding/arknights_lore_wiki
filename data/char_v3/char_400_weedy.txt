@@ -1,5 +1,5 @@
 <time>2025-06-08-01:46:26</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_400_weedy</ID>
 <名称>
 温蒂

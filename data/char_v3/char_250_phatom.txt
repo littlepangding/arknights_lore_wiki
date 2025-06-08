@@ -1,5 +1,5 @@
 <time>2025-06-07-23:32:58</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_250_phatom</ID>
 <名称>
 傀影

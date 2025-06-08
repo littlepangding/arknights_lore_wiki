@@ -1,5 +1,5 @@
 <time>2025-06-07-23:50:21</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_xie_li</ID>
 <名称>
 谢莉

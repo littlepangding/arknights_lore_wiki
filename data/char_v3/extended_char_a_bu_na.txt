@@ -1,5 +1,5 @@
 <time>2025-06-08-00:20:45</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_a_bu_na</ID>
 <名称>
 阿布纳

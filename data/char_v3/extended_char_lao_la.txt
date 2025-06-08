@@ -1,5 +1,5 @@
 <time>2025-06-08-00:35:53</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>extended_char_lao_la</ID>
 <名称>
 劳拉

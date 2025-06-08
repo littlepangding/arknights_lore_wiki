@@ -1,5 +1,5 @@
 <time>2025-06-08-00:44:55</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_4025_aprot2</ID>
 <名称>
 暮落

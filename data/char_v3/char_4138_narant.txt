@@ -1,5 +1,5 @@
 <time>2025-06-08-01:04:16</time>
-<version>None</version>
+<version>v3.1</version>
 <ID>char_4138_narant</ID>
 <名称>
 娜仁图亚

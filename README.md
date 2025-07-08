@@ -11,6 +11,12 @@
 - [活动总表](docs/story_index.md) 
 
 
+## 2025-07-08 Update
+
+新活动:
+- [镜中集](docs/stories/act19mini.md), [未必空](docs/stories/story_saga_set_1.md)(嵯峨), [夜晚荒漠上的鳞群](docs/stories/story_ray_set_1.md)(莱伊), [何须剑](docs/stories/story_reckpr_set_1.md)(录武官), [最后一案](docs/stories/story_tinman_set_1.md)(锡人)
+
+
 ## 2025-06-07 Update
 
 新活动:

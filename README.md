@@ -15,6 +15,7 @@
 
 新活动:
 - [镜中集](docs/stories/act19mini.md), [未必空](docs/stories/story_saga_set_1.md)(嵯峨), [夜晚荒漠上的鳞群](docs/stories/story_ray_set_1.md)(莱伊), [何须剑](docs/stories/story_reckpr_set_1.md)(录武官), [最后一案](docs/stories/story_tinman_set_1.md)(锡人)
+- [乔瑟夫·格兰杰](docs/char_v3/extended_char_04c892.md), [兰可](docs/char_v3/extended_char_lan_ke.md), [小沙地兽](docs/char_v3/extended_char_xiao_sha_di_shou.md), [小玉](docs/char_v3/extended_char_xiao_yu.md), [嵯峨](docs/char_v3/char_362_saga.md), [左乐](docs/char_v3/char_4121_zuole.md), [惊蛰](docs/char_v3/char_306_leizi.md), [易](docs/char_v3/extended_char_yi.md), [李天师学徒](docs/char_v3/extended_char_li_tian_shi_xue_tu.md), [梁](docs/char_v3/extended_char_liang.md), [槐天裴](docs/char_v3/extended_char_huai_tian_pei.md), [槐琥](docs/char_v3/char_243_waaifu.md), [渡魂剑](docs/char_v3/extended_char_du_hun_jian.md), [温米](docs/char_v3/char_4081_warmy.md), [白锦](docs/char_v3/extended_char_bai_jin.md), [老天师](docs/char_v3/extended_char_lao_tian_shi.md), [老鲤](docs/char_v3/char_322_lmlee.md), [胡君](docs/char_v3/extended_char_hu_jun.md), [莫佚](docs/char_v3/extended_char_mo_yi.md), [莫斯比警探](docs/char_v3/extended_char_mo_si_bi_jing_tan.md), [莱伊](docs/char_v3/char_4117_ray.md), [蒲先生](docs/char_v3/extended_char_pu_xian_sheng.md), [郑愁](docs/char_v3/extended_char_zheng_chou.md), [重岳](docs/char_v3/char_2024_chyue.md), [锡人](docs/char_v3/char_4151_tinman.md), [阿兰娜](docs/char_v3/char_4178_alanna.md), [陈锈清](docs/char_v3/extended_char_chen_xiu_qing.md), [录武官](docs/char_v3/char_4196_reckpr.md)
 
 
 ## 2025-06-07 Update

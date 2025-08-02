@@ -11,6 +11,13 @@
 - [活动总表](docs/story_index.md) 
 
 
+## 2025-08-02 Update
+
+新活动:
+- [墟](docs/stories/act44side.md), [迁徙前日](docs/stories/story_ctrail_set_1.md)(云迹), [日色温柔](docs/stories/story_cathy_set_1.md)(凯瑟琳), [抉择过后](docs/stories/story_hsguma_set_1.md)(星熊), [鵺切的故事](docs/stories/story_utage_set_2.md)(宴), [在人群之中](docs/stories/story_kazema_set_2.md)(风丸)
+- [遥](docs/char_v3/char_4202_haruka.md), [电弧](docs/char_v3/char_4195_radian.md), [松桐](docs/char_v3/char_4199_makiri.md), [吉星](docs/char_v3/char_4203_kichi.md), [Pith](docs/char_v3/char_509_acast.md), [傀影](docs/char_v3/char_250_phatom.md), [惊蛰](docs/char_v3/char_306_leizi.md), [星熊](docs/char_v3/char_136_hsguma.md), [三船光平](docs/char_v3/extended_char_san_chuan_guang_ping.md), [铁斋](docs/char_v3/extended_char_tie_zhai.md), [惟任刑警](docs/char_v3/extended_char_wei_ren_xing_jing.md), [森内彻](docs/char_v3/extended_char_sen_nei_che.md), [哲也](docs/char_v3/extended_char_zhe_ye.md), [更纱](docs/char_v3/extended_char_geng_sha.md), [澪](docs/char_v3/extended_char_ling.md), [云迹](docs/char_v3/char_4165_ctrail.md), [凯瑟琳](docs/char_v3/char_4162_cathy.md), [克拉拉](docs/char_v3/extended_char_ke_la_la.md), [伊安](docs/char_v3/extended_char_yi_an.md), [阿森](docs/char_v3/extended_char_a_sen.md), [阿祥](docs/char_v3/extended_char_a_xiang.md), [大头](docs/char_v3/extended_char_da_tou.md), [董阿伯](docs/char_v3/extended_char_dong_a_bo.md), [鼠王](docs/char_v3/extended_char_shu_wang.md), [魏彦吾](docs/char_v3/extended_char_wei_yan_wu.md), [宴](docs/char_v3/char_337_utage.md), [绮良](docs/char_v3/char_478_kirara.md), [风丸](docs/char_v3/char_4016_kazema.md), [苦根](docs/char_v3/extended_char_ku_gen.md)
+
+
 ## 2025-07-08 Update
 
 新活动:

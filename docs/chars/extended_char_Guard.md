@@ -16,7 +16,7 @@ Guard曾是罗德岛的雇员，因不明原因离开并加入了维多利亚地
 -   **[九](../char_v3/extended_char_jiu.md)([v1](extended_char_jiu.md))**：Guard在维多利亚整合运动中的重要伙伴和疑似领导。他们共同行动，讨论整合运动的理念和未来。九在Guard牺牲后找到了他的录音，并深受其思想影响，重新思考整合运动的宗旨。
 -   **[雷德](../char_v3/extended_char_lei_de.md)([v1](extended_char_lei_de.md))**：Guard在维多利亚整合运动中的战友。与Guard一同执行侦察和战斗任务，对Guard的可靠性和思考方式有所了解。
 -   **[珀茜瓦尔](../char_v3/extended_char_po_qian_wa_er.md)([v1](extended_char_po_qian_wa_er.md))**：Guard在维多利亚整合运动中的战友。与Guard一同值班，关心Guard的伤势，并在Guard牺牲后表达悲伤。
--   **[塔露拉](../char_v3/extended_char_ta_lu_la.md)([v1](extended_char_386da9.md))**：整合运动名义上的领袖。Guard在维多利亚与塔露拉对话，视其为必要的旗帜，同时也对其过去的行为有所保留。塔露拉在整合运动突袭罗德岛后被带走，九等人在讨论带走她的原因时也提到了Guard的牺牲和理念。
+-   **[塔露拉](../char_v3/extended_char_ta_lu_la.md)([v1](extended_char_ta_lu_la.md))**：整合运动名义上的领袖。Guard在维多利亚与塔露拉对话，视其为必要的旗帜，同时也对其过去的行为有所保留。塔露拉在整合运动突袭罗德岛后被带走，九等人在讨论带走她的原因时也提到了Guard的牺牲和理念。
 -   **[阿米娅](../char_v3/char_002_amiya.md)([v1](char_002_amiya.md))**：罗德岛的领袖。Guard是前罗德岛雇员，对阿米娅有所了解。阿米娅在Guard牺牲后通过九的叙述了解其临终前的思考。在整合运动突袭罗德岛事件中，阿米娅也与Guard有过直接对话。
 -   **[博士](../char_v3/extended_char_bo_shi.md)**：罗德岛的战地指挥官。Guard是前罗德岛雇员，认识博士。Guard在临终录音中直接向博士提问，表达自己对整合运动未来道路的困惑。在整合运动突袭罗德岛事件中，博士也与Guard有过直接对话。
 -   **[夜烟](../char_v3/char_141_nights.md)([v1](char_141_nights.md))**：巫女林的感染者，被追杀时躲入“绿意火花”酒吧。Guard在酒吧被烧毁时救了夜烟，并将其带至罗德岛办事处。

@@ -10,6 +10,13 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
+## 2025-09-08 Update
+
+新活动:
+- [无忧梦呓](docs/stories/act45side.md), [跃动的微光](docs/stories/story_nymph_set_1.md)(妮芙), [只待天明](docs/stories/story_wscoot_set_1.md)(骋风), [气味游戏](docs/stories/story_whitw2_set_1.md)(荒芜拉普兰德), [决斗](docs/stories/story_ashlok_set_1.md)(灰毫)
+
+新角色/更新角色:
+- [丰川祥子](docs/char_v3/char_4182_oblvns.md), [三角初华](docs/char_v3/char_4184_dolris.md), [祐天寺若麦](docs/char_v3/char_4185_amoris.md), [若叶睦](docs/char_v3/char_4183_mortis.md), [八幡海铃](docs/char_v3/char_4186_tmoris.md), [莫菲丝](docs/char_v3/extended_char_mo_fei_si.md), [爱丽丝](docs/char_v3/char_338_iris.md), [贝娜](docs/char_v3/char_369_bena.md), [艾雅法拉](docs/char_v3/char_180_amgoat.md), [空](docs/char_v3/char_101_sora.md), [红豆](docs/char_v3/char_201_moeshd.md), [可颂](docs/char_v3/char_289_croiss.md), [妮芙](docs/char_v3/char_4192_nymph.md)
 
 ## 2025-08-02 Update
 

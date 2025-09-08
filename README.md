@@ -10,7 +10,7 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
-## 2025-09-08
+## 2025-09-08 Update
 
 新活动:
 - [无忧梦呓](docs/stories/act45side.md), [跃动的微光](docs/stories/story_nymph_set_1.md)(妮芙), [只待天明](docs/stories/story_wscoot_set_1.md)(骋风), [气味游戏](docs/stories/story_whitw2_set_1.md)(荒芜拉普兰德), [决斗](docs/stories/story_ashlok_set_1.md)(灰毫)

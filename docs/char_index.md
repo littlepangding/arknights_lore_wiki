@@ -9,7 +9,7 @@
 
 
     目前已知问题（会在将来尽量fix）：
-    -  目前总共687(版本1/v1)/760(版本2/v2)角色, 但是角色可能有重复（比如异格或者别名）；
+    -  目前总共687(版本1/v1)/761(版本2/v2)角色, 但是角色可能有重复（比如异格或者别名）；
     -  目前默认版本已经是版本二。版本一已经不再更新。
     
 ## 干员 (共计:363)
@@ -88,7 +88,7 @@
 | [陨星](char_v3/char_219_meteo.md)([v1](chars/char_219_meteo.md)) | [早露](char_v3/char_197_poca.md)([v1](chars/char_197_poca.md)) | [战车](char_v3/char_459_tachak.md)([v1](chars/char_459_tachak.md)) | [折光](char_v3/char_499_kaitou.md)([v1](chars/char_499_kaitou.md)) | [真理](char_v3/char_195_glassb.md)([v1](chars/char_195_glassb.md)) |
 | [正义骑士号](char_v3/char_4000_jnight.md)([v1](chars/char_4000_jnight.md)) | [至简](char_v3/char_4054_malist.md)([v1](chars/char_4054_malist.md)) | [止颂](char_v3/char_4011_lessng.md)([v1](chars/char_4011_lessng.md)) | [重岳](char_v3/char_2024_chyue.md)([v1](chars/char_2024_chyue.md)) | [铸铁](char_v3/char_333_sidero.md)([v1](chars/char_333_sidero.md)) |
 | [梓兰](char_v3/char_278_orchid.md)([v1](chars/char_278_orchid.md)) | [子月](char_v3/char_4014_lunacu.md)([v1](chars/char_4014_lunacu.md)) | [左乐](char_v3/char_4121_zuole.md)([v1](chars/char_4121_zuole.md)) |  |  |
-### 其他剧情角色 (共计:397)
+### 其他剧情角色 (共计:398)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | [Ace](char_v3/extended_char_Ace.md)([v1](chars/extended_char_Ace.md)) | [Alty](char_v3/extended_char_Alty.md)([v1](chars/extended_char_Alty.md)) | [Aya](char_v3/extended_char_Aya.md)([v1](chars/extended_char_Aya.md)) | [D.D.D.](char_v3/extended_char_D.D.D..md)([v1](chars/extended_char_D.D.D..md)) | [Dijkstra](char_v3/extended_char_Dijkstra.md)([v1](chars/extended_char_Dijkstra.md)) |
@@ -170,7 +170,7 @@
 | [尤莉叶](char_v3/extended_char_you_li_ye.md)([v1](chars/extended_char_you_li_ye.md)) | [幽灵](char_v3/extended_char_you_ling.md)([v1](chars/extended_char_you_ling.md)) | [虞澄](char_v3/extended_char_yu_cheng.md)([v1](chars/extended_char_yu_cheng.md)) | [云青萍](char_v3/extended_char_yun_qing_ping.md) | [泽诺](char_v3/extended_char_ze_nuo.md)([v1](chars/extended_char_ze_nuo.md)) |
 | [扎罗](char_v3/extended_char_zha_luo.md)([v1](chars/extended_char_zha_luo.md)) | [长弩](char_v3/extended_char_zhang_nu.md)([v1](chars/extended_char_274d9b.md)) | [哲也](char_v3/extended_char_zhe_ye.md) | [郑愁](char_v3/extended_char_zheng_chou.md) | [郑清钺](char_v3/extended_char_zheng_qing_yue.md)([v1](chars/extended_char_zheng_qing_yue.md)) |
 | [主教](char_v3/extended_char_zhu_jiao.md)([v1](chars/extended_char_zhu_jiao.md)) | [助理机器人0429](char_v3/extended_char_zhu_li_ji_qi_ren_0429.md)([v1](chars/extended_char_zhu_li_ji_qi_ren_0429.md)) | [逐魇骑士](char_v3/extended_char_zhu_yan_qi_shi.md)([v1](chars/extended_char_zhu_yan_qi_shi.md)) | [祖拜尔](char_v3/extended_char_zu_bai_er.md)([v1](chars/extended_char_zu_bai_er.md)) | [作家](char_v3/extended_char_zuo_jia.md)([v1](chars/extended_char_zuo_jia.md)) |
-| [左宣辽](char_v3/extended_char_zuo_xuan_liao.md)([v1](chars/extended_char_zuo_xuan_liao.md)) | [“桥夹”克里夫](char_v3/extended_char_c22eac.md)([v1](chars/extended_char_bc3d2a.md)) |  |  |  |
+| [左宣辽](char_v3/extended_char_zuo_xuan_liao.md)([v1](chars/extended_char_zuo_xuan_liao.md)) | [“疤眼”](char_v3/extended_char_1c8651.md) | [“桥夹”克里夫](char_v3/extended_char_c22eac.md)([v1](chars/extended_char_bc3d2a.md)) |  |  |
 ## 曾出现在版本一中的角色 
 ### 干员 (共计:37)
 |  |  |  |  |  |

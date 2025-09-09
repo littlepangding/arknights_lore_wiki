@@ -91,7 +91,7 @@
 | [无根之雨](stories/story_mlyss_set_1.md)(缪尔赛思) | [无价的勋章](stories/story_jaksel_set_1.md)(杰克) | [无名之花](stories/story_hbisc2_set_1.md)(濯尘芙蓉) | [无人工房](stories/story_cammou_set_1.md)(卡达) | [无伤通关](stories/story_kirara_set_2.md)(绮良) |
 | [武为何物](stories/story_waaifu_set_1.md)(槐琥) | [午休时间](stories/story_durin_set_1.md)(杜林) | [无需遗憾](stories/story_quartz_set_1.md)(石英) | [无字诅咒](stories/story_vodfox_set_1.md)(巫恋) | [昔日重现](stories/story_mint_set_1.md)(薄绿) |
 | [希瓦艾什的影子](stories/story_blackd_set_1.md)(讯使) | [昔我往矣](stories/story_chyue_set_1.md)(重岳) | [夕阳与朝日](stories/story_pianst_set_1.md)(车尔尼) | [鲜花香水](stories/story_rope_set_1.md)(暗索) | [向死寻生](stories/story_absin_set_1.md)(苦艾) |
-| [向舞台前进](stories/story_sora_set_2.md)(空) | [小草的呼喊](stories/story_vrdant_set_1.md)(维荻) | [小点心](stories/story_frncat_set_1.md)(慕斯) | [小队长](stories/story_ifrit_set_1.md)(玫兰莎) | [小队长](stories/story_melan_set_1.md)(玫兰莎) |
+| [向舞台前进](stories/story_sora_set_2.md)(空) | [小草的呼喊](stories/story_vrdant_set_1.md)(维荻) | [小点心](stories/story_frncat_set_1.md)(慕斯) | [小队长](stories/story_ifrit_set_1.md)(伊芙利特) | [小队长](stories/story_melan_set_1.md)(伊芙利特) |
 | [小心火烛](stories/story_sqrrel_set_1.md)(阿消) | [新潮旧浪](stories/story_lin_set_1.md)(林) | [新的高峰](stories/story_slchan_set_2.md)(崖心) | [心甘情愿](stories/story_blemsh_set_1.md)(瑕光) | [信任的第一步](stories/story_broca_set_1.md)(布洛卡) |
 | [醒时梦长](stories/story_ling_set_1.md)(令) | [许以秘密](stories/story_kafka_set_1.md)(卡夫卡) | [雪山外](stories/story_slbell_set_1.md)(初雪) | [学医之路](stories/story_ccheal_set_1.md)(嘉维尔) | [学者之心](stories/story_amgoat_set_1.md)(艾雅法拉) |
 | [寻常夕阳](stories/story_tknogi_set_1.md)(月禾) | [寻乡](stories/story_rfrost_set_1.md)(霜华) | [崖上之心](stories/story_slchan_set_1.md)(崖心) | [盐漠上的海风](stories/story_weedy_set_2.md)(温蒂) | [阳光洒落之前](stories/story_pianst_set_2.md)(车尔尼) |

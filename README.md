@@ -10,6 +10,15 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
+## 2025-09-09 Update
+
+### 新增 角色
+- [“疤眼”](docs/char_v3/extended_char_1c8651.md)
+### 更新 活动/密录
+- [巴别塔](docs/stories/act33side.md),[相见欢](docs/stories/act40side.md)
+### 更新 角色
+- [阿斯卡纶](docs/char_v3/char_4132_ascln.md),[行箸](docs/char_v3/char_4172_xingzh.md),[厄尔苏拉](docs/char_v3/extended_char_e_er_su_la.md),[米莎](docs/char_v3/extended_char_mi_sha.md),[碎骨](docs/char_v3/extended_char_sui_gu.md),[特雷西斯](docs/char_v3/extended_char_te_lei_xi_si.md),[特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md),[睚](docs/char_v3/extended_char_ya.md)
+
 ## 2025-09-08 Update
 
 新活动:

@@ -10,6 +10,11 @@
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
 
+## 2025-10-09 Update
+
+### 更新 活动/密录
+- [反常光谱](docs/stories/main_16.md), [无处不在](docs/stories/story_mantra_set_1.md)(真言), [谁与同行](docs/stories/story_bobb_set_1.md)(波卜), [获奖感言](docs/stories/story_tippi_set_1.md)(蒂比), [从头来过](docs/stories/story_pinecn_set_2.md)(松果)
+
 ## 2025-09-09 Update
 
 ### 新增 角色

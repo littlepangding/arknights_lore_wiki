@@ -23,7 +23,7 @@ Raidian;眯眯眼怪人;四手心电怪;读心术
 -   **[Misery](char_615_acspec.md)([v1](../chars/char_615_acspec.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机，也是酒局上的朋友。
 -   **[Sharp](char_609_acguad.md)([v1](../chars/char_609_acguad.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机。
 -   **[Stormeye](char_611_acnipe.md)([v1](../chars/char_611_acnipe.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机。
--   **[Pith](char_612_accast.md)([v1](../chars/char_612_accast.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机。
+-   **[Pith](char_509_acast.md)([v1](../chars/char_612_accast.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机。
 -   **[Touch](char_613_acmedc.md)([v1](../chars/char_613_acmedc.md))**：罗德岛精英干员团队成员之一，与电弧一同应对舰船危机。
 -   **[特蕾西娅](extended_char_te_lei_xi_ya.md)([v1](../chars/extended_char_te_lei_xi_ya.md))**：电弧在卡兹戴尔受到特蕾西娅的影响而加入巴别塔，成为通讯支援人员。
 -   **Whitesmith**：巴别塔变故后，电弧留在罗德岛，在Whitesmith的举荐下成为核心成员，并随后正式登记为第一批次的精英干员。

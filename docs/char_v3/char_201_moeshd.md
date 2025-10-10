@@ -1,5 +1,5 @@
 # 可颂
-页面版本:v3.4
+页面版本:None
  
 
 | :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：[BV1gdJ7zqESe](https://www.bilibili.com/video/BV1gdJ7zqESe/)         |
@@ -28,7 +28,7 @@
 -   **[雪雉](char_383_snsant.md)([v1](../chars/char_383_snsant.md))**：罗德岛的工程师。她在龙门街头目睹可颂与企鹅物流进行追捕行动，并向席德佳修士介绍了可颂。
 -   **拉维妮娅**：叙拉古的法官。可颂在叙拉古初到时曾出手帮助市民，并向拉维妮娅推销企鹅物流业务。她最终也认可拉维妮娅的正直，并支持德克萨斯帮助她。
 -   **[阿格尼尔](extended_char_a_ge_ni_er.md)([v1](../chars/extended_char_a_ge_ni_er.md))**：叙拉古的萨科塔修士。可颂与能天使曾向阿格尼尔求助，希望找到帮助德克萨斯脱困的方法。
--   **乔万娜**：罗塞蒂家族的领袖。可颂在叙拉古与空一同发现了乔万娜与德克萨斯年幼时的合照，揭示了两人的旧日友谊。
+-   **[乔万娜](extended_char_qiao_wan_na.md)([v1](../chars/extended_char_qiao_wan_na.md))**：罗塞蒂家族的领袖。可颂在叙拉古与空一同发现了乔万娜与德克萨斯年幼时的合照，揭示了两人的旧日友谊。
 -   **[依娜姆](extended_char_yi_na_mu.md)([v1](../chars/extended_char_yi_na_mu.md))**：萨尔贡当地的信使兼部族头领。她在萨尔贡雨林中“捡到”了失散的可颂，并将其带回部族。
 -   **[大祭司](extended_char_da_ji_si.md)([v1](../chars/extended_char_da_ji_si.md))**：祖玛玛的助手。可颂意外发现大祭司认识企鹅物流的“大帝老板”，对此感到惊讶和好奇。
 -   **[祐天寺若麦](char_4185_amoris.md)**：一位龙门当红明星。在梦境中，可颂作为安保人员负责保护若麦和空的安全，并了解若麦的演艺经历。

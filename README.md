@@ -15,6 +15,11 @@
 ### 更新 活动/密录
 - [反常光谱](docs/stories/main_16.md), [无处不在](docs/stories/story_mantra_set_1.md)(真言), [谁与同行](docs/stories/story_bobb_set_1.md)(波卜), [获奖感言](docs/stories/story_tippi_set_1.md)(蒂比), [从头来过](docs/stories/story_pinecn_set_2.md)(松果)
 
+
+### 新增/更新 角色
+
+[真言](docs/char_v3/char_4204_mantra.md), [冬时](docs/char_v3/char_4208_wintim.md), [折桠](docs/char_v3/char_4207_branch.md), [阿米娅](docs/char_v3/char_002_amiya.md), [Mon3tr](docs/char_v3/char_4179_monstr.md), [Raidian](docs/char_v3/char_614_acsupo.md), [阿洛伊泽·戈尔奇科娃](docs/char_v3/extended_char_292b3c.md), [叶莉萨维塔·拉齐萨拉](docs/char_v3/extended_char_e0924e.md), [科谢尼娅·涅留朵娃](docs/char_v3/extended_char_3420b4.md), [雷尔金](docs/char_v3/extended_char_lei_er_jin.md), [尼克托](docs/char_v3/extended_char_ni_ke_tuo.md), [霍里](docs/char_v3/extended_char_huo_li.md), [别乔克](docs/char_v3/extended_char_bie_qiao_ke.md), [希尔达](docs/char_v3/extended_char_xi_er_da.md), [塔露拉](docs/char_v3/extended_char_ta_lu_la.md), [九](docs/char_v3/extended_char_jiu.md), [苏利文·斯米尔诺夫](docs/char_v3/extended_char_7d359f.md), [特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md), [凯尔希](docs/char_v3/char_003_kalts.md), [尤里欧·布兰科·安东尼奥](docs/char_v3/extended_char_c199ba.md), [娜蒂](docs/char_v3/extended_char_na_di.md), [斯科特议员](docs/char_v3/extended_char_si_ke_te_yi_yuan.md), [蒂比](docs/char_v3/char_4191_tippi.md), [马修·托马斯](docs/char_v3/extended_char_d27430.md), [艾琳·亨特](docs/char_v3/extended_char_d65a97.md), [波卜](docs/char_v3/char_487_bobb.md), [松果](docs/char_v3/char_440_pinecn.md), [爱德森](docs/char_v3/extended_char_ai_de_sen.md), [卡夫卡](docs/char_v3/char_214_kafka.md)
+
 ## 2025-09-09 Update
 
 ### 新增 角色

@@ -44,7 +44,7 @@ Mon3tr是一位身份独特、历史悠久的机械生命，其代号为AMa-10�
 -   **Logos**：在“慈悲灯塔”中与Mon3tr一同行动，清理敌人。
 -   **科谢尼娅**：前切尔诺伯格研究员，在“反常光谱”中被Mon3tr救助，并一度将Mon3tr误认为凯尔希。
 -   **Raidian（塞拉菲娜）**：罗德岛精英干员，Mon3tr在“反常光谱”中负责寻找其小队，最终成功会合。
--   **[阿洛伊泽](extended_char_a_luo_yi_ze.md)**：乌萨斯中尉，Mon3tr在“反常光谱”中对其保持警惕。
+-   **阿洛伊泽**：乌萨斯中尉，Mon3tr在“反常光谱”中对其保持警惕。
 -   **[Scout](extended_char_Scout.md)([v1](../chars/extended_char_Scout.md))**：巴别塔精英干员，在“如我所见”中与Mon3tr同处指挥室。
 -   **[马尔科](extended_char_ma_er_ke.md)**：巴别塔时期的萨卡兹谋反者，Mon3tr在“如我所见”中见证了对其的处置。
 -   **[特蕾西娅](extended_char_te_lei_xi_ya.md)([v1](../chars/extended_char_te_lei_xi_ya.md))**：巴别塔的领袖，在“如我所见”中Mon3tr见证了对其的讨论。在“慈悲灯塔”中Mon3tr参与了营救特蕾西娅的行动。

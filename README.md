@@ -20,6 +20,16 @@
 ### 更新 角色
 - [阿米娅](docs/char_v3/char_002_amiya.md),[陈](docs/char_v3/char_010_chen.md),[弑君者](docs/char_v3/char_1502_crosly.md),[极境](docs/char_v3/char_401_elysm.md),[行箸](docs/char_v3/char_4172_xingzh.md),[Mon3tr](docs/char_v3/char_4179_monstr.md),[电弧](docs/char_v3/char_4195_radian.md),[“疤眼”](docs/char_v3/extended_char_1c8651.md),[泰特斯·白杨](docs/char_v3/extended_char_8e4131.md),[博士](docs/char_v3/extended_char_bo_shi.md),[大嘴莫布](docs/char_v3/extended_char_da_zui_mo_bu.md),[厄尔苏拉](docs/char_v3/extended_char_e_er_su_la.md),[发言人恰尔内](docs/char_v3/extended_char_fa_yan_ren_qia_er_nei.md),[可露希尔](docs/char_v3/extended_char_ke_lu_xi_er.md),[麦基](docs/char_v3/extended_char_mai_ji.md),[米莎](docs/char_v3/extended_char_mi_sha.md),[普瑞赛斯](docs/char_v3/extended_char_pu_rui_sai_si.md),[鼠王](docs/char_v3/extended_char_shu_wang.md),[碎骨](docs/char_v3/extended_char_sui_gu.md),[特雷西斯](docs/char_v3/extended_char_te_lei_xi_si.md),[特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md),[瓦拉赫](docs/char_v3/extended_char_wa_la_he.md),[万尼亚大公](docs/char_v3/extended_char_wan_ni_ya_da_gong.md),[西西里夫人](docs/char_v3/extended_char_xi_xi_li_fu_ren.md),[睚](docs/char_v3/extended_char_ya.md)
 
+## 2025-10-09 Update
+
+### 更新 活动/密录
+- [反常光谱](docs/stories/main_16.md), [无处不在](docs/stories/story_mantra_set_1.md)(真言), [谁与同行](docs/stories/story_bobb_set_1.md)(波卜), [获奖感言](docs/stories/story_tippi_set_1.md)(蒂比), [从头来过](docs/stories/story_pinecn_set_2.md)(松果)
+
+
+### 新增/更新 角色
+
+[真言](docs/char_v3/char_4204_mantra.md), [冬时](docs/char_v3/char_4208_wintim.md), [折桠](docs/char_v3/char_4207_branch.md), [阿米娅](docs/char_v3/char_002_amiya.md), [Mon3tr](docs/char_v3/char_4179_monstr.md), [Raidian](docs/char_v3/char_614_acsupo.md), [阿洛伊泽·戈尔奇科娃](docs/char_v3/extended_char_292b3c.md), [叶莉萨维塔·拉齐萨拉](docs/char_v3/extended_char_e0924e.md), [科谢尼娅·涅留朵娃](docs/char_v3/extended_char_3420b4.md), [雷尔金](docs/char_v3/extended_char_lei_er_jin.md), [尼克托](docs/char_v3/extended_char_ni_ke_tuo.md), [霍里](docs/char_v3/extended_char_huo_li.md), [别乔克](docs/char_v3/extended_char_bie_qiao_ke.md), [希尔达](docs/char_v3/extended_char_xi_er_da.md), [塔露拉](docs/char_v3/extended_char_ta_lu_la.md), [九](docs/char_v3/extended_char_jiu.md), [苏利文·斯米尔诺夫](docs/char_v3/extended_char_7d359f.md), [特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md), [凯尔希](docs/char_v3/char_003_kalts.md), [尤里欧·布兰科·安东尼奥](docs/char_v3/extended_char_c199ba.md), [娜蒂](docs/char_v3/extended_char_na_di.md), [斯科特议员](docs/char_v3/extended_char_si_ke_te_yi_yuan.md), [蒂比](docs/char_v3/char_4191_tippi.md), [马修·托马斯](docs/char_v3/extended_char_d27430.md), [艾琳·亨特](docs/char_v3/extended_char_d65a97.md), [波卜](docs/char_v3/char_487_bobb.md), [松果](docs/char_v3/char_440_pinecn.md), [爱德森](docs/char_v3/extended_char_ai_de_sen.md), [卡夫卡](docs/char_v3/char_214_kafka.md)
+
 ## 2025-09-09 Update
 
 ### 新增 角色

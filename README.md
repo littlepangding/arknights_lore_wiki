@@ -11,15 +11,14 @@
 - [活动总表](docs/story_index.md) 
 ## 2025-10-10
 
-### 新增 活动/密录
-- [反常光谱](docs/stories/main_16.md),[从头来过(松果)](docs/stories/story_pinecn_set_2.md),[获奖感言(波卜),](docs/stories/story_tippi_set_1.md)
+### 更新 活动
+- [反常光谱](docs/stories/main_16.md)
 ### 新增 角色
-- [真言](docs/char_v3/char_4204_mantra.md),[折桠](docs/char_v3/char_4207_branch.md),[冬时](docs/char_v3/char_4208_wintim.md),[Touch](docs/char_v3/char_510_amedic.md),[阿发](docs/char_v3/extended_char_a_fa.md),[阿洛伊泽](docs/char_v3/extended_char_a_luo_yi_ze.md),[“小公爵”](docs/char_v3/extended_char_bffb5a.md),[霍里](docs/char_v3/extended_char_huo_li.md),[老船夫](docs/char_v3/extended_char_lao_chuan_fu.md),[雷尔金](docs/char_v3/extended_char_lei_er_jin.md),[马克维茨](docs/char_v3/extended_char_ma_ke_wei_ci.md),[尼克托](docs/char_v3/extended_char_ni_ke_tuo.md),[乔万娜](docs/char_v3/extended_char_qiao_wan_na.md),[挑山人](docs/char_v3/extended_char_tiao_shan_ren.md),[维特](docs/char_v3/extended_char_wei_te.md),[叶莉莎维塔](docs/char_v3/extended_char_ye_li_sha_wei_ta.md),[最后的骑士](docs/char_v3/extended_char_zui_hou_de_qi_shi.md)
-### 更新 活动/密录
-- [长夜临光](docs/stories/act13side.md),[愚人号](docs/stories/act17side.md),[揭幕者们](docs/stories/act38side.md),[靶向药物](docs/stories/main_5.md)
+[阿发](docs/char_v3/extended_char_a_fa.md),[“小公爵”](docs/char_v3/extended_char_bffb5a.md),[老船夫](docs/char_v3/extended_char_lao_chuan_fu.md),[马克维茨](docs/char_v3/extended_char_ma_ke_wei_ci.md),[乔万娜](docs/char_v3/extended_char_qiao_wan_na.md),[挑山人](docs/char_v3/extended_char_tiao_shan_ren.md),[维特](docs/char_v3/extended_char_wei_te.md),[最后的骑士](docs/char_v3/extended_char_zui_hou_de_qi_shi.md),[娜迦](docs/char_v3/extended_char_na_jia.md)
 ### 更新 角色
-- [阿米娅](docs/char_v3/char_002_amiya.md),[陈](docs/char_v3/char_010_chen.md),[弑君者](docs/char_v3/char_1502_crosly.md),[极境](docs/char_v3/char_401_elysm.md),[Mon3tr](docs/char_v3/char_4179_monstr.md),[电弧](docs/char_v3/char_4195_radian.md),[“疤眼”](docs/char_v3/extended_char_1c8651.md),[泰特斯·白杨](docs/char_v3/extended_char_8e4131.md),[博士](docs/char_v3/extended_char_bo_shi.md),[大嘴莫布](docs/char_v3/extended_char_da_zui_mo_bu.md),[发言人恰尔内](docs/char_v3/extended_char_fa_yan_ren_qia_er_nei.md),[可露希尔](docs/char_v3/extended_char_ke_lu_xi_er.md),[麦基](docs/char_v3/extended_char_mai_ji.md),[普瑞赛斯](docs/char_v3/extended_char_pu_rui_sai_si.md),[鼠王](docs/char_v3/extended_char_shu_wang.md),[瓦拉赫](docs/char_v3/extended_char_wa_la_he.md),[万尼亚大公](docs/char_v3/extended_char_wan_ni_ya_da_gong.md),[西西里夫人](docs/char_v3/extended_char_xi_xi_li_fu_ren.md)
-
+[弑君者](docs/char_v3/char_1502_crosly.md),[极境](docs/char_v3/char_401_elysm.md),[泰特斯·白杨](docs/char_v3/extended_char_8e4131.md),[博士](docs/char_v3/extended_char_bo_shi.md),[大嘴莫布](docs/char_v3/extended_char_da_zui_mo_bu.md),[发言人恰尔内](docs/char_v3/extended_char_fa_yan_ren_qia_er_nei.md),[可露希尔](docs/char_v3/extended_char_ke_lu_xi_er.md),[麦基](docs/char_v3/extended_char_mai_ji.md),[普瑞赛斯](docs/char_v3/extended_char_pu_rui_sai_si.md),[鼠王](docs/char_v3/extended_char_shu_wang.md),[瓦拉赫](docs/char_v3/extended_char_wa_la_he.md),[万尼亚大公](docs/char_v3/extended_char_wan_ni_ya_da_gong.md),[西西里夫人](docs/char_v3/extended_char_xi_xi_li_fu_ren.md)
+### 删除重复角色
+[科谢尼娅·涅留朵娃]实际为[冬时](docs/char_v3/char_4208_wintim.md),[别乔克]实际为[折桠](docs/char_v3/char_4207_branch.md)
 ## 2025-10-09 Update
 
 ### 更新 活动/密录

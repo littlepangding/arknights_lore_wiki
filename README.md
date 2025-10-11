@@ -9,7 +9,16 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
+## 2025-10-10
 
+### 更新 活动
+- [反常光谱](docs/stories/main_16.md)
+### 新增 角色
+[阿发](docs/char_v3/extended_char_a_fa.md),[“小公爵”](docs/char_v3/extended_char_bffb5a.md),[老船夫](docs/char_v3/extended_char_lao_chuan_fu.md),[马克维茨](docs/char_v3/extended_char_ma_ke_wei_ci.md),[乔万娜](docs/char_v3/extended_char_qiao_wan_na.md),[挑山人](docs/char_v3/extended_char_tiao_shan_ren.md),[维特](docs/char_v3/extended_char_wei_te.md),[最后的骑士](docs/char_v3/extended_char_zui_hou_de_qi_shi.md),[娜迦](docs/char_v3/extended_char_na_jia.md)
+### 更新 角色
+[弑君者](docs/char_v3/char_1502_crosly.md),[极境](docs/char_v3/char_401_elysm.md),[泰特斯·白杨](docs/char_v3/extended_char_8e4131.md),[博士](docs/char_v3/extended_char_bo_shi.md),[大嘴莫布](docs/char_v3/extended_char_da_zui_mo_bu.md),[发言人恰尔内](docs/char_v3/extended_char_fa_yan_ren_qia_er_nei.md),[可露希尔](docs/char_v3/extended_char_ke_lu_xi_er.md),[麦基](docs/char_v3/extended_char_mai_ji.md),[普瑞赛斯](docs/char_v3/extended_char_pu_rui_sai_si.md),[鼠王](docs/char_v3/extended_char_shu_wang.md),[瓦拉赫](docs/char_v3/extended_char_wa_la_he.md),[万尼亚大公](docs/char_v3/extended_char_wan_ni_ya_da_gong.md),[西西里夫人](docs/char_v3/extended_char_xi_xi_li_fu_ren.md)
+### 删除重复角色
+[科谢尼娅·涅留朵娃]实际为[冬时](docs/char_v3/char_4208_wintim.md),[别乔克]实际为[折桠](docs/char_v3/char_4207_branch.md)
 ## 2025-10-09 Update
 
 ### 更新 活动/密录

@@ -95,4 +95,4 @@
 -   **[多利](../char_v3/extended_char_duo_li.md)([v1](../chars/extended_char_duo_li.md))**: 兽主。与大帝、大祭司一同行动，评论叙拉古人。
 -   **[阿格尼尔](../char_v3/extended_char_a_ge_ni_er.md)([v1](../chars/extended_char_a_ge_ni_er.md))**: 萨科塔，神父，西西里夫人特使。来到新沃尔西尼观察，因遇到老友翁贝托而未出手干预狂欢节事件。结局与莱昂图索对话，透露西西里夫人对新沃尔西尼的态度。
 -   **[德克萨斯](../char_v3/char_102_texas.md)([v1](../chars/char_102_texas.md))**: 企鹅物流成员。受邀来到新沃尔西尼，保护莱昂图索，观察局势。与拉普兰德多次互动和对话，见证了她搅局的全过程。结局加入新沃尔西尼市政系统成为特别顾问。
--   **乔万娜**: 卡特琳娜文化公司成员。来到新沃尔西尼发展。结局与德克萨斯一同办理入职手续。
+-   **[乔万娜](../char_v3/extended_char_qiao_wan_na.md)([v1](../chars/extended_char_qiao_wan_na.md))**: 卡特琳娜文化公司成员。来到新沃尔西尼发展。结局与德克萨斯一同办理入职手续。

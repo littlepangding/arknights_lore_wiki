@@ -99,7 +99,7 @@ Logos: 我以血点燃我的过去，不为复仇—— 只为来日，这火终
 -   **[威灵顿公爵](../char_v3/extended_char_wei_ling_dun_gong_jue.md)([v1](../chars/extended_char_wei_ling_dun_gong_jue.md))**：维多利亚大公爵，被称为“铁公爵”。强大的军事指挥官。与食腐者之王对决。最终背刺公爵联军，协助爱布拉娜和塔拉独立。
 -   **爱布拉娜**：萨卡兹德拉克王庭的主人。带领深池部队加入伦蒂尼姆战场，攻击食腐者祭坛，并与威灵顿公爵合作，实现塔拉独立。
 -   **[九](../char_v3/extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：萨卡兹，整合运动重要成员。带领整合运动成员进入伦蒂尼姆地下，与伦蒂尼姆工人合作自救，并对抗城内不公。
--   **[塔露拉](../char_v3/extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：整合运动前领袖，后在罗德岛的帮助下重获自由。与九一同在伦蒂尼姆城内行动，对抗不公。
+-   **[塔露拉](../char_v3/extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：整合运动前领袖，后在罗德岛的帮助下重获自由。与九一同在伦蒂尼姆城内行动，对抗不公。
 -   **[喀利喀](../char_v3/extended_char_ka_li_ka.md)([v1](../chars/extended_char_ka_li_ka.md))**：赦罪师的仆人，“钥匙”。守护着赦罪师的古老遗迹和萨卡兹英雄的遗物。了解赦罪师的秘密。在关键时刻救走了奎萨图什塔。
 -   **[普瑞赛斯](../char_v3/extended_char_pu_rui_sai_si.md)([v1](../chars/extended_char_pu_rui_sai_si.md))**：神秘存在，在源石内化宇宙中与博士相遇。揭示了她与博士一同创造源石和探索宇宙的过去，以及源石与博士的特殊关联。
 -   **[特蕾西娅](../char_v3/extended_char_te_lei_xi_ya.md)([v1](../chars/extended_char_te_lei_xi_ya.md))**：萨卡兹前魔王，巴别塔最高领袖。被赦罪师“复活”，但灵魂与众魂紧密相连。她的真正目的是掌控源石根源，为萨卡兹创造未来。最终牺牲自己，将众魂送入真正的消散，并将“阿喃那”交给特雷西斯，给W赋予新名字，与众人告别后彻底离去。

@@ -38,7 +38,7 @@ Mon3tr是一位身份独特、历史悠久的机械生命，其代号为AMa-10�
 -   **[爱国者](extended_char_ai_guo_zhe.md)([v1](../chars/extended_char_ai_guo_zhe.md))**：整合运动领袖，在“苦难摇篮”中与Mon3tr进行了激烈的战斗，认可其强大但最终仍未被击败。
 -   **塔季娅娜**：乌萨斯感染者，在“苦难摇篮”中被Mon3tr以锋刃抵喉进行威慑审讯。
 -   **[九](extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：整合运动领袖，在“风暴瞭望”中被Mon3tr突袭。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：整合运动领袖，在“风暴瞭望”中，其火焰技艺间接阻挡了Mon3tr并保护了博士和阿米娅。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：整合运动领袖，在“风暴瞭望”中，其火焰技艺间接阻挡了Mon3tr并保护了博士和阿米娅。
 -   **莱欧斯**：异世界来客，在“泰拉饭”中试图触摸Mon3tr，被其拒绝。
 -   **死魂灵**：在“慈悲灯塔”中，Mon3tr与死魂灵的造物作战，并从其反噬中救下了W。
 -   **Logos**：在“慈悲灯塔”中与Mon3tr一同行动，清理敌人。

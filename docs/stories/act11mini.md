@@ -66,7 +66,7 @@
 ## 角色剧情概括
 -   **[休露丝](../char_v3/extended_char_xiu_lu_si.md)([v1](../chars/extended_char_xiu_lu_si.md))**: 谢拉格布朗陶家族的代表，与丈夫尤卡坦一同前往维多利亚与当地商人洽谈合作，旨在重振家族。她勇敢、直率，对维多利亚的繁华和对方的轻视感到愤怒，但为了家族利益努力克制。她利用维多利亚贵族与商人的冲突，为家族争取了有利的谈判条件。
 -   **[尤卡坦](../char_v3/extended_char_you_ka_tan.md)([v1](../chars/extended_char_you_ka_tan.md))**: 休露丝的丈夫，陪同她前往维多利亚。他性情温和，支持休露丝，并在关键时刻为她提供实际帮助（如制服闹事的贵族手下）。
--   **[菈塔托丝](../char_v3/extended_char_la_ta_tuo_si.md)([v1](../chars/extended_char_0c1da6.md))**: 布朗陶家族的领袖，休露丝的姐姐。她委托休露丝前往维多利亚。在休露丝的回忆中出现，显示出她对家族的责任感和对恩希欧迪斯复杂的情感。
+-   **[菈塔托丝](../char_v3/extended_char_la_ta_tuo_si.md)([v1](../chars/extended_char_la_ta_tuo_si.md))**: 布朗陶家族的领袖，休露丝的姐姐。她委托休露丝前往维多利亚。在休露丝的回忆中出现，显示出她对家族的责任感和对恩希欧迪斯复杂的情感。
 -   **[梁洵](../char_v3/extended_char_liang_xun.md)([v1](../chars/extended_char_liang_xun.md))**: 炎国尚蜀知府，即将随太傅入京接受新的、充满挑战的任命。他关心尚蜀百姓，对离开家乡和朋友感到不舍和犹豫。
 -   **[宁辞秋](../char_v3/extended_char_ning_ci_qiu.md)([v1](../chars/extended_char_ning_ci_qiu.md))**: 来自炎国南方大家族宁氏的官员，礼部左侍郎。她与梁洵是朋友，理解他的犹豫但鼓励他抓住太傅提供的机会，并分享了自己入仕的经历和为国为民的志向。
 -   **[杜遥夜](../char_v3/extended_char_du_yao_ye.md)([v1](../chars/extended_char_du_yao_ye.md))**: 郑掌柜的女儿，组织客栈的年轻人们前往玉门城发展事业。她有主见、有活力，对父亲的叮嘱感到不耐烦但也理解其良苦用心。

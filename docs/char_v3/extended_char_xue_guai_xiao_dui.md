@@ -15,7 +15,7 @@
 ## 相关角色
 -   **[霜星](extended_char_shuang_xing.md)([v1](../chars/extended_char_shuang_xing.md))**：雪怪小队的领导者，由爱国者抚养和训练长大，是小队的精神核心和战力担当。她与博士在废墟中有过深入交流，最终在龙门与罗德岛诀别。
 -   **博卓卡斯替 (爱国者)**：雪怪小队的创立者和所有成员的养父、导师。小队成员对他怀有深厚的尊敬和爱戴。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：整合运动的领袖。霜星对她后期的行为感到失望和不甘，认为她背叛了感染者的未来。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：整合运动的领袖。霜星对她后期的行为感到失望和不甘，认为她背叛了感染者的未来。
 -   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：罗德岛干员，与雪怪小队和霜星多次交锋，是最初接触到雪怪小队的罗德岛干员之一。
 -   **[博士](extended_char_bo_shi.md)**：罗德岛指挥者，在切尔诺伯格废墟下与霜星有过重要对话，并见证了霜星的最后时刻。
 -   **[阿米娅](char_002_amiya.md)([v1](../chars/char_002_amiya.md))**：罗德岛领导者，与博士一同在龙门见证了霜星最后的选择和离世。

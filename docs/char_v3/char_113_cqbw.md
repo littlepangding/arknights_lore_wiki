@@ -22,7 +22,7 @@ W，一名萨卡兹雇佣兵。她的代号继承自战场上牺牲的前辈，�
 -   **[Scout](extended_char_Scout.md)([v1](../chars/extended_char_Scout.md))**：罗德岛干员，巴别塔旧人。W认为他是巴别塔最有价值的战士。Scout的“假死”与W在切尔诺伯格的行动有关，W对此感到复杂和愤怒。
 -   **[阿斯卡纶](char_4132_ascln.md)([v1](../chars/char_4132_ascln.md))**：罗德岛萨卡兹干员，巴别塔旧人。在伦蒂尼姆战争中营救了重伤的W，两人似乎有某种联系或默契。
 -   **[特雷西斯](extended_char_te_lei_xi_si.md)([v1](../chars/extended_char_te_lei_xi_si.md))**：萨卡兹摄政王，特蕾西娅的兄弟，W的复仇目标之一。W对其怀有极度的仇恨和轻蔑，并试图将其做成“烟花”。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：整合运动领袖。W曾与其合作，后因理念和行事方式分歧而决裂，并成为她的复仇目标之一。W对塔露拉的欺骗和伪装深感厌恶和恐惧。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：整合运动领袖。W曾与其合作，后因理念和行事方式分歧而决裂，并成为她的复仇目标之一。W对塔露拉的欺骗和伪装深感厌恶和恐惧。
 -   **死魂灵**：被囚禁在卡兹戴尔地下的萨卡兹灵魂。W在《慈悲灯塔》中接触并收容了部分死魂灵的意识，他们寄宿在W的武器中，提供力量并时不时“唠叨”。
 -   **[曼弗雷德](extended_char_man_fu_lei_de.md)([v1](../chars/extended_char_man_fu_lei_de.md))**：特雷西斯的将军。W对曼弗雷德及其计划深感厌恶，认为他愚蠢，并在《我们明日见》中俘虏了他并进行嘲讽。
 -   **[萨卡兹锅炉工](extended_char_sa_ka_zi_guo_lu_gong.md)([v1](../chars/extended_char_sa_ka_zi_guo_lu_gong.md))**：罗德岛萨卡兹船员，巴别塔旧人。认识W，曾向失忆的博士提及W和巴别塔的往事。

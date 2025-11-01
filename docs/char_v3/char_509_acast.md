@@ -24,7 +24,7 @@ Pith（代号：术髓）是一位出身维多利亚的黎博利精英术师干�
 -   **Logos**：罗德岛精英干员，与Pith一同被提及为对炎熔的术师天赋给予肯定和指导的教官。
 -   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：罗德岛精英干员，Pith在幻象中曾提醒醉酒的煌注意言行。
 -   **[迷迭香](char_391_rosmon.md)([v1](../chars/char_391_rosmon.md))**：Pith对迷迭香的源石技艺本质和未来发展充满担忧，认为其力量若不加引导将是潜在的“灾难”，并与凯尔希探讨了对其的培养方式。
--   **[Touch](char_613_acmedc.md)([v1](../chars/char_613_acmedc.md))**：Pith在罗德岛本舰危机时，指导受伤干员向Touch寻求医疗支援，体现了她对团队医疗资源的合理调配。
+-   **[Touch](char_510_amedic.md)([v1](../chars/char_613_acmedc.md))**：Pith在罗德岛本舰危机时，指导受伤干员向Touch寻求医疗支援，体现了她对团队医疗资源的合理调配。
 -   **Popukar**：Pith在罗德岛本舰危机中对感到困惑的下属术师Popukar进行了回应，是她的指导对象之一。
 -   **[阿斯卡纶](char_4132_ascln.md)([v1](../chars/char_4132_ascln.md))**：罗德岛精英干员，在罗德岛本舰危机中，Pith与其一同作为核心成员行动并协同作战。
 -   **[Misery](char_615_acspec.md)([v1](../chars/char_615_acspec.md))**：罗德岛精英干员，在罗德岛本舰危机中，Pith与其一同作为核心成员行动并协同作战。

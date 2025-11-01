@@ -26,7 +26,7 @@ Ace是罗德岛重要的精英干员（前巴别塔成员），也是早期罗�
 -   **[尤莉叶](extended_char_you_li_ye.md)([v1](../chars/extended_char_you_li_ye.md))**：Ace在尤莉叶执行卧底任务前代表特蕾西娅将制服交给她，显示了他对同伴命运的理解和对特蕾西娅的守护。
 -   **[温蒂](char_400_weedy.md)([v1](../chars/char_400_weedy.md))**：Ace在“你愿意吗”活动中，确认了温蒂转正为正式干员的申请被同意，表明他在罗德岛内部事务中的角色。
 -   **[灰喉](char_367_swllow.md)([v1](../chars/char_367_swllow.md))**：灰喉曾是Ace的下属，尽管灰喉对感染者有过困惑的言论，Ace依然维护和信任她，认为她只是需要理解，并且始终服从命令。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：Ace在切尔诺伯格断后时独自面对塔露拉，最终牺牲。塔露拉事后提到了“奋战至尸骨无存”的对手，侧面证实了Ace的牺牲并表达了一定认可。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：Ace在切尔诺伯格断后时独自面对塔露拉，最终牺牲。塔露拉事后提到了“奋战至尸骨无存”的对手，侧面证实了Ace的牺牲并表达了一定认可。
 -   **[浮士德](extended_char_fu_shi_de.md)([v1](../chars/extended_char_fu_shi_de.md))**：Ace在切尔诺伯格遭遇浮士德的狙击，并在关键时刻挡下射向杜宾的一击，随后组织反击压制浮士德。
 -   **[杜宾](char_130_doberm.md)([v1](../chars/char_130_doberm.md))**：Ace在切尔诺伯格与杜宾一同行动，他在浮士德的狙击下救了杜宾，并与她讨论敌方狙击手的战术。
 ## 详细介绍

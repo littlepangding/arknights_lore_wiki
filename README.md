@@ -9,6 +9,13 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
+
+
+## 2025-11-01
+
+- [雪山降临1101](docs/stories/act46side.md), [你与时间同长](docs/stories/story_cetsyr_set_1.md)(魔王), [骑士的旅程](docs/stories/story_blkkgt_set_1.md)(锏), [谢拉格假期](docs/stories/story_halo2_set_1.md)(溯光星源), [我们都一样](docs/stories/story_lava2_set_1.md)(炎狱炎熔), [好运相伴](docs/stories/story_kichi_set_1.md)(吉星), [射向群山的最后一箭](docs/stories/story_snhunt_set_1.md)(雪猎)
+
+
 ## 2025-10-10
 
 ### 更新 活动

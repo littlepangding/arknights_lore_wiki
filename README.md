@@ -14,7 +14,7 @@
 ## 2025-11-01
 
 - [雪山降临1101](docs/stories/act46side.md), [你与时间同长](docs/stories/story_cetsyr_set_1.md)(魔王), [骑士的旅程](docs/stories/story_blkkgt_set_1.md)(锏), [谢拉格假期](docs/stories/story_halo2_set_1.md)(溯光星源), [我们都一样](docs/stories/story_lava2_set_1.md)(炎狱炎熔), [好运相伴](docs/stories/story_kichi_set_1.md)(吉星), [射向群山的最后一箭](docs/stories/story_snhunt_set_1.md)(雪猎)
-
+- [雪猎](docs/char_v3/char_4211_snhunt.md), [银灰](docs/char_v3/char_172_svrash.md), [协律](docs/char_v3/char_4051_akkord.md), [哈蒂娅](docs/char_v3/char_394_hadiya.md), [初雪](docs/char_v3/char_174_slbell.md), [菈塔托丝·布朗陶](docs/char_v3/extended_char_0c1da6.md), [休露丝·布朗陶](docs/char_v3/extended_char_b6a906.md), [阿克托斯·佩尔罗契](docs/char_v3/extended_char_b08aae.md), [灵知](docs/char_v3/char_206_gnosis.md), [星源](docs/char_v3/char_135_halo.md), [卡罗琳](docs/char_v3/extended_char_ka_luo_lin.md), [阿德颂长老](docs/char_v3/extended_char_a_de_song_zhang_lao.md), [茱安娜](docs/char_v3/extended_char_zhu_an_na.md), [锏](docs/char_v3/char_4116_blkkgt.md), [开斯特公爵](docs/char_v3/extended_char_kai_si_te_gong_jue.md), [哈洛德](docs/char_v3/char_4114_harold.md), [阿尔贝塔](docs/char_v3/extended_char_a_er_bei_ta.md), [尤卡坦](docs/char_v3/extended_char_you_ka_tan.md), [莫希](docs/char_v3/extended_char_mo_xi.md)
 
 ## 2025-10-10
 

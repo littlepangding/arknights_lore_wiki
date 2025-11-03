@@ -16,7 +16,7 @@
 -   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：同队成员，珀茜瓦尔关心他的矿石病和安危，Guard牺牲后，珀茜瓦尔提议为他举办告别仪式。
 -   **[九](extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：同队成员及领导者，Guard牺牲后带领队伍。珀茜瓦尔追随九，并加入她所领导的新整合运动。
 -   **[雷德](extended_char_lei_de.md)([v1](../chars/extended_char_lei_de.md))**：同队成员，在惊霆无声活动中与珀茜瓦尔一同在封锁区外协助市民。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：恶兆湍流中的同队成员，惊霆无声结尾珀茜瓦尔向她和九汇报情况。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：恶兆湍流中的同队成员，惊霆无声结尾珀茜瓦尔向她和九汇报情况。
 -   **考伯特先生**：日落街酒店经理，惊霆无声中与珀茜瓦尔一同躲藏和协助伦蒂尼姆市民。
 -   **[凯瑟琳](char_4162_cathy.md)([v1](../chars/char_4162_cathy.md))**：伦蒂尼姆当地工人领袖，追迹日落以西中与珀茜瓦尔合作重启工厂，并有个人互动（称呼其为“奶奶”，分享缓解病痛技巧）。
 -   **[戴菲恩](char_4110_delphn.md)([v1](../chars/char_4110_delphn.md))**：伦蒂尼姆城防军负责人，在追迹日落以西中了解珀茜瓦尔的活动，认为她知道分寸，甚至考虑与她进行私下接触。

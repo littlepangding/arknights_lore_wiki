@@ -18,7 +18,7 @@
 -   **[珀茜瓦尔](extended_char_po_qian_wa_er.md)([v1](../chars/extended_char_po_qian_wa_er.md))**：在“恶兆湍流”中是Guard小队的同伴。在“惊霆无声”中与雷德一同在诺伯特区帮助被困感染者。
 -   **苏茜**：在“阴云火花”中，雷德多次救助并保护了这位菲林女孩。
 -   **[夜烟](char_141_nights.md)([v1](../chars/char_141_nights.md))**：在“阴云火花”中被雷德救助并送往罗德岛。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：在“我们明日见”中，雷德曾与其互动并为其送汤。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：在“我们明日见”中，雷德曾与其互动并为其送汤。
 -   **[加勒斯](extended_char_jia_lei_si.md)([v1](../chars/extended_char_jia_lei_si.md))**：在“阴云火花”中遇到，曾是整合运动的同伴。
 -   **[坎诺特](extended_char_kan_nuo_te.md)([v1](../chars/extended_char_kan_nuo_te.md))**：在“阴云火花”中与雷德有接触，雷德对其保持警惕。
 ## 详细介绍

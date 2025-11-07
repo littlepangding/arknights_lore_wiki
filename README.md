@@ -9,7 +9,9 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md) 
-
+## 2025-11-03
+更新剧情- [雪山降临1101](docs/stories/act46side.md),
+更新角色 [耶拉](docs/char_v3/char_4013_kjera.md),[缪尔赛思](docs/char_v3/char_249_mlyss.md),[赫默](docs/char_v3/char_108_silent.md)
 
 ## 2025-11-01
 

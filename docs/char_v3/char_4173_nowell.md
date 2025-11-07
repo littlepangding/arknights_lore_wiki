@@ -18,7 +18,7 @@
 -   **乔治亚·米尔特内**：诺威尔的曾孙，多年来追寻着诺威尔的下落，最终在罗德岛与他相认。
 -   **玛德琳**：诺威尔的女儿，乔治亚·米尔特内的祖母，一生都在寻找失踪的诺威尔。
 -   **[九](extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：新整合运动维多利亚队伍的成员，诺威尔曾与她短暂同行。
--   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_386da9.md))**：新整合运动领袖，诺威尔曾与她短暂交谈，她察觉到了诺威尔的长生者身份。
+-   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：新整合运动领袖，诺威尔曾与她短暂交谈，她察觉到了诺威尔的长生者身份。
 -   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：新整合运动维多利亚队伍的成员，诺威尔曾与他短暂同行。
 -   **奥利**：伦蒂尼姆事件中诺威尔帮助救助的孩子，诺威尔为保护他而受伤，也因救助他而获得了“幸福”。
 ## 详细介绍

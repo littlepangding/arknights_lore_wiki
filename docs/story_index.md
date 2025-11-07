@@ -72,7 +72,7 @@
 | [落叶何归](stories/story_chimes_set_1.md)(铎铃) | [旅伴](stories/story_ash_set_1.md)(灰烬) | [旅途的注脚](stories/story_mostma_set_2.md)(莫斯提马) | [漫长旅途](stories/story_elysm_set_1.md)(极境) | [满满的日程表](stories/story_otter_set_1.md)(梅尔) |
 | [没写收件人的包裹](stories/story_aglina_set_1.md)(安洁莉娜) | [梦想中的好生活](stories/story_rosesa_set_1.md)(瑰盐) | [梦醒时分](stories/story_fuze_set_1.md)(导火索) | [梦中过往](stories/story_gravel_set_1.md)(砾) | [密林狂想](stories/story_zumama_set_1.md)(森蚺) |
 | [命途](stories/story_helage_set_1.md)(赫拉格) | [模糊的面容](stories/story_rdoc_set_1.md)(医生) | [墨迹已落](stories/story_bgsnow_set_1.md)(鸿雪) | [那一场戏](stories/story_aprot2_set_1.md) | [难猜的人](stories/story_svrash_set_1.md)(银灰) |
-| [难得认真](stories/story_bldsk_set_2.md)(华法琳) | [南墙](stories/story_hmau_set_1.md)(吽) | [难行长路](stories/story_bpipe_set_1.md)(风笛) | [你与时间同长](stories/story_cetsyr_set_1.md)(魔王) | [你愿意吗](stories/story_huang_set_1.md)(煌) |
+| [难得认真](stories/story_bldsk_set_2.md)(华法琳) | [难行长路](stories/story_bpipe_set_1.md)(风笛) | [南墙](stories/story_hmau_set_1.md)(吽) | [你与时间同长](stories/story_cetsyr_set_1.md)(魔王) | [你愿意吗](stories/story_huang_set_1.md)(煌) |
 | [啮合不良](stories/story_ironmn_set_1.md)(白铁) | [偶像宣传](stories/story_archet_set_1.md)(空弦) | [泡沫](stories/story_platnm_set_1.md)(白金) | [平安祈愿](stories/story_mberry_set_1.md)(桑葚) | [苹果](stories/story_kroos_set_1.md)(克洛丝) |
 | [苹果派对准备中！](stories/story_liskam_set_1.md)(雷蛇) | [破壳](stories/story_bibeak_set_1.md)(柏喙) | [普通的一天](stories/story_shwaz_set_2.md)(黑) | [起点](stories/story_gnosis_set_1.md)(耀骑士临光) | [起点](stories/story_nearl2_set_1.md)(耀骑士临光) |
 | [奇景](stories/story_asbest_set_1.md)(石棉) | [崎路前行](stories/story_prove_set_2.md)(普罗旺斯) | [启明](stories/story_astesi_set_1.md)(星极) | [骑士的旅程](stories/story_blkkgt_set_1.md)(锏) | [气味游戏](stories/story_whitw2_set_1.md)(荒芜拉普兰德) |
@@ -93,7 +93,7 @@
 | [无价的勋章](stories/story_jaksel_set_1.md)(杰克) | [无名之花](stories/story_hbisc2_set_1.md)(濯尘芙蓉) | [无人工房](stories/story_cammou_set_1.md)(卡达) | [无伤通关](stories/story_kirara_set_2.md)(绮良) | [武为何物](stories/story_waaifu_set_1.md)(槐琥) |
 | [午休时间](stories/story_durin_set_1.md)(杜林) | [无需遗憾](stories/story_quartz_set_1.md)(石英) | [无字诅咒](stories/story_vodfox_set_1.md)(巫恋) | [昔日重现](stories/story_mint_set_1.md)(薄绿) | [希瓦艾什的影子](stories/story_blackd_set_1.md)(讯使) |
 | [昔我往矣](stories/story_chyue_set_1.md)(重岳) | [夕阳与朝日](stories/story_pianst_set_1.md)(车尔尼) | [鲜花香水](stories/story_rope_set_1.md)(暗索) | [向死寻生](stories/story_absin_set_1.md)(苦艾) | [向舞台前进](stories/story_sora_set_2.md)(空) |
-| [小草的呼喊](stories/story_vrdant_set_1.md)(维荻) | [小点心](stories/story_frncat_set_1.md)(慕斯) | [小队长](stories/story_ifrit_set_1.md)(玫兰莎) | [小队长](stories/story_melan_set_1.md)(玫兰莎) | [小心火烛](stories/story_sqrrel_set_1.md)(阿消) |
+| [小草的呼喊](stories/story_vrdant_set_1.md)(维荻) | [小点心](stories/story_frncat_set_1.md)(慕斯) | [小队长](stories/story_ifrit_set_1.md)(伊芙利特) | [小队长](stories/story_melan_set_1.md)(伊芙利特) | [小心火烛](stories/story_sqrrel_set_1.md)(阿消) |
 | [谢拉格假期](stories/story_halo2_set_1.md)(溯光星源) | [新潮旧浪](stories/story_lin_set_1.md)(林) | [新的高峰](stories/story_slchan_set_2.md)(崖心) | [心甘情愿](stories/story_blemsh_set_1.md)(瑕光) | [信任的第一步](stories/story_broca_set_1.md)(布洛卡) |
 | [醒时梦长](stories/story_ling_set_1.md)(令) | [许以秘密](stories/story_kafka_set_1.md)(卡夫卡) | [雪山外](stories/story_slbell_set_1.md)(初雪) | [学医之路](stories/story_ccheal_set_1.md)(嘉维尔) | [学者之心](stories/story_amgoat_set_1.md)(艾雅法拉) |
 | [寻常夕阳](stories/story_tknogi_set_1.md)(月禾) | [寻乡](stories/story_rfrost_set_1.md)(霜华) | [崖上之心](stories/story_slchan_set_1.md)(崖心) | [盐漠上的海风](stories/story_weedy_set_2.md)(温蒂) | [阳光洒落之前](stories/story_pianst_set_2.md)(车尔尼) |

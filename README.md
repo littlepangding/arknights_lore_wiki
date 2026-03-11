@@ -9,6 +9,99 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+## 2026-03-11
+
+### 新增 活动/密录
+- [十字路口](docs/stories/act20mini.md)
+- [鬼的逮捕令](docs/stories/story_gyuki_set_1.md)
+- [阴谋](docs/stories/story_hmau_set_2.md)
+- [A6成立的那一天](docs/stories/story_orchid_set_2.md)
+- [茧房](docs/stories/story_popka_set_2.md)
+### 新增 角色
+- [复奏](docs/char_v3/char_4031_liesel.md)
+- [贝洛内](docs/char_v3/char_4037_demetr.md)
+- [露彼娜](docs/char_v3/extended_char_lu_bi_na.md)
+- [沙雷](docs/char_v3/extended_char_sha_lei.md)
+- [托希娅](docs/char_v3/extended_char_tuo_xi_ya.md)
+
+### 更新 角色
+- [斥罪](docs/char_v3/char_4065_judge.md)
+- [伺夜](docs/char_v3/char_427_vigil.md)
+- [甘比诺](docs/char_v3/extended_char_gan_bi_nuo.md)
+- [卡彭](docs/char_v3/extended_char_ka_peng.md)
+- [伊雷妮](docs/char_v3/extended_char_yi_lei_ni.md)
+## 2026-02-11
+
+### 新增 活动/密录
+- [辞岁行](docs/stories/act49side.md)
+- [奇石](docs/stories/story_ju_set_1.md)
+- [终局](docs/stories/story_wang_set_1.md)
+- [回家](docs/stories/story_xingzh_set_1.md)
+### 新增 角色
+- [望](docs/char_v3/char_2027_wang.md)
+- [矩](docs/char_v3/char_4221_ju.md)
+- [风絮](docs/char_v3/char_4222_taraxa.md)
+- [陈昭芊](docs/char_v3/extended_char_chen_zhao_qian.md)
+- [椿](docs/char_v3/extended_char_chun.md)
+- [方](docs/char_v3/extended_char_fang.md)
+- [后兽](docs/char_v3/extended_char_hou_shou.md)
+- [颉](docs/char_v3/extended_char_jie.md)
+- [均](docs/char_v3/extended_char_jun.md)
+- [太尉](docs/char_v3/extended_char_tai_wei.md)
+- [真龙](docs/char_v3/extended_char_zhen_long.md)
+### 更新 角色
+- [陈](docs/char_v3/char_010_chen.md)
+- [煌](docs/char_v3/char_017_huang.md)
+- [年](docs/char_v3/char_2014_nian.md)
+- [夕](docs/char_v3/char_2015_dusk.md)
+- [重岳](docs/char_v3/char_2024_chyue.md)
+- [黍](docs/char_v3/char_2025_shu.md)
+- [余](docs/char_v3/char_2026_yu.md)
+- [惊蛰](docs/char_v3/char_306_leizi.md)
+- [左乐](docs/char_v3/char_4121_zuole.md)
+- [录武官](docs/char_v3/char_4196_reckpr.md)
+- [绩](docs/char_v3/extended_char_ji.md)
+- [老天师](docs/char_v3/extended_char_lao_tian_shi.md)
+- [梁](docs/char_v3/extended_char_liang.md)
+- [梁洵](docs/char_v3/extended_char_liang_xun.md)
+- [莫佚](docs/char_v3/extended_char_mo_yi.md)
+- [宁辞秋](docs/char_v3/extended_char_ning_ci_qiu.md)
+- [宁述](docs/char_v3/extended_char_ning_shu.md)
+- [太傅](docs/char_v3/extended_char_tai_fu.md)
+- [望](docs/char_v3/extended_char_wang.md)
+- [魏彦吾](docs/char_v3/extended_char_wei_yan_wu.md)
+- [睚](docs/char_v3/extended_char_ya.md)
+- [左宣辽](docs/char_v3/extended_char_zuo_xuan_liao.md)
+
+====================
+## 2026-01-10
+
+### 新增 活动/密录
+- [雅赛努斯复仇记](docs/stories/act48side.md)
+- [像火一样燃烧](docs/stories/story_flamtl_set_1.md)(焰尾)
+- [月下舞者](docs/stories/story_ray_set_2.md)(莱伊)
+- [新东西](docs/stories/story_vendla_set_1.md)(刺玫)
+- [最后一次探险](docs/stories/story_wulfen_set_1.md)(钼铅)
+### 新增 角色
+- [缇缇](docs/char_v3/char_4056_titi.md)
+- [摆渡人](docs/char_v3/char_4166_varkis.md)
+- [赫卡德墨](docs/char_v3/extended_char_he_ka_de_mo.md)
+- [卡珊卓拉](docs/char_v3/extended_char_ka_shan_zhuo_la.md)
+- [里底娅](docs/char_v3/extended_char_li_di_ya.md)
+- [吕刻伊昂](docs/char_v3/extended_char_lv_ke_yi_ang.md)
+- [佩里安德洛斯](docs/char_v3/extended_char_pei_li_an_de_luo_si.md)
+- [西妮斯卡](docs/char_v3/extended_char_xi_ni_si_ka.md)
+
+### 更新 活动/密录
+- [反常光谱](docs/stories/main_16.md)
+### 更新 角色
+- [调香师](docs/char_v3/char_181_flower.md)
+- [莱伊](docs/char_v3/char_4117_ray.md)
+- [钼铅](docs/char_v3/char_4171_wulfen.md)
+- [焰尾](docs/char_v3/char_420_flamtl.md)
+- [帕拉斯](docs/char_v3/char_485_pallas.md)
+- [刺玫](docs/char_v3/char_494_vendla.md)
+- [米奥](docs/char_v3/extended_char_mi_ao.md)
 ## 2025-12-06
 
 ### 新增 活动/密录

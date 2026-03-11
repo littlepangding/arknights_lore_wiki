@@ -9,6 +9,27 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+## 2026-03-11
+
+### 新增 活动/密录
+- [十字路口](docs/stories/act20mini.md)
+- [鬼的逮捕令](docs/stories/story_gyuki_set_1.md)
+- [阴谋](docs/stories/story_hmau_set_2.md)
+- [A6成立的那一天](docs/stories/story_orchid_set_2.md)
+- [茧房](docs/stories/story_popka_set_2.md)
+### 新增 角色
+- [复奏](docs/char_v3/char_4031_liesel.md)
+- [贝洛内](docs/char_v3/char_4037_demetr.md)
+- [露彼娜](docs/char_v3/extended_char_lu_bi_na.md)
+- [沙雷](docs/char_v3/extended_char_sha_lei.md)
+- [托希娅](docs/char_v3/extended_char_tuo_xi_ya.md)
+
+### 更新 角色
+- [斥罪](docs/char_v3/char_4065_judge.md)
+- [伺夜](docs/char_v3/char_427_vigil.md)
+- [甘比诺](docs/char_v3/extended_char_gan_bi_nuo.md)
+- [卡彭](docs/char_v3/extended_char_ka_peng.md)
+- [伊雷妮](docs/char_v3/extended_char_yi_lei_ni.md)
 ## 2026-02-11
 
 ### 新增 活动/密录

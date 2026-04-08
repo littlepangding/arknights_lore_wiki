@@ -9,6 +9,46 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+## 2026-04-08
+
+### 新增 活动/密录
+- [人们，我们](docs/stories/act51side.md)
+- [发声](docs/stories/story_botany_set_1.md)
+- [止痛药](docs/stories/story_branch_set_1.md)
+- [欲摘其冠](docs/stories/story_crosly_set_1.md)
+- [覆录](docs/stories/story_wintim_set_1.md)
+### 新增 角色
+- [伯塔尼](docs/char_v3/char_4223_botany.md)
+- [乌啾](docs/char_v3/char_4224_turdus.md)
+- [安托沙](docs/char_v3/extended_char_an_tuo_sha.md)
+- [奥尔佳](docs/char_v3/extended_char_ao_er_jia.md)
+- [巴普洛维奇](docs/char_v3/extended_char_ba_pu_luo_wei_qi.md)
+- [法杰伊](docs/char_v3/extended_char_fa_jie_yi.md)
+- [费奥多尔](docs/char_v3/extended_char_fei_ao_duo_er.md)
+- [格罗莫夫](docs/char_v3/extended_char_ge_luo_mo_fu.md)
+- [拉列亚](docs/char_v3/extended_char_la_lie_ya.md)
+- [列昂尼德](docs/char_v3/extended_char_lie_ang_ni_de.md)
+- [马特维](docs/char_v3/extended_char_ma_te_wei.md)
+- [尼卡](docs/char_v3/extended_char_ni_ka.md)
+- [帕夫洛男爵](docs/char_v3/extended_char_pa_fu_luo_nan_jue.md)
+- [特里波列夫公爵](docs/char_v3/extended_char_te_li_bo_lie_fu_gong_jue.md)
+- [瓦尔瓦拉](docs/char_v3/extended_char_wa_er_wa_la.md)
+- [瓦西里](docs/char_v3/extended_char_wa_xi_li.md)
+- [沃伦佐娃伯爵夫人](docs/char_v3/extended_char_wo_lun_zuo_wa_bo_jue_fu_ren.md)
+- [叶列梅](docs/char_v3/extended_char_ye_lie_mei.md)
+- [尤拉](docs/char_v3/extended_char_you_la.md)
+
+### 更新 角色
+- [凛冬](docs/char_v3/char_115_headbr.md)
+- [弑君者](docs/char_v3/char_1502_crosly.md)
+- [烈夏](docs/char_v3/char_194_leto.md)
+- [真理](docs/char_v3/char_195_glassb.md)
+- [古米](docs/char_v3/char_196_sunbr.md)
+- [早露](docs/char_v3/char_197_poca.md)
+- [坚雷](docs/char_v3/char_260_durnar.md)
+- [苦艾](docs/char_v3/char_405_absin.md)
+- [伊斯拉姆·维特](docs/char_v3/extended_char_8af9ec.md)
+
 ## 2026-03-11
 
 ### 新增 活动/密录

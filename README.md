@@ -9,6 +9,46 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+## 2026-05-07
+
+### 新增 活动/密录
+- [相变临界](docs/stories/main_17.md)
+- [循环](docs/stories/story_headb2_set_1.md)(凛冬)
+- [明日之前](docs/stories/story_folnic_set_1.md)(煌)
+- [去荒野的路](docs/stories/story_hadiya_set_1.md)(哈蒂娅)
+- [分身有术](docs/stories/story_closur_set_1.md)(可露希尔)
+### 新增 角色
+- [可露希尔](docs/char_v3/char_4228_closur.md)
+- [阿洛伊泽·戈尔奇科娃](docs/char_v3/extended_char_292b3c.md)
+- [阿纳托利·斯维特拉诺夫·卜捷里宁](docs/char_v3/extended_char_abcfc3.md)
+- [斯韦特兰纳](docs/char_v3/extended_char_si_wei_te_lan_na.md)
+- [斯乔帕·拉辛](docs/char_v3/extended_char_68764b.md)
+- [西尔卡](docs/char_v3/extended_char_xi_er_ka.md)
+- [叶甫根尼](docs/char_v3/extended_char_ye_fu_gen_ni.md)
+- [瑭雅](docs/char_v3/extended_char_tang_ya.md)
+- [纳杰日达](docs/char_v3/extended_char_na_jie_ri_da.md)
+- [艾丽塔·瓦卢耶娃](docs/char_v3/extended_char_c9a17c.md)
+- [克利姆·瓦卢耶夫](docs/char_v3/extended_char_dfa58c.md)
+- [纳斯塔霞](docs/char_v3/extended_char_na_si_ta_xia.md)
+- [叶莉莎](docs/char_v3/extended_char_ye_li_sha.md)
+- [瓦西里·戈尔奇科夫](docs/char_v3/extended_char_6a2d01.md)
+- [米拉娜](docs/char_v3/extended_char_mi_la_na.md)
+
+### 更新 角色
+- [阿米娅](docs/char_v3/char_002_amiya.md)
+- [凯尔希](docs/char_v3/char_003_kalts.md)
+- [Mon3tr](docs/char_v3/char_4179_monstr.md)
+- [弑君者](docs/char_v3/char_1502_crosly.md)
+- [赫拉格](docs/char_v3/char_188_helage.md)
+- [电弧](docs/char_v3/char_4195_radian.md)
+- [博士](docs/char_v3/extended_char_bo_shi.md)
+- [普瑞赛斯](docs/char_v3/extended_char_pu_rui_sai_si.md)
+- [伊利亚](docs/char_v3/extended_char_yi_li_ya.md)
+- [希尔达](docs/char_v3/extended_char_xi_er_da.md)
+- [塔露拉](docs/char_v3/extended_char_ta_lu_la.md)
+- [雷德](docs/char_v3/extended_char_lei_de.md)
+- [费奥多尔](docs/char_v3/extended_char_fei_ao_duo_er.md)
+
 ## 2026-04-08
 
 ### 新增 活动/密录

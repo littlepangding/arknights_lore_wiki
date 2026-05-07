@@ -17,11 +17,11 @@ Guard，一位经历复杂的感染者，曾是罗德岛的雇员，切尔诺伯
 -   **[塔露拉](extended_char_ta_lu_la.md)([v1](../chars/extended_char_ta_lu_la.md))**：Guard曾是塔露拉领导下的整合运动成员，但在切尔诺伯格事件后对塔露拉失望，认为她应为牺牲负责。他参与了劫持塔露拉的行动，以期获得真相。
 -   **[爱国者](extended_char_ai_guo_zhe.md)([v1](../chars/extended_char_ai_guo_zhe.md))**：Guard在切尔诺伯格期间目睹爱国者及其游击队的行动，深受感动和尊敬，视爱国者为整合运动中真正的支柱。在爱国者牺牲后，Guard继承其理念并加入了爱国者残部，共同反抗塔露拉。
 -   **[煌](char_017_huang.md)([v1](../chars/char_017_huang.md))**：Guard曾是罗德岛干员时认识的同事。在风暴瞭望活动中，Guard作为整合运动成员与煌对峙，坦承身份和来意，解释了袭击罗德岛的目的。
--   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：在切尔诺伯格相遇，Guard向凯尔希等人解释爱国者的行动和立场。凯尔希也利用Guard的信用，向当地乌萨斯感染者证明其清白。
+-   **凯尔希**：在切尔诺伯格相遇，Guard向凯尔希等人解释爱国者的行动和立场。凯尔希也利用Guard的信用，向当地乌萨斯感染者证明其清白。
 -   **[阿米娅](char_002_amiya.md)([v1](../chars/char_002_amiya.md))**：在切尔诺伯格与罗德岛行动期间，Guard曾与其互动，解释切尔诺伯格的状况。
 -   **[迷迭香](char_391_rosmon.md)([v1](../chars/char_391_rosmon.md))**：在切尔诺伯格目睹迷迭香的力量和战斗方式，感到惊讶。
 -   **[坎诺特](extended_char_kan_nuo_te.md)([v1](../chars/extended_char_kan_nuo_te.md))**：在阴云火花活动中，Guard作为整合运动领导者与荒地商人坎诺特进行重要物资交易。Guard对其手段和身份保持警惕和不信任，但出于任务需求完成了交易。
--   **[雷德](extended_char_lei_de.md)([v1](../chars/extended_char_lei_de.md))**：整合运动成员，在恶兆湍流和阴云火花中均与Guard一同行动或受其指挥，是Guard的下属或合作者。
+-   **雷德**：整合运动成员，在恶兆湍流和阴云火花中均与Guard一同行动或受其指挥，是Guard的下属或合作者。
 -   **梅斯**：在恶兆湍流中，Guard试图保护的假冒整合运动的难民。Guard为保护他和其他人而牺牲。
 -   **[珀茜瓦尔](extended_char_po_qian_wa_er.md)([v1](../chars/extended_char_po_qian_wa_er.md))**：在恶兆湍流中与Guard一同在维多利亚行动的整合运动成员。
 ## 详细介绍

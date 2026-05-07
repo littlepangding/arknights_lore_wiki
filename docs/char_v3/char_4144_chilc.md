@@ -19,13 +19,13 @@
 -   **独眼巨人艾尔启**：在萨米救下坠落受伤的齐尔查克，并告知他关于厄运的预言。后来在罗德岛再次相遇。
 -   **[大祭司](extended_char_da_ji_si.md)([v1](../chars/extended_char_da_ji_si.md))**：泰拉雨林中的神奇生物，被森西抓来炖汤。齐尔查克对此感到极度震惊和恶心。在罗德岛再次意外相遇。
 -   **[哈洛德](char_4114_harold.md)([v1](../chars/char_4114_harold.md))**：罗德岛干员，经常和齐尔查克一起喝酒。
--   **[赫拉格](char_188_helage.md)([v1](../chars/char_188_helage.md))**：罗德岛干员，有时会和齐尔查克、哈洛德一起喝酒，并交流关于女儿的经验。
+-   **赫拉格**：罗德岛干员，有时会和齐尔查克、哈洛德一起喝酒，并交流关于女儿的经验。
 -   **[火神](char_163_hpsts.md)([v1](../chars/char_163_hpsts.md))**：罗德岛干员，有时会加入齐尔查克等人的饮酒聚会。
 -   **[见行者](char_4036_forcer.md)([v1](../chars/char_4036_forcer.md))**：罗德岛干员，有时会加入齐尔查克等人的饮酒聚会。
 -   **[大鲍勃](extended_char_da_bao_bo.md)([v1](../chars/extended_char_da_bao_bo.md))**：在泰拉初遇的本地居民，与莱欧斯小队分享了源石虫料理和啤酒。
 -   **[教士](extended_char_jiao_shi.md)([v1](../chars/extended_char_jiao_shi.md))**：伊比利亚的反派角色，试图引诱莱欧斯小队送死，被齐尔查克用宝箱怪制服。
 -   **[刻俄柏](char_2013_cerber.md)([v1](../chars/char_2013_cerber.md))**：罗德岛干员，齐尔查克在罗德岛的训练室遇到了她。
--   **[博士](extended_char_bo_shi.md)**：罗德岛的领袖，齐尔查克对其表示好奇，曾询问他是否成年以便一同饮酒。
+-   **博士**：罗德岛的领袖，齐尔查克对其表示好奇，曾询问他是否成年以便一同饮酒。
 -   **[暗索](char_236_rope.md)([v1](../chars/char_236_rope.md))**：罗德岛干员，被后勤部禁止接近齐尔查克询问开锁技巧。
 -   **[桃金娘](char_151_myrtle.md)([v1](../chars/char_151_myrtle.md))**：罗德岛干员，因齐尔查克外表年轻，曾被她误认为同龄人。
 ## 详细介绍

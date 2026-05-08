@@ -74,7 +74,7 @@
 | [芦苇之心](stories/story_sddrag_set_1.md)(苇草) | [落水人](stories/story_nothin_set_1.md)(乌有) | [落叶何归](stories/story_chimes_set_1.md)(铎铃) | [旅伴](stories/story_ash_set_1.md)(灰烬) | [旅途的注脚](stories/story_mostma_set_2.md)(莫斯提马) |
 | [漫长旅途](stories/story_elysm_set_1.md)(极境) | [满满的日程表](stories/story_otter_set_1.md)(梅尔) | [没写收件人的包裹](stories/story_aglina_set_1.md)(安洁莉娜) | [梦想中的好生活](stories/story_rosesa_set_1.md)(瑰盐) | [梦醒时分](stories/story_fuze_set_1.md)(导火索) |
 | [梦中过往](stories/story_gravel_set_1.md)(砾) | [密林狂想](stories/story_zumama_set_1.md)(森蚺) | [明日之前](stories/story_folnic_set_1.md)(亚叶) | [命途](stories/story_helage_set_1.md)(赫拉格) | [模糊的面容](stories/story_rdoc_set_1.md)(医生) |
-| [墨迹已落](stories/story_bgsnow_set_1.md)(鸿雪) | [那一场戏](stories/story_aprot2_set_1.md)(暮落) | [难猜的人](stories/story_svrash_set_1.md)(银灰) | [难得认真](stories/story_bldsk_set_2.md)(华法琳) | [难行长路](stories/story_bpipe_set_1.md)(风笛) |
+| [墨迹已落](stories/story_bgsnow_set_1.md)(鸿雪) | [那一场戏](stories/story_aprot2_set_1.md) | [难猜的人](stories/story_svrash_set_1.md)(银灰) | [难得认真](stories/story_bldsk_set_2.md)(华法琳) | [难行长路](stories/story_bpipe_set_1.md)(风笛) |
 | [南墙](stories/story_hmau_set_1.md)(吽) | [你与时间同长](stories/story_cetsyr_set_1.md)(魔王) | [你愿意吗](stories/story_huang_set_1.md)(煌) | [啮合不良](stories/story_ironmn_set_1.md)(白铁) | [偶像宣传](stories/story_archet_set_1.md)(空弦) |
 | [泡沫](stories/story_platnm_set_1.md)(白金) | [平安祈愿](stories/story_mberry_set_1.md)(桑葚) | [苹果](stories/story_kroos_set_1.md)(克洛丝) | [苹果派对准备中！](stories/story_liskam_set_1.md)(雷蛇) | [破壳](stories/story_bibeak_set_1.md)(柏喙) |
 | [普通的一天](stories/story_shwaz_set_2.md)(黑) | [起点](stories/story_gnosis_set_1.md)(耀骑士临光) | [起点](stories/story_nearl2_set_1.md)(耀骑士临光) | [奇景](stories/story_asbest_set_1.md)(石棉) | [崎路前行](stories/story_prove_set_2.md)(普罗旺斯) |

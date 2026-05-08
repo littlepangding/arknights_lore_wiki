@@ -1,0 +1,6 @@
+# Per-clone agent orientation files. The wiki is a data repo; agent guides
+# live with each developer's checkout, not in the published repo.
+CLAUDE.md
+AGENTS.md
+.claude/
+.agents/

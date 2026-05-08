@@ -14,7 +14,7 @@
 安德烈是一名在切尔诺伯格灾难中幸存的乌萨斯青年。最初作为学生团体“彼得海姆共荣会”的领袖，在沦陷的城市中通过掠夺求生，后在废墟中与同伴共同面对困境，展现出内在的勇气。灾难结束后，他成为一名工程术师，与整合运动的部分成员合作，运用其技术专长修复大型载具。他的经历反映了乌萨斯底层在灾难后的生存状态以及个体在极端环境下的变化。
 ## 相关角色
 -   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
--   **[雷德](extended_char_lei_de.md)([v1](../chars/extended_char_lei_de.md))**：在骸骨荒原与安德烈一同参与修复悬浮载具。
+-   **雷德**：在骸骨荒原与安德烈一同参与修复悬浮载具。
 -   **[九](extended_char_jiu.md)([v1](../chars/extended_char_jiu.md))**：安德烈向她汇报载具修复的技术需求。
 -   **[坎诺特](extended_char_kan_nuo_te.md)([v1](../chars/extended_char_kan_nuo_te.md))**：为安德烈的团队运送载具修复所需的零件。
 -   **[Dijkstra](extended_char_Dijkstra.md)([v1](../chars/extended_char_Dijkstra.md))**：哥伦比亚术师，为安德烈团队提供了悬浮载具的情报。

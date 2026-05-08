@@ -15,7 +15,7 @@
 ## 相关角色
 -   **[依拉](extended_char_yi_la.md)([v1](../chars/extended_char_yi_la.md))**：加勒斯的伴侣，与他一同逃亡并加入锈锤，两人互相扶持，依拉的坚定意志多次影响加勒斯。依拉目前怀有加勒斯的孩子。
 -   **[Guard](extended_char_Guard.md)([v1](../chars/extended_char_Guard.md))**：加勒斯过去的整合运动战友，在“阴云火花”中重逢并相认。
--   **[雷德](extended_char_lei_de.md)([v1](../chars/extended_char_lei_de.md))**：加勒斯过去的整合运动战友，在“阴云火花”中重逢并相认。
+-   **雷德**：加勒斯过去的整合运动战友，在“阴云火花”中重逢并相认。
 -   **[毕恩](extended_char_bi_en.md)([v1](../chars/extended_char_bi_en.md))**：加勒斯过去的整合运动战友，在“阴云火花”中重逢并相认。
 -   **艾尔瓦**：加勒斯过去的整合运动战友和熟人，在“阴云火花”中与加勒斯愉快叙旧，了解了他的近况。
 -   **[坎诺特](extended_char_kan_nuo_te.md)([v1](../chars/extended_char_kan_nuo_te.md))**：锈锤组织中的重要人物，在“阴云火花”中委托加勒斯执行任务。

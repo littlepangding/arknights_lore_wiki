@@ -29,9 +29,9 @@
 -   **[莱托中校](extended_char_lai_tuo_zhong_xiao.md)([v1](../chars/extended_char_lai_tuo_zhong_xiao.md))**：投靠萨卡兹的伦蒂尼姆城防军指挥官。与曼弗雷德有过合作，曼弗雷德曾救下他。
 -   **[Misery](char_615_acspec.md)([v1](../chars/char_615_acspec.md))**：罗德岛精英干员。与曼弗雷德交手，能力令曼弗雷德感到惊讶和警惕。
 -   **[号角](char_4039_horn.md)([v1](../chars/char_4039_horn.md))**：维多利亚士兵。与曼弗雷德交战，被曼弗雷德认为是“可敬的对手”。
--   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：罗德岛干员。曼弗雷德知道她受伤、撤退。
+-   **凯尔希**：罗德岛干员。曼弗雷德知道她受伤、撤退。
 -   **[阿米娅](char_002_amiya.md)([v1](../chars/char_002_amiya.md))**：罗德岛领袖。曼弗雷德曾试图困住她，能感知她。后参与俘虏曼弗雷德。
--   **[博士](extended_char_bo_shi.md)**：罗德岛的博士。曼弗雷德曾试图困住他。
+-   **博士**：罗德岛的博士。曼弗雷德曾试图困住他。
 -   **[娜汀](extended_char_na_ting.md)([v1](../chars/extended_char_na_ting.md))**：曼弗雷德的副官，食腐者。在“生命脊椎”事件后找到并照顾受伤的曼弗雷德。
 -   **[弗莱蒙特](extended_char_fu_lai_meng_te.md)([v1](../chars/extended_char_fu_lai_meng_te.md))**：巫妖。用极端的咒骂方式提及曼弗雷德，侧面显示其地位。
 -   **[奥达](char_4131_odda.md)([v1](../chars/char_4131_odda.md))**：在萨卡兹内战中失去父亲的维多利亚男孩。曼弗雷德向他转达了死讯并交还遗物。

@@ -23,7 +23,7 @@
 -   **[威灵顿公爵](extended_char_wei_ling_dun_gong_jue.md)([v1](../chars/extended_char_wei_ling_dun_gong_jue.md))**：主要对手，Nian在维多利亚战场上与之多次交战，双方展现出对战争和彼此的认可与尊重，Nian最终的结局也被其悼念。
 -   **[妮芙](char_4146_nymph.md)([v1](../chars/char_4146_nymph.md))**：年轻一代的代表，在卡莱莎的记忆梦境中与Nian交流，在魂灵熔炉中代表年轻萨卡兹与Nian（死魂灵集合）对话，接受Nian的考验去证明萨卡兹的新道路。
 -   **[锡人](char_4151_tinman.md)([v1](../chars/char_4151_tinman.md))**：古老的对手/宿敌，在魂灵熔炉中与Nian（死魂灵集合）意识交流，双方似有深厚怨恨，锡人促成了年轻一代与死魂灵的对话。
--   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：古老的熟人/对话者，Nian认识凯尔希数百年，在罗德岛陆行舰上与她对话，追问爱国者死因，对罗德岛和阿米娅的未来萨卡兹之路表示观望，最终Nian为她与博士等人让路。
+-   **凯尔希**：古老的熟人/对话者，Nian认识凯尔希数百年，在罗德岛陆行舰上与她对话，追问爱国者死因，对罗德岛和阿米娅的未来萨卡兹之路表示观望，最终Nian为她与博士等人让路。
 -   **[华法琳](char_171_bldsk.md)([v1](../chars/char_171_bldsk.md))**：古老的熟人，Nian认识华法琳，其血魔本能对Nian反应强烈，随凯尔希一同与Nian对话并见证Nian让路。
 -   **[闪灵](char_147_shining.md)([v1](../chars/char_147_shining.md))**：古老的熟人，Nian认识闪灵，随凯尔希一同与Nian对话并见证Nian让路。
 -   **博卓卡斯替**：学生/被关心者，Nian曾是他的老师，Nian关心其死因并认可凯尔希的解释，对其表示尊重。

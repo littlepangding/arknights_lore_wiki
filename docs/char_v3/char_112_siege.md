@@ -19,8 +19,8 @@
 -   **[贝尔德](extended_char_bei_er_de.md)([v1](../chars/extended_char_bei_er_de.md))**：格拉斯哥帮成员，与维娜情同手足，留在诺伯特区守护，在“惊霆无声”事件中牺牲。
 -   **[高文](extended_char_gao_wen.md)([v1](../chars/extended_char_gao_wen.md))**：金色鬃毛的兽主，维娜童年时期的老师和守护者，曾预言维娜的未来。维娜在重要时刻会与之对话。
 -   **[阿勒黛·坎伯兰](extended_char_9b0a87.md)([v1](../chars/extended_char_9b0a87.md))**：维多利亚贵族坎伯兰公爵的女儿，维娜幼年时期的朋友，后因家族“使命”与维娜对立，最终在“淬火尘霾”事件中牺牲。
--   **[凯尔希](char_003_kalts.md)([v1](../chars/char_003_kalts.md))**：罗德岛高层，似乎很早就知晓维娜的真实身份，并以某种方式引导她加入了罗德岛，对维娜的成长施加了影响。
--   **[博士](extended_char_bo_shi.md)**：罗德岛指挥官，维娜的盟友和信任对象，在她迷茫时给予指引和肯定。
+-   **凯尔希**：罗德岛高层，似乎很早就知晓维娜的真实身份，并以某种方式引导她加入了罗德岛，对维娜的成长施加了影响。
+-   **博士**：罗德岛指挥官，维娜的盟友和信任对象，在她迷茫时给予指引和肯定。
 -   **[开斯特公爵](extended_char_kai_si_te_gong_jue.md)([v1](../chars/extended_char_kai_si_te_gong_jue.md))**：维多利亚实权公爵，维娜的伯父，曾试图利用维娜的身份和诸王之息。
 -   **[高多汀公爵](extended_char_gao_duo_ting_gong_jue.md)([v1](../chars/extended_char_gao_duo_ting_gong_jue.md))**：维多利亚实权公爵，曾试图拉拢维娜和典范军。
 -   **[克洛维希娅](extended_char_ke_luo_wei_xi_ya.md)([v1](../chars/extended_char_ke_luo_wei_xi_ya.md))**：伦蒂尼姆市民自救军指挥官，“独角兽”，曾试图操纵维娜的人生轨迹，后与维娜合作。

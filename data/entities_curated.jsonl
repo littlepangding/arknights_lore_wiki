@@ -1,1 +1,47 @@
 {"name": "博士", "entity_type": "protagonist", "aliases": ["博士", "Doctor", "Dr.", "{@nickname}"], "notes": "玩家化身。游戏主角，1090年从石棺中被巴别塔唤醒；1094年特蕾西娅遇刺后失去记忆，随凯尔希等人于罗德岛复出。详细档案见 kb_curated/chars/ent_76be2e/。"}
+# --- Organizations / factions -----------------------------------------------
+{"name": "罗德岛", "entity_type": "organization", "aliases": ["罗德岛", "罗德岛制药", "Rhodes Island", "RI"], "notes": "Rhodes Island Pharmaceutical Inc. 玩家所属的制药公司兼武装组织，由凯尔希、阿米娅、博士等人重建。"}
+{"name": "整合运动", "entity_type": "organization", "aliases": ["整合运动", "Reunion"], "notes": "由塔露拉领导的感染者武装组织。乌萨斯外围与切尔诺伯格事件的发起方。"}
+{"name": "莱茵生命", "entity_type": "organization", "aliases": ["莱茵生命", "Rhine Lab", "莱因生命"], "notes": "哥伦比亚的源石研究机构。凯尔希、赫默、铃兰等多位干员曾任职。"}
+{"name": "深海猎人", "entity_type": "organization", "aliases": ["深海猎人", "Abyssal Hunters"], "notes": "阿戈尔的特殊作战单位，由斯卡蒂、幽灵鲨等成员组成。"}
+{"name": "巴别塔", "entity_type": "organization", "aliases": ["巴别塔", "Babel"], "notes": "特蕾西娅领导的萨卡兹组织，凯尔希、博士等人为核心成员。1094年特蕾西娅遇刺后解散，演化为罗德岛。"}
+{"name": "PRTS", "entity_type": "organization", "aliases": ["PRTS", "普瑞赛斯"], "notes": "罗德岛的中枢AI/作战系统。"}
+{"name": "教廷", "entity_type": "organization", "aliases": ["教廷", "拉特兰教廷"], "notes": "拉特兰的最高宗教与政治机构。"}
+{"name": "叙拉古七大家族", "entity_type": "organization", "aliases": ["七大家族", "叙拉古七大家族"], "notes": "叙拉古的七个主要犯罪家族集合体。"}
+# --- Locations / nations ----------------------------------------------------
+{"name": "卡兹戴尔", "entity_type": "location", "aliases": ["卡兹戴尔", "Kazdel"], "notes": "萨卡兹的故土。常年内战，多支萨卡兹武装在此活动。"}
+{"name": "龙门", "entity_type": "location", "aliases": ["龙门", "Lungmen"], "notes": "炎国南方的自治都市。陈、星熊、可颂、嵯峨等炎国干员的活动核心。"}
+{"name": "乌萨斯", "entity_type": "location", "aliases": ["乌萨斯", "乌萨斯帝国", "Ursus"], "notes": "北方军事帝国。整合运动起源地。"}
+{"name": "维多利亚", "entity_type": "location", "aliases": ["维多利亚", "Victoria"], "notes": "西方泰拉的传统强国，近期发生王女与国王间的内战。"}
+{"name": "叙拉古", "entity_type": "location", "aliases": ["叙拉古", "Siracusa"], "notes": "南方泰拉的城邦联盟，由七大家族实际把持。"}
+{"name": "哥伦比亚", "entity_type": "location", "aliases": ["哥伦比亚", "Columbia"], "notes": "源石技艺研究最先进的工业国家。莱茵生命的所在地。"}
+{"name": "炎国", "entity_type": "location", "aliases": ["炎国", "Yan", "炎"], "notes": "东方泰拉的大国，以皇帝制度与玄学闻名。"}
+{"name": "伊比利亚", "entity_type": "location", "aliases": ["伊比利亚", "Iberia"], "notes": "南方海岸国家，遭'大静谧'影响后大部分领土被封闭。"}
+{"name": "萨米", "entity_type": "location", "aliases": ["萨米", "Sami"], "notes": "北方雪原国家。雪境系干员（伊内丝、霜星等）的故乡。"}
+{"name": "谢拉格", "entity_type": "location", "aliases": ["谢拉格", "Kjerag"], "notes": "高山小国，黑山-临光家族的故乡。"}
+{"name": "卡西米尔", "entity_type": "location", "aliases": ["卡西米尔", "Kazimierz"], "notes": "城邦联合体，以骑士竞技闻名。"}
+{"name": "林尼凯尔", "entity_type": "location", "aliases": ["林尼凯尔", "莱塔尼亚", "Leithanien"], "notes": "音乐与法术王国。中文译名两版并存（林尼凯尔/莱塔尼亚）。"}
+{"name": "拉特兰", "entity_type": "location", "aliases": ["拉特兰", "Laterano"], "notes": "教廷所在地。萨萊、艾雅法拉等萨萊菈系干员的母国。"}
+# --- NPCs (tier-D promotions + lore-canonical figures) ----------------------
+{"name": "司辰", "entity_type": "npc", "aliases": ["司辰"], "notes": "炎国玄学体系内的关键人物。codex 评审 #09 明确指出未涵盖；本次手动补全。"}
+{"name": "恩希欧迪斯", "entity_type": "npc", "aliases": ["恩希欧迪斯"], "notes": "博士的旧识 / 早期合作者。多见于古老剧情线。"}
+{"name": "费德里科", "entity_type": "npc", "aliases": ["费德里科"], "notes": "叙拉古剧情中反复出现的角色。"}
+{"name": "维娜", "entity_type": "npc", "aliases": ["维娜"], "notes": "高频出现的具名NPC（7+ events）。"}
+{"name": "恩雅", "entity_type": "npc", "aliases": ["恩雅"], "notes": "高频出现的具名NPC（7+ events）。"}
+{"name": "克丽斯腾", "entity_type": "npc", "aliases": ["克丽斯腾"], "notes": "高频NPC（6 events）。"}
+{"name": "卡尔", "entity_type": "npc", "aliases": ["卡尔"], "notes": "高频NPC（5 events）。"}
+{"name": "马丁", "entity_type": "npc", "aliases": ["马丁"], "notes": "高频NPC（5 events）。"}
+{"name": "查丝汀娜", "entity_type": "npc", "aliases": ["查丝汀娜"], "notes": "高频NPC（4 events）。"}
+{"name": "雅拉", "entity_type": "npc", "aliases": ["雅拉"], "notes": "中频NPC（4 events）。"}
+{"name": "马修", "entity_type": "npc", "aliases": ["马修"], "notes": "中频NPC（3 events）。"}
+{"name": "瓦利亚", "entity_type": "npc", "aliases": ["瓦利亚"], "notes": "中频NPC（3 events）。"}
+{"name": "汉克", "entity_type": "npc", "aliases": ["汉克"], "notes": "中频NPC（3 events）。"}
+{"name": "查德", "entity_type": "npc", "aliases": ["查德"], "notes": "中频NPC（3 events）。"}
+{"name": "尤塔", "entity_type": "npc", "aliases": ["尤塔"], "notes": "中频NPC（3 events）。"}
+{"name": "尤吉", "entity_type": "npc", "aliases": ["尤吉"], "notes": "中频NPC（3 events）。"}
+{"name": "卢卡", "entity_type": "npc", "aliases": ["卢卡"], "notes": "中频NPC（3 events）。"}
+{"name": "卡门", "entity_type": "npc", "aliases": ["卡门"], "notes": "中频NPC（3 events）。"}
+{"name": "凯特", "entity_type": "npc", "aliases": ["凯特"], "notes": "中频NPC（3 events）。"}
+{"name": "乔迪", "entity_type": "npc", "aliases": ["乔迪"], "notes": "中频NPC（3 events）。"}
+{"name": "帕特尔", "entity_type": "npc", "aliases": ["帕特尔"], "notes": "中频NPC（3 events）。"}
+{"name": "巴蒂", "entity_type": "npc", "aliases": ["巴蒂"], "notes": "中频NPC（3 events）。"}

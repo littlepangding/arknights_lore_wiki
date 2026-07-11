@@ -9,6 +9,71 @@
 
 - [角色总表](docs/char_index.md) 
 - [活动总表](docs/story_index.md)
+
+## 2026-07-11
+
+### 新增 活动/密录
+- [丛林症结](docs/stories/act21mini.md)
+- [泡影苍霆](docs/stories/act50side.md)
+- [小队的盾牌](docs/stories/story_beagle_set_1.md)(米格鲁)
+- [在玻利瓦尔以外](docs/stories/story_doberm_set_1.md)(杜宾)
+- [蒙眬](docs/stories/story_kroos2_set_1.md)(寒芒克洛丝)
+- [第一道伤疤](docs/stories/story_rfalcn_set_2.md)(红隼)
+- [顶峰之景](docs/stories/story_surfer_set_1.md)(寻澜)
+- [昨日已死](docs/stories/story_tanya_set_1.md)(裂响)
+- [号外！号外！](docs/stories/story_turdus_set_1.md)(乌啾)
+
+### 新增 角色
+- [谬因](docs/char_v3/char_4229_aphris.md)
+- [佩德洛](docs/char_v3/char_4234_pedro.md)
+- [妮娜](docs/char_v3/extended_char_5ad787.md)
+- [雷狼龙](docs/char_v3/extended_char_a790d6.md)
+- [阿尔瓦](docs/char_v3/extended_char_a_er_wa.md)
+- [阿蜜](docs/char_v3/extended_char_a_mi.md)
+- [阿尹](docs/char_v3/extended_char_a_yin.md)
+- [巴列罗](docs/char_v3/extended_char_ba_lie_luo.md)
+- [斑弥罗](docs/char_v3/extended_char_ban_mi_luo.md)
+- [宝巫迦](docs/char_v3/extended_char_bao_wu_jia.md)
+- [格瑞斯教官](docs/char_v3/extended_char_ge_rui_si_jiao_guan.md)
+- [汉科](docs/char_v3/extended_char_han_ke.md)
+- [吉莉安](docs/char_v3/extended_char_ji_li_an.md)
+- [卡梅洛](docs/char_v3/extended_char_ka_mei_luo.md)
+- [路基娜](docs/char_v3/extended_char_lu_ji_na.md)
+- [马丁](docs/char_v3/extended_char_ma_ding.md)
+- [王酋](docs/char_v3/extended_char_wang_qiu.md)
+- [亚娜](docs/char_v3/extended_char_ya_na.md)
+- [义经](docs/char_v3/extended_char_yi_jing.md)
+- [政宗](docs/char_v3/extended_char_zheng_zong.md)
+
+### 更新 角色
+- [Mechanist](docs/char_v3/char_610_acfend.md)
+- [“桥夹”克里夫](docs/char_v3/extended_char_c22eac.md)
+- [乌啾](docs/char_v3/char_4224_turdus.md)
+- [乌有](docs/char_v3/char_455_nothin.md)
+- [克洛丝](docs/char_v3/char_124_kroos.md)
+- [凛冬](docs/char_v3/char_115_headbr.md)
+- [米拉娜](docs/char_v3/extended_char_mi_la_na.md)
+- [龙舌兰](docs/char_v3/char_486_takila.md)
+- [寻澜](docs/char_v3/char_4052_surfer.md)
+- [月见夜](docs/char_v3/char_283_midn.md)
+- [杜宾](docs/char_v3/char_130_doberm.md)
+- [梓兰](docs/char_v3/char_278_orchid.md)
+- [炎熔](docs/char_v3/char_121_lava.md)
+- [烈夏](docs/char_v3/char_194_leto.md)
+- [瑭雅](docs/char_v3/extended_char_tang_ya.md)
+- [空爆](docs/char_v3/char_282_catap.md)
+- [米格鲁](docs/char_v3/char_122_beagle.md)
+- [红隼](docs/char_v3/char_4023_rfalcn.md)
+- [芙蓉](docs/char_v3/char_120_hibisc.md)
+- [芬](docs/char_v3/char_123_fang.md)
+- [马特奥](docs/char_v3/extended_char_ma_te_ao.md)
+- [绩](docs/char_v3/extended_char_ji.md)
+
+### 数据订正
+- 将“谬因”统一为官方干员实体，登记“缪因”“洛伦茨”别名，移除错误的独立 NPC 页面。
+- 重新对照《怀黍离》《相见欢》《辞岁行》与《终局》更新“绩”，纠正与“望”混同的经历、称呼和人物关系。
+- 规范“妮娜（已故，出现在幻觉中）”与“雷狼龙（雷之主）”的角色别名。
+
 ## 2026-05-07
 
 ### 新增 活动/密录
@@ -303,4 +368,3 @@ Additional TODO items (ordered from top pri to low pri):
 - Done ~~Add character name for their indivudual stories in the story index page~~
 - Selectively and gradually fix the hullcination for 版本二角色wiki and 活动wiki
 - Improving the prompt and retrieval heuristics 
-

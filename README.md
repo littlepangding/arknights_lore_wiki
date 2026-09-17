@@ -1,14 +1,121 @@
-# 明日方舟剧情wiki 
-
-
+# 明日方舟剧情 Wiki
 
 | :warning: 注意！本页面是利用LLM阅读总结明日方舟剧情原文生成，具体方法请看repo的PR history或者b站视频：[BV1gdJ7zqESe](https://www.bilibili.com/video/BV1gdJ7zqESe/)         |
 |:----------------------------|
 | 虽然在生成的过程中已尽量避免，但是错误，幻觉等等仍然无法完全避免。所以本页面内容以娱乐为主，切勿当成一手来源。发现错误请open issue或者b站私信作者进行修改。|
 
 
-- [角色总表](docs/char_index.md) 
-- [活动总表](docs/story_index.md)
+## 阅读入口
+
+- [最新角色数据](data/char_v3/) · [最新活动与密录数据](data/stories/)
+- [角色总表（展示页）](docs/char_index.md) · [活动总表（展示页）](docs/story_index.md)
+
+`data/` 保存已发布的 Wiki 文本及配套生成提示词；`docs/` 保存 Markdown 展示页与索引。2026 年 7 月 21 日起的以下更新已同步至 `data/`，对应展示页尚未同步，因此近期更新记录直接链接到最新文本。
+
+## 2026-09-16 · 月行水上
+
+新增《明日方舟》与《女神异闻录3 Reload》联动活动 [月行水上](data/stories/act54side.txt) 的剧情总结，明确承接 [众生行记](data/stories/act42side.txt)，补充联动角色与相关设定说明。同时补充 3 篇干员密录、32 份人物页面及配套提示词，并更新人物别名。下列“新增”指首次建立独立页面，包含此前已在剧情中登场的人物。
+
+### 新增活动／密录
+
+| 类型 | 名称 | 相关干员 |
+| --- | --- | --- |
+| 活动剧情 | [月行水上](data/stories/act54side.txt) | — |
+| 干员密录 | [砸碎一抹微笑](data/stories/story_graceb_set_1.txt) | 聆音 |
+| 干员密录 | [被抗拒者](data/stories/story_hadiya_set_2.txt) | 哈蒂娅 |
+| 干员密录 | [在干净明亮的夜晚](data/stories/story_phenxi_set_2.txt) | 菲亚梅塔 |
+
+### 新增角色页面（14 份）
+
+- [结城理](data/char_v3/char_4217_makoto.txt)
+- [埃癸斯](data/char_v3/char_4218_aigis.txt)
+- [岳羽由加莉](data/char_v3/char_4219_yukari.txt)
+- [虎狼丸](data/char_v3/char_4220_kormr.txt)
+- [菲利切·高丢](data/char_v3/extended_char_96e16f.txt)
+- [吉阿达](data/char_v3/extended_char_ji_a_da.txt)
+- [卡拉](data/char_v3/extended_char_ka_la.txt)
+- [凯拉](data/char_v3/extended_char_kai_la.txt)
+- [珀拉](data/char_v3/extended_char_po_la.txt)
+- [裘里奥](data/char_v3/extended_char_qiu_li_ao.txt)
+- [山岸风花](data/char_v3/extended_char_shan_an_feng_hua.txt)
+- [天田乾](data/char_v3/extended_char_tian_tian_qian.txt)
+- [维韦塔](data/char_v3/extended_char_wei_wei_ta.txt)
+- [伊蒂达](data/char_v3/extended_char_yi_di_da.txt)
+
+### 增量更新角色页面（18 份）
+
+- [阿米娅](data/char_v3/char_002_amiya.txt)
+- [崖心](data/char_v3/char_173_slchan.txt)
+- [翎羽](data/char_v3/char_192_falco.txt)
+- [安德切尔](data/char_v3/char_211_adnach.txt)
+- [莫斯提马](data/char_v3/char_213_mostma.txt)
+- [菲亚梅塔](data/char_v3/char_300_phenxi.txt)
+- [哈蒂娅](data/char_v3/char_394_hadiya.txt)
+- [特米米](data/char_v3/char_411_tomimi.txt)
+- [聆音](data/char_v3/char_4187_graceb.txt)
+- [蕾缪安](data/char_v3/char_4193_lemuen.txt)
+- [信仰搅拌机](data/char_v3/char_4194_rmixer.txt)
+- [安多恩](data/char_v3/extended_char_an_duo_en.txt)
+- [奥罗拉](data/char_v3/extended_char_ao_luo_la.txt)
+- [博士](data/char_v3/extended_char_bo_shi.txt)
+- [梵里妮](data/char_v3/extended_char_fan_li_ni.txt)
+- [潘格尼尼](data/char_v3/extended_char_pan_ge_ni_ni.txt)
+- [薇尔丽芙](data/char_v3/extended_char_wei_er_li_fu.txt)
+- [伊万杰利斯塔十一世](data/char_v3/extended_char_yi_wan_jie_li_si_ta_shi_yi_shi.txt)
+
+## 2026-08-06 · 直到大地变成一颗酸橙
+
+新增活动剧情与 5 篇干员密录，补充 26 份人物页面、配套提示词及人物别名。
+
+### 新增活动／密录
+
+| 类型 | 名称 | 相关干员 |
+| --- | --- | --- |
+| 活动剧情 | [直到大地变成一颗酸橙](data/stories/act53side.txt) | — |
+| 干员密录 | [不是盥洗室！](data/stories/story_confes_set_1.txt) | CONFESS-47 |
+| 干员密录 | [有始有终](data/stories/story_mitm_set_2.txt) | 渡桥 |
+| 干员密录 | [心火](data/stories/story_nymph_set_2.txt) | 妮芙 |
+| 干员密录 | [红气球，蓝气球](data/stories/story_skybx_set_1.txt) | 天空盒 |
+| 干员密录 | [嗝尽所能](data/stories/story_tmslot_set_1.txt) | 时隙 |
+
+### 新增角色页面（13 份）
+
+- [珊比](data/char_v3/char_4235_thumpy.txt)
+- [时隙](data/char_v3/char_4236_tmslot.txt)
+- [嘉辛塔](data/char_v3/char_4237_jcinta.txt)
+- [高登·谭农](data/char_v3/extended_char_295009.txt)
+- [阿什顿](data/char_v3/extended_char_a_shen_dun.txt)
+- [齐提特-努库尔提](data/char_v3/extended_char_af1722.txt)
+- [巴尼特](data/char_v3/extended_char_ba_ni_te.txt)
+- [莉丝](data/char_v3/extended_char_li_si.txt)
+- [玛蒂娜](data/char_v3/extended_char_ma_di_na.txt)
+- [皮塔](data/char_v3/extended_char_pi_ta.txt)
+- [乌露露](data/char_v3/extended_char_wu_lu_lu.txt)
+- [伊娜拉](data/char_v3/extended_char_yi_na_la.txt)
+- [一撮毛](data/char_v3/extended_char_yi_zuo_mao.txt)
+
+### 增量更新角色页面（13 份）
+
+- [凯尔希](data/char_v3/char_003_kalts.txt)
+- [华法琳](data/char_v3/char_171_bldsk.txt)
+- [安洁莉娜](data/char_v3/char_291_aglina.txt)
+- [赫德雷](data/char_v3/char_4088_hodrer.txt)
+- [医生](data/char_v3/char_4125_rdoc.txt)
+- [妮芙](data/char_v3/char_4146_nymph.txt)
+- [渡桥](data/char_v3/char_4147_mitm.txt)
+- [CONFESS-47](data/char_v3/char_4188_confes.txt)
+- [可露希尔](data/char_v3/char_4228_closur.txt)
+- [埃芒加德](data/char_v3/extended_char_ai_mang_jia_de.txt)
+- [博士](data/char_v3/extended_char_bo_shi.txt)
+- [古斯塔夫](data/char_v3/extended_char_gu_si_ta_fu.txt)
+- [克伦妮](data/char_v3/extended_char_ke_lun_ni.txt)
+
+## 2026-07-21 · 人物资料补充
+
+补充《沉沦者的黑流树海》及其后日谈相关信息：
+
+- [米格鲁](data/char_v3/char_122_beagle.txt)：补充与卡德霍的联系，以及通过小树感知外界的状态。
+- [谬因](data/char_v3/char_4229_aphris.txt)：补充 Theory-4、生命形式变化与后日谈相关信息。
 
 ## 2026-07-11
 
@@ -88,10 +195,10 @@
 - [瑭雅](docs/char_v3/extended_char_tang_ya.md)
 - [纳杰日达](docs/char_v3/extended_char_na_jie_ri_da.md)
 - [艾丽塔·瓦卢耶娃](docs/char_v3/extended_char_c9a17c.md)
-- [克利姆·瓦卢耶夫](docs/char_v3/extended_char_dfa58c.md)
+- [克利姆·瓦卢耶夫](docs/char_v3/extended_char_6a2d01.md)
 - [纳斯塔霞](docs/char_v3/extended_char_na_si_ta_xia.md)
 - [叶莉莎](docs/char_v3/extended_char_ye_li_sha.md)
-- [瓦西里·戈尔奇科夫](docs/char_v3/extended_char_6a2d01.md)
+- [瓦西里·戈尔奇科夫](docs/char_v3/extended_char_68764b.md)
 - [米拉娜](docs/char_v3/extended_char_mi_la_na.md)
 
 ### 更新 角色
@@ -305,7 +412,7 @@
 
 ### 新增/更新 角色
 
-[真言](docs/char_v3/char_4204_mantra.md), [冬时](docs/char_v3/char_4208_wintim.md), [折桠](docs/char_v3/char_4207_branch.md), [阿米娅](docs/char_v3/char_002_amiya.md), [Mon3tr](docs/char_v3/char_4179_monstr.md), [Raidian](docs/char_v3/char_614_acsupo.md), [阿洛伊泽·戈尔奇科娃](docs/char_v3/extended_char_292b3c.md), [叶莉萨维塔·拉齐萨拉](docs/char_v3/extended_char_e0924e.md), [科谢尼娅·涅留朵娃](docs/char_v3/extended_char_3420b4.md), [雷尔金](docs/char_v3/extended_char_lei_er_jin.md), [尼克托](docs/char_v3/extended_char_ni_ke_tuo.md), [霍里](docs/char_v3/extended_char_huo_li.md), [别乔克](docs/char_v3/extended_char_bie_qiao_ke.md), [希尔达](docs/char_v3/extended_char_xi_er_da.md), [塔露拉](docs/char_v3/extended_char_ta_lu_la.md), [九](docs/char_v3/extended_char_jiu.md), [苏利文·斯米尔诺夫](docs/char_v3/extended_char_7d359f.md), [特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md), [凯尔希](docs/char_v3/char_003_kalts.md), [尤里欧·布兰科·安东尼奥](docs/char_v3/extended_char_c199ba.md), [娜蒂](docs/char_v3/extended_char_na_di.md), [斯科特议员](docs/char_v3/extended_char_si_ke_te_yi_yuan.md), [蒂比](docs/char_v3/char_4191_tippi.md), [马修·托马斯](docs/char_v3/extended_char_d27430.md), [艾琳·亨特](docs/char_v3/extended_char_d65a97.md), [波卜](docs/char_v3/char_487_bobb.md), [松果](docs/char_v3/char_440_pinecn.md), [爱德森](docs/char_v3/extended_char_ai_de_sen.md), [卡夫卡](docs/char_v3/char_214_kafka.md)
+[真言](docs/char_v3/char_4204_mantra.md), [冬时](docs/char_v3/char_4208_wintim.md), [折桠](docs/char_v3/char_4207_branch.md), [阿米娅](docs/char_v3/char_002_amiya.md), [Mon3tr](docs/char_v3/char_4179_monstr.md), [Raidian](docs/char_v3/char_614_acsupo.md), [阿洛伊泽·戈尔奇科娃](docs/char_v3/extended_char_292b3c.md), [叶莉萨维塔·拉齐萨拉](docs/char_v3/extended_char_e0924e.md), [科谢尼娅·涅留朵娃](docs/char_v3/extended_char_3420b4.md), [雷尔金](docs/char_v3/extended_char_lei_er_jin.md), [尼克托](docs/char_v3/extended_char_ni_ke_tuo.md), [霍里](docs/char_v3/extended_char_huo_li.md), 别乔克（暂无独立展示页）, [希尔达](docs/char_v3/extended_char_xi_er_da.md), [塔露拉](docs/char_v3/extended_char_ta_lu_la.md), [九](docs/char_v3/extended_char_jiu.md), [苏利文·斯米尔诺夫](docs/char_v3/extended_char_7d359f.md), [特蕾西娅](docs/char_v3/extended_char_te_lei_xi_ya.md), [凯尔希](docs/char_v3/char_003_kalts.md), [尤里欧·布兰科·安东尼奥](docs/char_v3/extended_char_c199ba.md), [娜蒂](docs/char_v3/extended_char_na_di.md), [斯科特议员](docs/char_v3/extended_char_si_ke_te_yi_yuan.md), [蒂比](docs/char_v3/char_4191_tippi.md), [马修·托马斯](docs/char_v3/extended_char_d27430.md), [艾琳·亨特](docs/char_v3/extended_char_d65a97.md), [波卜](docs/char_v3/char_487_bobb.md), [松果](docs/char_v3/char_440_pinecn.md), [爱德森](docs/char_v3/extended_char_ai_de_sen.md), [卡夫卡](docs/char_v3/char_214_kafka.md)
 
 ## 2025-09-09 Update
 
@@ -322,7 +429,7 @@
 - [无忧梦呓](docs/stories/act45side.md), [跃动的微光](docs/stories/story_nymph_set_1.md)(妮芙), [只待天明](docs/stories/story_wscoot_set_1.md)(骋风), [气味游戏](docs/stories/story_whitw2_set_1.md)(荒芜拉普兰德), [决斗](docs/stories/story_ashlok_set_1.md)(灰毫)
 
 新角色/更新角色:
-- [丰川祥子](docs/char_v3/char_4182_oblvns.md), [三角初华](docs/char_v3/char_4184_dolris.md), [祐天寺若麦](docs/char_v3/char_4185_amoris.md), [若叶睦](docs/char_v3/char_4183_mortis.md), [八幡海铃](docs/char_v3/char_4186_tmoris.md), [莫菲丝](docs/char_v3/extended_char_mo_fei_si.md), [爱丽丝](docs/char_v3/char_338_iris.md), [贝娜](docs/char_v3/char_369_bena.md), [艾雅法拉](docs/char_v3/char_180_amgoat.md), [空](docs/char_v3/char_101_sora.md), [红豆](docs/char_v3/char_201_moeshd.md), [可颂](docs/char_v3/char_289_croiss.md), [妮芙](docs/char_v3/char_4192_nymph.md)
+- [丰川祥子](docs/char_v3/char_4182_oblvns.md), [三角初华](docs/char_v3/char_4184_dolris.md), [祐天寺若麦](docs/char_v3/char_4185_amoris.md), [若叶睦](docs/char_v3/char_4183_mortis.md), [八幡海铃](docs/char_v3/char_4186_tmoris.md), [莫菲丝](docs/char_v3/extended_char_mo_fei_si.md), [爱丽丝](docs/char_v3/char_338_iris.md), [贝娜](docs/char_v3/char_369_bena.md), [艾雅法拉](docs/char_v3/char_180_amgoat.md), [空](docs/char_v3/char_101_sora.md), [红豆](docs/char_v3/char_290_vigna.md), [可颂](docs/char_v3/char_201_moeshd.md), [妮芙](docs/char_v3/char_4146_nymph.md)
 
 ## 2025-08-02 Update
 
